@@ -1,0 +1,47 @@
+body {
+    font-family: verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-image: url('images/Balancetonporc.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+#celebrite img {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.choix-btn {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: green;
+}
+
+#resultat {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#infos-page {
+    margin-top: 20px;
+    text-align: left;
+}
+
+#infos-texte {
+    white-space: pre-line;
+}

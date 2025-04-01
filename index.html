@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Balance ton choix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div id="explication-page">
+            <h1>Balance ton choix - Contexte</h1>
+
+    <p>Le 3 octobre 2017, la journaliste Sandra Muller a lancé le hashtag <span class="hashtag">#BalanceTonPorc</span>, la version française du mouvement <span class="hashtag">#MeToo</span> qui a déchaîné la presse mondiale suite à l'affaire Harvey Weinstein :</p>
+
+    <blockquote style="font-style: italic;">
+        « #BalanceTonPorc !! toi aussi raconte en donnant le nom et les détails d'un harcèlement sexuel que tu as connu dans ton boulot. Je vous attends. »
+    </blockquote>
+
+    <p>Ce mouvement a libéré la parole de nombreuses victimes et a mis en lumière le comportement prédateur de personnalités publiques (chanteurs, acteurs, producteurs, politiques, sportifs...) qui ont, durant des décennies, agi en toute impunité.</p>
+
+    <p><span class="hashtag">#MeToo</span>, <span class="hashtag">#BalanceTonPorc</span> et tous les mouvements similaires à travers le monde ont balayé ces non-dits et ont permis à bon nombre de victimes de témoigner des horreurs subies.</p>
+
+    <p>Les années passent et les masques tombent. Malheureusement, beaucoup d'affaires sont classées sans suite, des non-lieux sont prononcés, d'autres sont prescrites, etc., et trop peu de condamnations sont actées.</p>
+
+    <p>À travers ce quiz, nous aurons l'occasion de faire un point sur tout ça : qui a été condamné, qui n'a pas été condamné, qui n'a pas d'affaire connue à ce jour.</p>
+
+    <p>Vous aurez également un bref résumé des accusations et des liens qui vous permettront d'en savoir plus.</p>
+
+    <p>Bon quiz et <span class="hashtag">#BalanceTonChoix</span> !</p>
+            <button id="demarrer-quiz">Démarrer le quiz</button>
+        </div>
+        <div id="question-page" style="display: none;">
+            <div id="celebrite">
+                <img id="photo-celebrite" src="" alt="Photo de la célébrité">
+                <h2 id="nom-celebrite"></h2>
+            </div>
+            <div id="choix">
+                <button class="choix-btn" data-choix="condamne">Condamné</button>
+                <button class="choix-btn" data-choix="pas-condamne">Pas condamné</button>
+                <button class="choix-btn" data-choix="aucune-affaire">Aucune affaire connue</button>
+            </div>
+            <div id="resultat"></div>
+        </div>
+
+        <div id="infos-page" style="display: none;">
+            <h2>Au moment de la rédaction :</h2>
+            <p id="infos-texte"></p>
+            <button id="question-suivante">Question suivante</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
