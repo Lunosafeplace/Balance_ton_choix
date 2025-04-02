@@ -170,6 +170,7 @@ body::before {
     text-decoration: none;
     color: #333;
     border-radius: 5px;
+    display: block
 }
 
 #infos-utiles-link:hover {
