@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Balance ton choix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="accueil-page">
+        <h1>#BalanceTonChoix</h1>
+                <p>Le 3 octobre 2017, la journaliste Sandra Muller a lancé le hashtag <span class="hashtag">#BalanceTonPorc</span>, la version française du mouvement <span class="hashtag">#MeToo</span> qui a déchaîné la presse mondiale suite à l'affaire Harvey Weinstein :</p>
+
+                <blockquote style="font-style: italic;">
+                    « #BalanceTonPorc !! toi aussi raconte en donnant le nom et les détails d'un harcèlement sexuel que tu as connu dans ton boulot. Je vous attends. »
+                </blockquote>
+
+                <p>Ce mouvement a libéré la parole de nombreuses victimes et a mis en lumière le comportement prédateur de personnalités publiques (chanteurs, acteurs, producteurs, politiques, sportifs...) qui ont, durant des décennies, agi en toute impunité.</p>
+
+                <p><span class="hashtag">#MeToo</span>, <span class="hashtag">#BalanceTonPorc</span> et tous les mouvements similaires à travers le monde ont balayé ces non-dits et ont permis à bon nombre de victimes de témoigner des horreurs subies.</p>
+
+                <p>Les années passent et les masques tombent. Malheureusement, beaucoup d'affaires sont classées sans suite, des non-lieux sont prononcés, d'autres sont prescrites, etc., et trop peu de condamnations sont actées.</p>
+        <button id="a-z-button">De A à Z</button>
+        <button id="demarrer-jeu">Quiz</button>
+        <a href="infos-utiles.html" id="infos-utiles-link">Infos Utiles</a>    
+    </div>
+    <div id="quiz-page" style="display: none;">
+        <div id="fond-ecran"></div>
+        <div class="container">
+            <div id="explication-page" style="display: none;">
+
+                <p>À travers ce quiz, devinez qui a une(des) affaire(s) connue(s) ou qui, au contraire, ne fait pour l'heure l'objet d'aucune accusation !</p>
+
+                <p>(vous aurez également un bref résumé des accusations et peines éventuelles)</p>
+
+                <p>Bon quiz et <span class="hashtag">#BalanceTonChoix</span> !</p>
+                <button id="demarrer-quiz">Démarrer le quiz</button>
+            </div>
+            <div id="question-page" style="display: none;">
+                <div id="celebrite-choix-container" style="display: flex; align-items: center;">
+                    <div id="celebrite">
+                        <img id="photo-celebrite" src="" alt="Photo de la célébrité">
+                        <h2 id="nom-celebrite"></h2>
+                    </div>
+                    <div id="choix-container">
+                        <button class="choix-btn" data-choix="affaire">Affaire</button>
+                        <button class="choix-btn" data-choix="pas-affaire">Pas affaire</button>
+                    </div>
+                </div>
+                <div id="resultat"></div>
+            </div>
+
+            <div id="infos-page" style="display: none;">
+                <h2>En bref...</h2>
+                <p id="infos-texte"></p>
+                <div id="infos-complementaires"></div>
+                <button id="question-suivante">Question suivante</button>
+                <p id="compteur-consecutives"></p>
+            </div>
+        </div>
+        <a href="index.html" id="retour-accueil-link">Retour à l’accueil</a>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
