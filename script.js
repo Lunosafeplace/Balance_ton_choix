@@ -258,10 +258,10 @@ function ajouterEcouteursEvenements(elements, celebrites, variables) {
 
     if (elements.demarrerJeuBtn) {
         elements.demarrerJeuBtn.addEventListener('click', () => {
-            elements.accueilPage.style.display = 'none';
-            elements.quizPage.style.display = 'block';
-            elements.explicationPage.style.display = 'block';
-            window.location.href = 'quiz-page';
+            elements.accueilPage.style.display = 'none'; // Masquer la page d'accueil
+            elements.quizPage.style.display = 'block'; // Afficher la page quiz
+            elements.explicationPage.style.display = 'block'; // Afficher la page d'explication
+            // Plus besoin de changer l'URL, car le quiz est dans la même page
         });
     }
 }
