@@ -261,7 +261,7 @@ function ajouterEcouteursEvenements(elements, celebrites, variables) {
             elements.accueilPage.style.display = 'none';
             elements.quizPage.style.display = 'block';
             elements.explicationPage.style.display = 'block';
-            window.location.hash = 'quiz-page';
+            window.location.href = 'quiz-page';
         });
     }
 }
