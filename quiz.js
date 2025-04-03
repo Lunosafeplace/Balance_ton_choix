@@ -69,6 +69,9 @@ document.addEventListener('DOMContentLoaded', function() {
             elements.infosPage.style.display = 'none';
 
             if (variables.questionsPosees.length < celebrites.length) {
+                // Mise à jour de l'index et des questions posées
+                variables.indexCelebriteActuelle = choisirQuestionAleatoire(variables.questionsPosees);
+                variables.questionsPosees.push(variables.indexCelebriteActuelle);
                 afficherCelebrite(elements, variables);
             } else {
                 elements.questionPage.innerHTML = 'Oups, tu as vu toutes les célébrités enregistrées à ce jour...';
