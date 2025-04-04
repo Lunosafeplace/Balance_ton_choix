@@ -1,165 +1,106 @@
-/* Styles spécifiques à la page quiz.html */
+#question-page {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
-#quiz-page {
+#celebrite-choix-container {
+    display: flex;
+    align-items: center;
+}
+
+#celebrite {
+    margin-right: 20px;
+}
+
+#celebrite img {
+    max-width: 60%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 30%
+}
+
+#choix-container {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    padding: 30px;
-}
-
-#question-page {
-    text-align: center;
-    margin-bottom: 30px;
-}
-
-#question-page img#photo-celebrite {
-    max-width: 200px;
-    height: auto;
-    border-radius: 5px;
-    margin-bottom: 15px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-}
-
-#question-page h2#nom-celebrite {
-    font-size: 1.5em;
-    color: #333;
-    margin-bottom: 20px;
-}
-
-.options {
-    display: flex;
-    gap: 20px;
-}
-
-.choix-btn {
-    padding: 12px 25px;
-    font-size: 1em;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-.choix-btn[data-choix="affaire"] {
-    background-color: #dc3545; /* Rouge */
-    color: white;
-}
-
-.choix-btn[data-choix="affaire"]:hover {
-    background-color: #c82333;
-}
-
-.choix-btn[data-choix="pas-affaire"] {
-    background-color: #28a745; /* Vert */
-    color: white;
-}
-
-.choix-btn[data-choix="pas-affaire"]:hover {
-    background-color: #218838;
-}
-
-#infos-page.celebrities-infos-page {
-    text-align: center;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 20px;
-    margin-top: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-#infos-page #infos-texte {
-    font-weight: bold;
-    margin-bottom: 10px;
-    color: #333;
-}
-
-#infos-page #infos-complementaires {
-    margin-bottom: 15px;
-    color: #555;
-}
-
-#infos-page button#question-suivante-infos {
-    padding: 10px 20px;
-    font-size: 1em;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-#infos-page button#question-suivante-infos:hover {
-    background-color: #0056b3;
+    width: 50%;
 }
 
 #resultat {
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#accueil-page {
     text-align: center;
+    padding: 20px;
+    border-radius: 8px;
 }
 
-#resultat h2 {
+#accueil-page h1 {
     color: #333;
-    margin-bottom: 15px;
 }
 
-#resultat p#score {
-    font-size: 1.2em;
-    font-weight: bold;
-    color: #28a745;
+#accueil-page p {
+    color: #666;
     margin-bottom: 20px;
 }
 
-#resultat button#rejouer-quiz,
-#resultat a {
+/* Styles pour les boutons de la page d'accueil */
+#accueil-page button {
     padding: 10px 20px;
-    font-size: 1em;
-    background-color: #6c757d;
-    color: white;
+    font-size: 20px;
     border: none;
-    border-radius: 5px;
+    border: 3px solid darkblue;
+    border-radius: 50px; /* Forme de nuage arrondi */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), /* Ombre générale */
+            0 0 15px 5px rgba(0, 128, 0, 0.4) inset; /* Ombre ronde intérieure */
     cursor: pointer;
-    text-decoration: none;
-    margin: 5px;
-    display: inline-block;
+    margin: 10px;
     transition: background-color 0.3s ease;
 }
 
-#resultat button#rejouer-quiz:hover,
-#resultat a:hover {
-    background-color: #5a6268;
+#accueil-page button:hover {
+    transform: translateY(-5px);
 }
 
-#explication-page {
-    text-align: center;
-    padding: 30px;
-}
-
-#explication-page h2 {
-    color: #333;
-    margin-bottom: 15px;
-}
-
-#explication-page p {
-    line-height: 1.6;
-    color: #555;
-    margin-bottom: 20px;
-}
-
-#explication-page button#demarrer-quiz,
-#explication-page a {
-    padding: 12px 25px;
-    font-size: 1em;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    border-radius: 5px;
+/* Styles pour les boutons du quiz */
+#demarrer-quiz, #question-suivante {
+    position: relative;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 3px solid dark;
+    border-radius: 50px; /* Forme de nuage arrondi */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), /* Ombre générale */
+            0 0 15px 5px rgba(0, 128, 0, 0.4) inset; /* Ombre ronde intérieure */
     cursor: pointer;
-    text-decoration: none;
-    margin: 5px;
-    display: inline-block;
-    transition: background-color 0.3s ease;
+    margin: 10px;
+    transition: transform 0.3s ease;
 }
 
+#demarrer-quiz:hover, #question-suivante:hover {
+    transform: translateY(-5px); /* Légère translation vers le haut au survol */
+}
+
+.choix-btn {
+    position: relative;
+    padding: 20px 40px;
+    font-size: 30px;
+    border: 3px solid darkred;
+    border-radius: 50px; /* Forme de nuage arrondi */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), /* Ombre générale */
+            0 0 15px 5px rgba(0, 128, 0, 0.4) inset; /* Ombre ronde intérieure */
+    cursor: pointer;
+    margin: 10px;
+    transition: transform 0.3s ease;
+}
+
+.choix-btn:hover {
+    transform: translateY(-5px); /* Légère translation vers le haut au survol */
+    background-color: darkgreen;
+}
 #explication-page button#demarrer-quiz:hover,
 #explication-page a:hover {
     background-color: #0056b3;
