@@ -6,15 +6,12 @@ document.addEventListener('DOMContentLoaded', function() {
     if (window.location.pathname.endsWith('celebrities.html')) {
         const celebritiesList = document.getElementById('celebrities-list');
         const rechercheCelebrite = document.getElementById('recherche-celebrite');
-        const infosPage = document.getElementById('infos-page');
-        const infosTexte = document.getElementById('infos-texte');
-        const infosComplementaires = document.getElementById('infos-complementaires');
 
         if (celebritiesList) {
             // Tri des célébrités par nom
             celebrites.sort((a, b) => a.nom.localeCompare(b.nom));
 
-            function afficherInfosCelebrite(celebrity, event) {
+            function afficherInfosCelebrite(infosPage, infosTexte, infosComplementaires, celebrity, event) {
                 infosTexte.textContent = celebrity.infosSupplementaires;
                 infosComplementaires.innerHTML = "";
 
@@ -24,11 +21,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 infosPage.style.display = 'block';
             }
 
-            function masquerInfosCelebrite() {
+            function masquerInfosCelebrite(infosPage) {
                 infosPage.style.display = 'none';
             }
 
-            function creerCelebrityDiv(celebrity) {
+            function creerCelebrityDiv(celebrity, infosPage, infosTexte, infosComplementaires) {
                 const celebrityDiv = document.createElement('div');
                 celebrityDiv.classList.add('celebrity');
                 celebrityDiv.innerHTML = `
@@ -37,28 +34,30 @@ document.addEventListener('DOMContentLoaded', function() {
                 `;
                 const celebrityPhoto = celebrityDiv.querySelector('.celebrity-photo');
                 celebrityPhoto.addEventListener('mouseover', (event) => {
-                    afficherInfosCelebrite(celebrity, event);
+                    afficherInfosCelebrite(infosPage, infosTexte, infosComplementaires, celebrity, event);
                 });
-                celebrityPhoto.addEventListener('mouseout', masquerInfosCelebrite);
+                celebrityPhoto.addEventListener('mouseout', () => {
+                    masquerInfosCelebrite(infosPage);
+                });
                 return celebrityDiv;
             }
 
-            function afficherCelebrities(celebrities) {
+            function afficherCelebrities(celebrities, infosPage, infosTexte, infosComplementaires) {
                 celebritiesList.innerHTML = '';
                 celebrities.forEach(celebrity => {
-                    const celebrityDiv = creerCelebrityDiv(celebrity);
+                    const celebrityDiv = creerCelebrityDiv(celebrity, infosPage, infosTexte, infosComplementaires);
                     celebritiesList.appendChild(celebrityDiv);
                 });
             }
 
-            function filtrerCelebrities(texteRecherche) {
+            function filtrerCelebrities(texteRecherche, infosPage, infosTexte, infosComplementaires) {
                 const celebritiesFiltrees = celebrites.filter(celebrity =>
                     celebrity.nom.toLowerCase().includes(texteRecherche.toLowerCase())
                 );
 
                 celebritiesList.innerHTML = '';
                 celebritiesFiltrees.forEach(celebrity => {
-                    const celebrityDiv = creerCelebrityDiv(celebrity);
+                    const celebrityDiv = creerCelebrityDiv(celebrity, infosPage, infosTexte, infosComplementaires);
                     celebritiesList.appendChild(celebrityDiv);
                 });
 
@@ -69,12 +68,17 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
             }
 
+            // Récupérer les éléments infosPage, infosTexte et infosComplementaires ici
+            const infosPageElement = document.getElementById('infos-page');
+            const infosTexteElement = document.getElementById('infos-texte');
+            const infosComplementairesElement = document.getElementById('infos-complementaires');
+
             rechercheCelebrite.addEventListener('input', () => {
-                filtrerCelebrities(rechercheCelebrite.value);
+                filtrerCelebrities(rechercheCelebrite.value, infosPageElement, infosTexteElement, infosComplementairesElement);
             });
 
             // Appel initial pour afficher toutes les célébrités
-            afficherCelebrities(celebrites);
+            afficherCelebrities(celebrites, infosPageElement, infosTexteElement, infosComplementairesElement);
 
         } else {
             console.error("L'élément celebrities-list n'a pas été trouvé.");
