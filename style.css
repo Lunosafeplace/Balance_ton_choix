@@ -108,7 +108,7 @@ body::before {
     position: relative;
     padding: 10px 20px;
     font-size: 20px;
-    border: 3px solid dark; /* Utilise la même bordure que #demarrer-quiz */
+    border: 3px solid darkgreen; /* Utilise la même bordure que #demarrer-quiz */
     border-radius: 50px; /* Forme de nuage arrondi */
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), /* Ombre générale */
                 0 0 15px 5px rgba(0, 128, 0, 0.4) inset; /* Ombre ronde intérieure */
@@ -123,6 +123,11 @@ body::before {
 .top-links button:hover,
 .top-links a:hover {
     transform: translateY(-5px); /* Légère translation vers le haut au survol */
+}
+
+/* Ajout spécifique de la bordure pour les liens dans .top-links */
+.top-links a {
+    border: 3px solid darkgreen; /* Ajout de la bordure pour les liens */
 }
 
 /* Suppression des styles spécifiques des boutons d'accueil pour éviter les conflits */
