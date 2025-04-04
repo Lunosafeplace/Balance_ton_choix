@@ -14,6 +14,20 @@ document.addEventListener('DOMContentLoaded', function() {
             // Tri des célébrités par nom
             celebrites.sort((a, b) => a.nom.localeCompare(b.nom));
 
+            function afficherInfosCelebrite(celebrity, event) {
+                infosTexte.textContent = celebrity.infosSupplementaires;
+                infosComplementaires.innerHTML = "";
+
+                infosPage.style.position = 'absolute';
+                infosPage.style.left = event.pageX + 10 + 'px';
+                infosPage.style.top = event.pageY + 10 + 'px';
+                infosPage.style.display = 'block';
+            }
+
+            function masquerInfosCelebrite() {
+                infosPage.style.display = 'none';
+            }
+
             function creerCelebrityDiv(celebrity) {
                 const celebrityDiv = document.createElement('div');
                 celebrityDiv.classList.add('celebrity');
@@ -62,19 +76,6 @@ document.addEventListener('DOMContentLoaded', function() {
             // Appel initial pour afficher toutes les célébrités
             afficherCelebrities(celebrites);
 
-            function afficherInfosCelebrite(celebrity, event) {
-                infosTexte.textContent = celebrity.infosSupplementaires;
-                infosComplementaires.innerHTML = "";
-
-                infosPage.style.position = 'absolute';
-                infosPage.style.left = event.pageX + 10 + 'px';
-                infosPage.style.top = event.pageY + 10 + 'px';
-                infosPage.style.display = 'block';
-            }
-
-            function masquerInfosCelebrite() {
-                infosPage.style.display = 'none';
-            }
         } else {
             console.error("L'élément celebrities-list n'a pas été trouvé.");
         }
