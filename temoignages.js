@@ -1,37 +1,44 @@
 document.addEventListener('DOMContentLoaded', function() {
+    const openFormButton = document.querySelector('.open-form-button');
+    const slidingFormContainer = document.querySelector('.sliding-form-container');
+    const closeButton = document.querySelector('.close-button');
     const temoignageForm = document.getElementById('temoignageForm');
     const plainteDeposeeSelect = document.getElementById('plainteDeposee');
     const aboutieSection = document.getElementById('aboutieSection');
     const confirmationMessage = document.getElementById('confirmationMessage');
 
-    // Afficher/cacher la section "Si oui, a-t'elle abouti ?" en fonction de la réponse à "Une plainte a-t'elle déposée ?"
-    plainteDeposeeSelect.addEventListener('change', function() {
-        if (this.value === 'oui') {
-            aboutieSection.style.display = 'block';
-        } else {
-            aboutieSection.style.display = 'none';
-        }
+    openFormButton.addEventListener('click', function() {
+        slidingFormContainer.classList.add('open');
     });
 
-    // Gestion de la soumission du formulaire
-    temoignageForm.addEventListener('submit', function(event) {
-        event.preventDefault(); // Empêche la soumission par défaut
+    closeButton.addEventListener('click', function() {
+        slidingFormContainer.classList.remove('open');
+    });
 
-        // Récupérer les données du formulaire
+    plainteDeposeeSelect.addEventListener('change', function() {
+        aboutieSection.style.display = this.value === 'oui' ? 'block' : 'none';
+    });
+
+    temoignageForm.addEventListener('submit', function(event) {
+        event.preventDefault();
+
         const formData = new FormData(temoignageForm);
         const temoignageData = {};
         formData.forEach((value, key) => {
             temoignageData[key] = value;
         });
 
-        // Ici, vous devriez envoyer les données du témoignage à votre serveur
-        // pour les sauvegarder dans une base de données ou un autre système de stockage.
-        // Pour cet exemple, nous allons simplement afficher un message de confirmation.
-
         console.log("Données du témoignage:", temoignageData);
 
-        // Afficher le message de confirmation
-        temoignageForm.style.display = 'none'; // Cacher le formulaire
+        temoignageForm.style.display = 'none';
         confirmationMessage.style.display = 'block';
+
+        // Optionnel: Fermer l'onglet après la soumission
+        // setTimeout(() => {
+        //     slidingFormContainer.classList.remove('open');
+        //     temoignageForm.reset(); // Réinitialiser le formulaire
+        //     temoignageForm.style.display = 'block';
+        //     confirmationMessage.style.display = 'none';
+        // }, 3000);
     });
 });
