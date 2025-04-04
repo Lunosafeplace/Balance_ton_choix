@@ -1,51 +1,37 @@
-/* Styles spécifiques à la page celebrities.html */
-
 #celebrities-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
     gap: 20px;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 .celebrity {
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 10px;
-    text-align: center;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    transition: opacity 0.3s ease;
+    width: 200px;
+}
+
+.filtered-out {
+    display: none; /* Masquer l'élément en le supprimant du flux */
+}
+
+.celebrity img {
+    width: 150px;
+    max-width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 10px;
 }
 
 .celebrity-photo {
-    width: 100%;
+    cursor: pointer;
+    max-width: 100%;
     height: auto;
-    border-radius: 5px;
-    margin-bottom: 10px;
-    display: block;
-    object-fit: cover; /* Pour éviter la déformation de l'image */
 }
 
-.celebrity h3 {
-    margin-top: 0;
-    font-size: 1.1em;
-    color: #333;
-}
-
-#infos-page.celebrities-infos-page {
-    /* Les styles de base sont déjà en ligne pour un affichage initial,
-       mais vous pouvez les compléter ou les surcharger ici si nécessaire */
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 15px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    z-index: 10; /* Pour s'assurer qu'elle est au-dessus des autres éléments */
-}
-
-#infos-texte {
-    margin-bottom: 10px;
-    color: #555;
-}
-
-#infos-complementaires {
-    font-size: 0.9em;
-    color: #777;
+#infos-page {
+    padding: 10px;
+    position: center;
+    display: none;
 }
