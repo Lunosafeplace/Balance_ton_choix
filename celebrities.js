@@ -1,4 +1,3 @@
-// celebrities.js
 import celebrites from './data.js';
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -15,22 +14,26 @@ document.addEventListener('DOMContentLoaded', function() {
             // Tri des célébrités par nom
             celebrites.sort((a, b) => a.nom.localeCompare(b.nom));
 
+            function creerCelebrityDiv(celebrity) {
+                const celebrityDiv = document.createElement('div');
+                celebrityDiv.classList.add('celebrity');
+                celebrityDiv.innerHTML = `
+                    <img src="${celebrity.photo}" alt="${celebrity.nom}" class="celebrity-photo">
+                    <h3>${celebrity.nom}</h3>
+                `;
+                const celebrityPhoto = celebrityDiv.querySelector('.celebrity-photo');
+                celebrityPhoto.addEventListener('mouseover', (event) => {
+                    afficherInfosCelebrite(celebrity, event);
+                });
+                celebrityPhoto.addEventListener('mouseout', masquerInfosCelebrite);
+                return celebrityDiv;
+            }
+
             function afficherCelebrities(celebrities) {
                 celebritiesList.innerHTML = '';
                 celebrities.forEach(celebrity => {
-                    const celebrityDiv = document.createElement('div');
-                    celebrityDiv.classList.add('celebrity');
-                    celebrityDiv.innerHTML = `
-                        <img src="${celebrity.photo}" alt="${celebrity.nom}" class="celebrity-photo">
-                        <h3>${celebrity.nom}</h3>
-                    `;
+                    const celebrityDiv = creerCelebrityDiv(celebrity);
                     celebritiesList.appendChild(celebrityDiv);
-
-                    const celebrityPhoto = celebrityDiv.querySelector('.celebrity-photo');
-                    celebrityPhoto.addEventListener('mouseover', (event) => {
-                        afficherInfosCelebrite(celebrity, event);
-                    });
-                    celebrityPhoto.addEventListener('mouseout', masquerInfosCelebrite);
                 });
             }
 
@@ -40,17 +43,12 @@ document.addEventListener('DOMContentLoaded', function() {
                 );
 
                 celebritiesList.innerHTML = '';
-
                 celebritiesFiltrees.forEach(celebrity => {
-                    const celebrityDiv = document.createElement('div');
-                    celebrityDiv.classList.add('celebrity');
-                    celebrityDiv.innerHTML = `
-                        <img src="${celebrity.photo}" alt="${celebrity.nom}" class="celebrity-photo">
-                        <h3>${celebrity.nom}</h3>
-                    `;
+                    const celebrityDiv = creerCelebrityDiv(celebrity);
                     celebritiesList.appendChild(celebrityDiv);
                 });
 
+                // Optionnel: réordonner les éléments après le filtrage (si nécessaire)
                 const celebrityDivs = celebritiesList.querySelectorAll('.celebrity');
                 celebrityDivs.forEach((div, index) => {
                     div.style.order = index;
