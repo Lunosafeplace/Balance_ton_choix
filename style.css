@@ -1,3 +1,5 @@
+/* style.css - Styles communs et spécifiques à la page d'accueil (index.html) */
+
 body {
     font-family: verdana, sans-serif;
     display: flex;
@@ -92,4 +94,38 @@ body::before {
     border-radius: 20px;
     font-size: 16px;
     border: 1px solid #ccc;
+}
+
+/* Styles pour les boutons de navigation en haut à droite */
+.top-links {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.top-links button,
+.top-links a {
+    position: relative;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 3px solid dark; /* Utilise la même bordure que #demarrer-quiz */
+    border-radius: 50px; /* Forme de nuage arrondi */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), /* Ombre générale */
+                0 0 15px 5px rgba(0, 128, 0, 0.4) inset; /* Ombre ronde intérieure */
+    cursor: pointer;
+    margin-left: 10px; /* Espacement entre les boutons */
+    text-decoration: none;
+    color: inherit; /* Hérite de la couleur du texte parent (pour les liens) */
+    transition: transform 0.3s ease;
+    background-color: transparent; /* Fond transparent pour laisser apparaître la couleur du body */
+}
+
+.top-links button:hover,
+.top-links a:hover {
+    transform: translateY(-5px); /* Légère translation vers le haut au survol */
+}
+
+/* Suppression des styles spécifiques des boutons d'accueil pour éviter les conflits */
+#accueil-page button {
+    /* Les styles spécifiques aux boutons d'accueil ont été supprimés ici */
 }
