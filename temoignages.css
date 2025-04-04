@@ -1,7 +1,7 @@
 /* Styles pour le bouton d'ouverture de l'onglet */
 .open-form-button {
     position: absolute;
-    top: 10px;
+    top: 20px; /* Descend le bouton de 10px */
     right: 10px;
     padding: 10px 20px;
     font-size: 20px;
@@ -20,10 +20,59 @@
     transform: translateY(-5px); /* Effet de survol */
 }
 
-/* Styles pour l'onglet coulissant (inchangés) */
+/* Styles pour l'onglet coulissant */
 .sliding-form-container {
     position: fixed;
-    top: 0;
+    top: 10px; /* Descend l'onglet de 10px */
+    right: -400px; /* Initialement hors de l'écran */
+    width: 400px;
+    height: calc(100% - 20px); /* Ajuste la hauteur pour correspondre au déplacement du top */
+    background-color: #e0eafc; /* Bleu très clair */
+    box-shadow: -5px 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    box-sizing: border-box;
+    transition: right 0.3s ease-in-out;
+    z-index: 1;
+    overflow-y: auto; /* Pour le défilement si le contenu est long */
+    border-radius: 8px; /* Bords légèrement arrondis pour l'onglet */
+    background-image: linear-gradient(to bottom, #e0eafc, #cdddfa); /* Effet "nuageux" léger */
+}
+.sliding-form-container.open {
+    right: 0;
+}
+.sliding-form-container h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.sliding-form-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+.sliding-form-container textarea,
+.sliding-form-container input[type="text"],
+.sliding-form-container input[type="number"],
+.sliding-form-container select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px; /* Bords légèrement arrondis pour les inputs */
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.sliding-form-container textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+.sliding-form-container button[type="submit"] {
+    background-color: darkblue; /* Fond bleu foncé */
+    color: white;
+    padding: 12px 20px;
     right: -400px; /* Initialement hors de l'écran */
     width: 400px;
     height: 100%;
