@@ -1,0 +1,104 @@
+/* Styles pour le bouton d'ouverture de l'onglet */
+.open-form-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    z-index: 2; /* Pour être au-dessus de l'onglet */
+}
+.open-form-button:hover {
+    background-color: #0056b3;
+}
+
+/* Styles pour l'onglet coulissant */
+.sliding-form-container {
+    position: fixed;
+    top: 0;
+    right: -400px; /* Initialement hors de l'écran */
+    width: 400px;
+    height: 100%;
+    background-color: #f9f9f9;
+    box-shadow: -5px 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    box-sizing: border-box;
+    transition: right 0.3s ease-in-out;
+    z-index: 1;
+    overflow-y: auto; /* Pour le défilement si le contenu est long */
+}
+.sliding-form-container.open {
+    right: 0;
+}
+.sliding-form-container h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.sliding-form-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+.sliding-form-container textarea,
+.sliding-form-container input[type="text"],
+.sliding-form-container input[type="number"],
+.sliding-form-container select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.sliding-form-container textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+.sliding-form-container button[type="submit"] {
+    background-color: #5cb85c;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.sliding-form-container button[type="submit"]:hover {
+    background-color: #4cae4c;
+}
+.close-button {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: #777;
+}
+.close-button:hover {
+    color: #333;
+}
+.confirmation-message {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #dff0d8;
+    color: #3c763d;
+    border: 1px solid #d6e9c6;
+    border-radius: 4px;
+    display: none; /* Caché par défaut */
+    text-align: center;
+}
