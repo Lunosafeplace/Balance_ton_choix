@@ -3,20 +3,24 @@
     position: absolute;
     top: 10px;
     right: 10px;
-    background-color: #007bff;
-    color: white;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 3px solid dark; /* Même bordure que les autres boutons */
+    border-radius: 50px; /* Forme de nuage arrondi */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), /* Ombre générale */
+                0 0 15px 5px rgba(0, 128, 0, 0.4) inset; /* Ombre ronde intérieure */
     cursor: pointer;
-    font-size: 16px;
     z-index: 2; /* Pour être au-dessus de l'onglet */
+    transition: transform 0.3s ease;
+    background-color: transparent; /* Fond transparent */
+    color: inherit; /* Hérite de la couleur du texte */
+    text-decoration: none; /* Pour éviter le soulignement si c'est un lien (bien que ce soit un bouton ici) */
 }
 .open-form-button:hover {
-    background-color: #0056b3;
+    transform: translateY(-5px); /* Effet de survol */
 }
 
-/* Styles pour l'onglet coulissant */
+/* Styles pour l'onglet coulissant (inchangés) */
 .sliding-form-container {
     position: fixed;
     top: 0;
