@@ -5,8 +5,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Balance ton choix</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        .top-links {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+
+        .top-links button, .top-links a {
+            margin-right: 10px;
+        }
+
+        #accueil-page {
+            text-align: center;
+            padding: 50px;
+            /* Ajustez la marge haute pour ne pas masquer les liens */
+            margin-top: 60px;
+        }
+        /* Conservez les autres styles de #accueil-page */
+    </style>
 </head>
 <body>
+    <div class="top-links">
+        <button id="a-z-button">De A à Z</button>
+        <button id="demarrer-jeu">Quiz</button>
+        <a href="temoignages.html" class="button">Témoignages</a>
+    </div>
     <div id="accueil-page">
         <h1>#BalanceTonChoix</h1>
         <p>Le 3 octobre 2017, la journaliste Sandra Muller a lancé le hashtag <span class="hashtag">#BalanceTonPorc</span>, la version française du mouvement <span class="hashtag">#MeToo</span> qui a déchaîné la presse mondiale suite à l'affaire Harvey Weinstein :</p>
@@ -16,8 +40,6 @@
         <p>Ce mouvement a libéré la parole de nombreuses victimes et a mis en lumière le comportement prédateur de personnalités publiques (chanteurs, acteurs, producteurs, politiques, sportifs...) qui ont, durant des décennies, agi en toute impunité.</p>
         <p><span class="hashtag">#MeToo</span>, <span class="hashtag">#BalanceTonPorc</span> et tous les mouvements similaires à travers le monde ont balayé ces non-dits et ont permis à bon nombre de victimes de témoigner des horreurs subies.</p>
         <p>Les années passent et les masques tombent. Malheureusement, beaucoup d'affaires sont classées sans suite, des non-lieux sont prononcés, d'autres sont prescrites, etc., et trop peu de condamnations sont actées.</p>
-        <button id="a-z-button">De A à Z</button>
-        <button id="demarrer-jeu">Quiz</button>
         <a href="infos-utiles.html" id="infos-utiles-link">Infos Utiles</a>
     </div>
     <script src="script.js"></script>
