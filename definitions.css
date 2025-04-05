@@ -1,0 +1,44 @@
+/* definitions.css */
+
+#definitions-list {
+    /* Styles existants pour la liste principale si vous en avez */
+}
+
+.definition-group {
+    margin-bottom: 2em; /* Espace entre les groupes de lettres (A, C, D, etc.) */
+}
+
+.definition-group h3 {
+    margin-top: 0; /* Supprime l'espace au-dessus du titre de la lettre */
+    margin-bottom: 1em; /* Espace sous le titre de la lettre */
+}
+
+.definition-group dl {
+    /* Vous pouvez ajouter des styles pour la liste de définitions ici si nécessaire */
+}
+
+.definition-group dt {
+    font-weight: bold; /* Met le terme en gras */
+    margin-bottom: 0.3em; /* Petit espace sous le terme */
+    margin-top: 0.8em; /* Petit espace au-dessus du terme pour séparer les définitions */
+}
+
+.definition-group dd {
+    margin-left: 0; /* Supprime l'indentation par défaut de dd */
+    margin-bottom: 1em; /* Espace sous la définition (c'est ce qui crée l'écart entre les définitions) */
+}
+
+/* Style pour le lien de retour à l'accueil */
+#retour-accueil-link {
+    display: block; /* Pour que le margin-top fonctionne correctement */
+    margin-top: 3em; /* Espace au-dessus du lien */
+    text-align: center; /* Centre le lien (facultatif) */
+    /* Autres styles pour le lien si vous en avez */
+}
+
+footer {
+    margin-top: 3em; /* Espace au-dessus du footer si vous en avez */
+    padding-bottom: 50px; /* Ajoute de l'espace en bas du footer */
+    text-align: center; /* Centre le contenu du footer si vous en avez */
+    /* Autres styles pour le footer */
+}
