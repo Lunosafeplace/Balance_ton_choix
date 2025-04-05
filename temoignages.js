@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
             temoignageData[key] = value;
         });
 
-        const googleAppsScriptUrl = 'https://script.google.com/macros/s/AKfycbwMk-C6_ECrkhlzFAhZ68_LJA8TnG-YJ3zAbYOguJhNNp3cjk-XyeSV3PGZjBjqPOL1/exec'; // Remplacez par l'URL que vous avez copiée
+        const googleAppsScriptUrl = 'https://script.google.com/macros/s/AKfycbx2_qUlWEEjz0-4fD-MEwZSrpYtRxm9KPUPhIrxmMLpoakpsaZ9nkTvyudZRyZNKcxZ/exec'; // Remplacez par l'URL que vous avez copiée
 
         fetch(googleAppsScriptUrl, {
             method: 'POST',
@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     function fetchTemoignages() {
-        const googleAppsScriptUrl = 'https://script.google.com/macros/s/AKfycbwMk-C6_ECrkhlzFAhZ68_LJA8TnG-YJ3zAbYOguJhNNp3cjk-XyeSV3PGZjBjqPOL1/exec'; // Remplacez par l'URL que vous avez copiée
+        const googleAppsScriptUrl = 'https://script.google.com/macros/s/AKfycbx2_qUlWEEjz0-4fD-MEwZSrpYtRxm9KPUPhIrxmMLpoakpsaZ9nkTvyudZRyZNKcxZ/exec'; // Remplacez par l'URL que vous avez copiée
 
         fetch(googleAppsScriptUrl)
             .then(response => response.json())
