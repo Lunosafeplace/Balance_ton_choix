@@ -5,12 +5,10 @@ document.addEventListener('DOMContentLoaded', function() {
     const temoignageForm = document.getElementById('temoignageForm');
     const plainteDeposeeSelect = document.getElementById('plainteDeposee');
     const aboutieSection = document.getElementById('aboutieSection');
-    const confirmationMessage = document.getElementById('confirmationMessage');
-    const testimonialsList = document.getElementById('testimonials-list');
 
     openFormButton.addEventListener('click', function() {
         slidingFormContainer.classList.add('open');
-        fetchTemoignages(); // Charger les témoignages quand l'onglet s'ouvre
+        // fetchTemoignages(); // Ne plus charger les témoignages depuis Apps Script
     });
 
     closeButton.addEventListener('click', function() {
@@ -24,73 +22,24 @@ document.addEventListener('DOMContentLoaded', function() {
     temoignageForm.addEventListener('submit', function(event) {
         event.preventDefault();
 
+        const recipientEmail = 'balancetonchoix@yahoo.com';
+        const subject = 'Dépôt de témoignage';
+        let body = '';
+
         const formData = new FormData(temoignageForm);
-        const temoignageData = {};
         formData.forEach((value, key) => {
-            temoignageData[key] = value;
+            body += `${key}: ${value}\n`;
         });
 
-        const googleAppsScriptUrl = 'https://script.google.com/macros/s/AKfycbwWmnaKTDCHCvwObFJXsmS8ssD7CIZ49bGH86_FrXtWOYnsNHiHUiD6a6uSQGKQ7x84/exec'; // Remplacez par l'URL que vous avez copiée
+        const mailtoUrl = `mailto:${recipientEmail}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
-        fetch(googleAppsScriptUrl, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify(temoignageData),
-        })
-        .then(response => response.json())
-        .then(data => {
-            console.log('Succès:', data);
-            confirmationMessage.style.display = 'block';
-            setTimeout(() => {
-                slidingFormContainer.classList.remove('open');
-                temoignageForm.reset();
-                temoignageForm.style.display = 'block';
-                confirmationMessage.style.display = 'none';
-                fetchTemoignages(); // Recharger la liste après la soumission
-            }, 3000);
-        })
-        .catch((error) => {
-            console.error('Erreur:', error);
-            alert('Une erreur est survenue lors de la soumission.');
-        });
+        window.location.href = mailtoUrl;
+
+        alert('Votre témoignage va être envoyé par e-mail.');
+        slidingFormContainer.classList.remove('open');
+        temoignageForm.reset();
     });
 
-    function fetchTemoignages() {
-        const googleAppsScriptUrl = 'https://script.google.com/macros/s/AKfycbwWmnaKTDCHCvwObFJXsmS8ssD7CIZ49bGH86_FrXtWOYnsNHiHUiD6a6uSQGKQ7x84/exec'; // Remplacez par l'URL que vous avez copiée
-
-        fetch(googleAppsScriptUrl)
-            .then(response => response.json())
-            .then(temoignages => {
-                testimonialsList.innerHTML = ''; // Effacer la liste actuelle
-                temoignages.forEach(temoignage => {
-                    const temoignageDiv = document.createElement('div');
-                    temoignageDiv.classList.add('temoignage');
-                    let temoignageHTML = `<p>`;
-                    if (temoignage.prenomOuPseudo) {
-                        temoignageHTML += `<strong>${temoignage.prenomOuPseudo}</strong> a vécu :<br>`;
-                    } else {
-                        temoignageHTML += `Une personne a vécu :<br>`;
-                    }
-                    temoignageHTML += `"${temoignage.ceQueJaiVecu}"</p>`;
-                    if (temoignage.ageAuMomentDesFaits) {
-                        temoignageHTML += `<p>Âge au moment des faits : ${temoignage.ageAuMomentDesFaits} ans</p>`;
-                    }
-                    if (temoignage.plainteDeposee) {
-                        const plainteText = temoignage.plainteDeposee === 'oui' ? 'Oui' : 'Non';
-                        temoignageHTML += `<p>Plainte déposée : ${plainteText}</p>`;
-                        if (temoignage.plainteDeposee === 'oui' && temoignage.plainteAboutie) {
-                            temoignageHTML += `<p>Plainte aboutie : ${temoignage.plainteAboutie}</p>`;
-                        }
-                    }
-                    temoignageHTML += `<p class="date-soumission">Soumis le : ${new Date(temoignage.timestamp).toLocaleDateString()}</p><hr>`;
-                    temoignageDiv.innerHTML = temoignageHTML;
-                    testimonialsList.prepend(temoignageDiv);
-                });
-            });
-    }
-
-    // Charger les témoignages au chargement initial de la page (si l'onglet est visible)
-    fetchTemoignages();
+    // Ne plus appeler fetchTemoignages au chargement initial
+    // fetchTemoignages();
 });
