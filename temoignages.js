@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
             temoignageData[key] = value;
         });
 
-        const googleAppsScriptUrl = 'VOTRE_URL_APPS_SCRIPT_ICI'; // Remplacez par l'URL que vous avez copiée
+        const googleAppsScriptUrl = 'https://script.google.com/macros/s/AKfycbwiwwXkEZp805eDCNBk6ELvxof6hvxxk30DG-G2T-g/dev'; // Remplacez par l'URL que vous avez copiée
 
         fetch(googleAppsScriptUrl, {
             method: 'POST',
