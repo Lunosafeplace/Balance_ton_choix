@@ -14,12 +14,26 @@
 
         .top-links button, .top-links a {
             margin-right: 10px;
+            padding: 10px 20px; /* Ajoutez du padding pour que le lien ressemble à un bouton */
+            font-size: 20px; /* Conservez la taille de police */
+            border: 3px solid darkgreen; /* Conservez la bordure */
+            border-radius: 50px; /* Conservez le rayon de bordure */
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4),
+                        0 0 15px 5px rgba(0, 128, 0, 0.4) inset; /* Conservez l'ombre */
+            cursor: pointer;
+            text-decoration: none; /* Supprime le soulignement par défaut des liens */
+            color: inherit; /* Hérite de la couleur du texte parent */
+            transition: transform 0.3s ease;
+            background-color: transparent;
+        }
+
+        .top-links button:hover, .top-links a:hover {
+            transform: translateY(-5px);
         }
 
         #accueil-page {
             text-align: center;
             padding: 50px;
-            /* Ajustez la marge haute pour ne pas masquer les liens */
             margin-top: 60px;
         }
         /* Conservez les autres styles de #accueil-page */
@@ -30,7 +44,7 @@
         <button id="a-z-button">De A à Z</button>
         <button id="demarrer-jeu">Quiz</button>
         <button id="temoignages-button" class="button">Témoignages</button>
-        <a href="definitions-button" id="definitions-button">Définitions</button>
+        <a href="definitions.html" id="definitions-button" class="button">Définitions</a>
     </div>
     <div id="accueil-page">
         <h1>#BalanceTonChoix</h1>
