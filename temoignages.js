@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     openFormButton.addEventListener('click', function() {
         slidingFormContainer.classList.add('open');
+        fetchTemoignages(); // Charger les témoignages quand l'onglet s'ouvre
     });
 
     closeButton.addEventListener('click', function() {
@@ -29,51 +30,67 @@ document.addEventListener('DOMContentLoaded', function() {
             temoignageData[key] = value;
         });
 
-        console.log("Données du témoignage:", temoignageData);
+        const googleAppsScriptUrl = 'VOTRE_URL_APPS_SCRIPT_ICI'; // Remplacez par l'URL que vous avez copiée
 
-        // Créer l'élément HTML pour afficher le témoignage
-        const temoignageDiv = document.createElement('div');
-        temoignageDiv.classList.add('temoignage');
-        let temoignageHTML = `<p>`;
-        if (temoignageData.prenomOuPseudo) {
-            temoignageHTML += `<strong>${temoignageData.prenomOuPseudo}</strong> a vécu :<br>`;
-        } else {
-            temoignageHTML += `Une personne a vécu :<br>`;
-        }
-        temoignageHTML += `"${temoignageData.ceQueJaiVecu}"</p>`;
-        if (temoignageData.ageAuMomentDesFaits) {
-            temoignageHTML += `<p>Âge au moment des faits : ${temoignageData.ageAuMomentDesFaits} ans</p>`;
-        }
-        if (temoignageData.plainteDeposee) {
-            const plainteText = temoignageData.plainteDeposee === 'oui' ? 'Oui' : 'Non';
-            temoignageHTML += `<p>Plainte déposée : ${plainteText}</p>`;
-            if (temoignageData.plainteDeposee === 'oui' && temoignageData.plainteAboutie) {
-                let aboutieText = '';
-                if (temoignageData.plainteAboutie === 'oui') {
-                    aboutieText = 'Oui';
-                } else if (temoignageData.plainteAboutie === 'non') {
-                    aboutieText = 'Non';
-                } else if (temoignageData.plainteAboutie === 'enCours') {
-                    aboutieText = 'En cours';
-                }
-                temoignageHTML += `<p>Plainte aboutie : ${aboutieText}</p>`;
-            }
-        }
-        temoignageHTML += `<hr>`;
-        temoignageDiv.innerHTML = temoignageHTML;
-
-        // Ajouter le témoignage au début de la liste
-        testimonialsList.prepend(temoignageDiv);
-
-        // Afficher le message de confirmation et réinitialiser le formulaire
-        temoignageForm.style.display = 'none';
-        confirmationMessage.style.display = 'block';
-
-        setTimeout(() => {
-            slidingFormContainer.classList.remove('open');
-            temoignageForm.reset();
-            temoignageForm.style.display = 'block';
-            confirmationMessage.style.display = 'none';
-        }, 3000);
+        fetch(googleAppsScriptUrl, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(temoignageData),
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log('Succès:', data);
+            confirmationMessage.style.display = 'block';
+            setTimeout(() => {
+                slidingFormContainer.classList.remove('open');
+                temoignageForm.reset();
+                temoignageForm.style.display = 'block';
+                confirmationMessage.style.display = 'none';
+                fetchTemoignages(); // Recharger la liste après la soumission
+            }, 3000);
+        })
+        .catch((error) => {
+            console.error('Erreur:', error);
+            alert('Une erreur est survenue lors de la soumission.');
+        });
     });
+
+    function fetchTemoignages() {
+        const googleAppsScriptUrl = 'https://script.google.com/macros/s/AKfycbxLYvMD5_FP_aJBCxd-cw2rKwS1qsgWKKD1df_81p3hCEbgAidyZiLn26MGDPaWvu-G/exec'; // Remplacez par l'URL que vous avez copiée
+
+        fetch(googleAppsScriptUrl)
+            .then(response => response.json())
+            .then(temoignages => {
+                testimonialsList.innerHTML = ''; // Effacer la liste actuelle
+                temoignages.forEach(temoignage => {
+                    const temoignageDiv = document.createElement('div');
+                    temoignageDiv.classList.add('temoignage');
+                    let temoignageHTML = `<p>`;
+                    if (temoignage.prenomOuPseudo) {
+                        temoignageHTML += `<strong>${temoignage.prenomOuPseudo}</strong> a vécu :<br>`;
+                    } else {
+                        temoignageHTML += `Une personne a vécu :<br>`;
+                    }
+                    temoignageHTML += `"${temoignage.ceQueJaiVecu}"</p>`;
+                    if (temoignage.ageAuMomentDesFaits) {
+                        temoignageHTML += `<p>Âge au moment des faits : ${temoignage.ageAuMomentDesFaits} ans</p>`;
+                    }
+                    if (temoignage.plainteDeposee) {
+                        const plainteText = temoignage.plainteDeposee === 'oui' ? 'Oui' : 'Non';
+                        temoignageHTML += `<p>Plainte déposée : ${plainteText}</p>`;
+                        if (temoignage.plainteDeposee === 'oui' && temoignage.plainteAboutie) {
+                            temoignageHTML += `<p>Plainte aboutie : ${temoignage.plainteAboutie}</p>`;
+                        }
+                    }
+                    temoignageHTML += `<p class="date-soumission">Soumis le : ${new Date(temoignage.timestamp).toLocaleDateString()}</p><hr>`;
+                    temoignageDiv.innerHTML = temoignageHTML;
+                    testimonialsList.prepend(temoignageDiv);
+                });
+            });
+    }
+
+    // Charger les témoignages au chargement initial de la page (si l'onglet est visible)
+    fetchTemoignages();
 });
