@@ -5,10 +5,10 @@ document.addEventListener('DOMContentLoaded', function() {
     const temoignageForm = document.getElementById('temoignageForm');
     const plainteDeposeeSelect = document.getElementById('plainteDeposee');
     const aboutieSection = document.getElementById('aboutieSection');
+    const confirmationMessage = document.getElementById('confirmationMessage');
 
     openFormButton.addEventListener('click', function() {
         slidingFormContainer.classList.add('open');
-        // fetchTemoignages(); // Ne plus charger les témoignages depuis Apps Script
     });
 
     closeButton.addEventListener('click', function() {
@@ -33,13 +33,17 @@ document.addEventListener('DOMContentLoaded', function() {
 
         const mailtoUrl = `mailto:${recipientEmail}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
-        window.location.href = mailtoUrl;
+        window.open(mailtoUrl);
 
-        alert('Votre témoignage va être envoyé par e-mail.');
+        alert('Votre témoignage va être envoyé par e-mail dans une nouvelle fenêtre.');
         slidingFormContainer.classList.remove('open');
         temoignageForm.reset();
-    });
 
-    // Ne plus appeler fetchTemoignages au chargement initial
-    // fetchTemoignages();
+        if (confirmationMessage) {
+            confirmationMessage.style.display = 'block';
+            setTimeout(() => {
+                confirmationMessage.style.display = 'none';
+            }, 3000);
+        }
+    });
 });
