@@ -15,7 +15,7 @@
         <div class="sliding-form-container">
             <button class="close-button">&times;</button>
             <h2>Déposer votre témoignage</h2>
-            <form id="temoignageForm">
+            <form id="temoignageForm" method="GET" enctype="text/plain">
                 <div class="form-group">
                     <label for="ceQueJaiVecu">Ce que j'ai vécu :</label>
                     <textarea id="ceQueJaiVecu" name="ceQueJaiVecu" required></textarea>
@@ -50,14 +50,14 @@
                     </select>
                 </div>
 
-                <button type="submit">Soumettre le témoignage</button>
+                <button type="submit">Envoyer le témoignage par e-mail</button>
             </form>
 
-            <div id="confirmationMessage" class="confirmation-message">
-                Merci pour votre témoignage. Il a été soumis avec succès.
+            <div id="confirmationMessage" class="confirmation-message" style="display: none;">
+                Merci pour votre témoignage. Il va être envoyé par e-mail.
             </div>
 
-            <div id="testimonials-section">
+            <div id="testimonials-section" style="display: none;">
                 <h3>Témoignages récents :</h3>
                 <div id="testimonials-list">
                     </div>
