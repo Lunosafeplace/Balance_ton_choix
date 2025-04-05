@@ -9,10 +9,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
     openFormButton.addEventListener('click', function() {
         slidingFormContainer.classList.add('open');
+        openFormButton.style.display = 'none'; // Faire disparaître le bouton
     });
 
     closeButton.addEventListener('click', function() {
         slidingFormContainer.classList.remove('open');
+        openFormButton.style.display = 'block'; // Faire réapparaître le bouton
     });
 
     plainteDeposeeSelect.addEventListener('change', function() {
@@ -37,6 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         alert('Votre témoignage va être envoyé par e-mail dans une nouvelle fenêtre.');
         slidingFormContainer.classList.remove('open');
+        openFormButton.style.display = 'block'; // Faire réapparaître le bouton après la soumission (ou la tentative)
         temoignageForm.reset();
 
         if (confirmationMessage) {
