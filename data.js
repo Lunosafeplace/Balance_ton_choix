@@ -61,7 +61,7 @@ const celebrites = [
     },
     {
         nom: 'Cornillac, Clovis',
-        photo: 'Clovis_Cornillas.jpg',
+        photo: 'Clovis_Cornillac.jpg',
         reponse: 'pas-affaire',
         infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
