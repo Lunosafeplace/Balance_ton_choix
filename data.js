@@ -6,14 +6,110 @@ const celebrites = [
         infosSupplementaires: 'Accusations :\n- Viol (2010 et 2011) : Deux femmes accusent Damien Abad de viol, dont un sous soumission chimique. L\'une des femmes avait déjà porté plainte en 2012 et 2017, classées sans suite.\n- Tentative de viol (date indéterminée) : Une élue de droite l\'accuse de tentative de viol après un dîner officiel. D\'autres témoignages évoquent des comportements inappropriés de sa part.\n Viol sous soumission chimique (2013) : Une quatrième femme l\'accuse de viol après avoir été droguée.\n\nFaits reprochés : Violences sexuelles, utilisation de soumission chimique, abus de pouvoir et comportements inappropriés envers des femmes.\n\nSuites données :\nPlusieurs plaintes ont été déposées. Le parquet de Paris a ouvert une enquête pour tentative de viol. Damien Abad a nié les accusations et porté plainte pour dénonciation calomnieuse. Il a été écarté du gouvernement en juillet 2022. Son immunité parlementaire a été levée en mai 2023. Il a été placé en garde à vue en juin 2023. Mise en examen le 16 mai 2024 pour tentative de viol en 2010.'
     },
     {
+        nom: 'Slimane',
+        photo: 'Slimane.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Entrave un technicien, propose une relation sexuelle, et envoie des messages et vidéos pornographiques sans consentement (nuit du 17-18 décembre 2023).\n- Agression et tentative d\'agression sexuelle sur une autre personne (même nuit).\n -Envoi non consenti de photos pornographiques à deux autres hommes. Harcèlement sexuel aggravé (plainte du technicien).\n\nFaits reprochés : Harcèlement sexuel aggravé, agression sexuelle et tentative d’agression sexuelle, envoi non consenti de photos à caractère pornographique\n\nSuites données :\nOuverture d\'une enquête par le parquet de Saint-Étienne pour harcèlement sexuel aggravé. Tentatives d\'étouffer l\'affaire par l\'entourage de Slimane.\nAucune suite judiciaire précisée pour la seconde plainte ni les témoignages Mediapart dans le texte.
+    },
+    {
         nom: 'Abittan, Ary',
         photo: 'Ary_Abittan.jpg',
         reponse: 'affaire',
         infosSupplementaires: 'Accusation :\n- Viol : Une jeune femme de 23 ans a porté plainte contre l\'acteur pour viol.\n\nFaits reprochés : Violences sexuelles.\n\nSuites données :\n- Octobre 2021, placement en garde à vue. Mise en examen et placement sous contrôle judiciaire. Statut de témoin assisté. Juillet 2023, clôture de l\'information judiciaire (accusations jugées non probantes). Avril 2024, décision de non-lieu, malgré les lésions constatées et le stress post-traumatique de la plaignante. Appel de la plaignante. Janvier 2025, confirmation du non lieu en appel.'
     },
     {
+        nom: 'Darmanin, Gérald',
+        photo: 'Gérald_Darmanin.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Affaire Sophie Patterson-Spatz (2017) : Rapport sexuel en 2009 suite à une demande d\'aide, sentiment d\'instrumentalisation et de rapport non consenti (surprise), lettre à la garde des Sceaux.\n- Abus de faiblesse : Relations sexuelles forcées en échange de logement et emploi en 2015.\n\nFais reprochés : Viol, harcèlement sexuel, abus de confiance, abus de faiblesse.\n\nSuites Données :\n- Affaire Sophie Patterson-Spatz : Plusieurs plaintes classées sans suite, information judiciaire avec non-lieu confirmé en appel et cassation.\n- Affaire d\'abus de faiblesse (2018) : Plainte classée sans suite, plainte pour dénonciation calomnieuse retirée, tentatives de relance classées sans suite.'
+    },
+    {
+        nom: 'Squeezie',
+        photo: 'Squeezie.png',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Reno, Jean',
+        photo: 'Jean_Reno.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
         nom: 'Amixem',
         photo: 'Amixem.png',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Youn, Michaël',
+        photo: 'Michael_Youn.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Bern, Stéphane',
+        photo: 'Stéphane_Bern.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Blanquer, Jean-Michel',
+        photo: 'Jean-Michel_Blanquer.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Cornillac, Clovis',
+        photo: 'Clovis_Cornillas.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Artus',
+        photo: 'Artus.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Ruquier, Laurent',
+        photo: 'Laurent_Ruquier.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Beigbeder, Frédéric',
+        photo: 'Frédéric_Beigbeder.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusation :\n- Viol d\'une jeune femme de 17 ans dans une chambre d\'hôtel (faits contestés par Beigbeder).\n\nFaits Reprochés : Viol.\n\nSuites Données :\n- Placement en garde à vue le 2 décembre 2023 au commissariat de Pau. L\'enquête a été classée sans suite en juillet 2024 en raison de l\'absence d’indices graves ou concordants et du fait que l’infraction apparaissait insuffisamment caractérisée.'
+    },
+    {
+        nom: 'Monsieur Poulpe',
+        photo: 'Monsieur_Poulpe.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Etienne, Samuel',
+        photo: 'Samuel_Étienne.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Bayou, Julien',
+        photo: 'Julien_Bayou.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Comportements de nature à briser la santé morale (témoignage d\'Anaïs Leleux).\n- Violences psychologiques, emprise sentimentale, mélange du professionnel et du privé dans les relations (témoignages anonymes).\n\nFaits Reprochés : Harcèlement moral, abus de faiblesse, violences psychologiques et emprise sentimentale.\n\nSuites Données :\n- Saisine de la cellule interne d\'EÉLV. Mise en retrait puis démission de Julien Bayou de ses fonctions au sein d\'EÉLV et du groupe écologiste. Enquête interne d\'EÉLV clôturée sans conclusions faute d\'audition de la plaignante. Commandite d\'une enquête externe par EÉLV. Classement sans suite de la procédure judiciaire pour « absence d’infraction ».'
+    },
+    {
+        nom: 'Reichmann, Jean-Luc',
+        photo: 'Jean-Luc_Reichmann.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Lagaf', Vincent',
+        photo: 'Vincen_Lagaf'.jpg',
         reponse: 'pas-affaire',
         infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
