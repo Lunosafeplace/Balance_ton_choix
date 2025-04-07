@@ -108,8 +108,8 @@ const celebrites = [
         infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
-        nom: 'Lagaf', Vincent',
-        photo: 'Vincen_Lagaf'.jpg',
+        nom: 'Lagaf\', Vincent',
+        photo: 'Vincen_Lagaf.jpg',
         reponse: 'pas-affaire',
         infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
