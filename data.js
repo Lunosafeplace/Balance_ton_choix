@@ -9,13 +9,13 @@ const celebrites = [
         nom: 'Slimane',
         photo: 'Slimane.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusations :\n- Entrave un technicien, propose une relation sexuelle, et envoie des messages et vidéos pornographiques sans consentement (nuit du 17-18 décembre 2023).\n- Agression et tentative d\'agression sexuelle sur une autre personne (même nuit).\n- Envoi non consenti de photos pornographiques à deux autres hommes. Harcèlement sexuel aggravé (plainte du technicien).\n\nFaits reprochés : Harcèlement sexuel aggravé, agression sexuelle et tentative d’agression sexuelle, envoi non consenti de photos à caractère pornographique\n\nSuites données :\nOuverture d\'une enquête par le parquet de Saint-Étienne pour harcèlement sexuel aggravé. Tentatives d\'étouffer l\'affaire par l\'entourage de Slimane.\nAucune suite judiciaire précisée pour la seconde plainte ni les témoignages Mediapart dans le texte.'
+        infosSupplementaires: 'Accusations :\n- Entrave un technicien, propose une relation sexuelle, et envoie des messages et vidéos pornographiques sans consentement (nuit du 17-18 décembre 2023).\n- Agression et tentative d\'agression sexuelle sur une autre personne (même nuit).\n- Envoi non consenti de photos pornographiques à deux autres hommes. Harcèlement sexuel aggravé (plainte du technicien).\n\nFaits reprochés : Harcèlement sexuel aggravé, agression sexuelle et tentative d’agression sexuelle, envoi non consenti de photos à caractère pornographique\n\nSuites données :\n- Ouverture d\'une enquête par le parquet de Saint-Étienne pour harcèlement sexuel aggravé. Tentatives d\'étouffer l\'affaire par l\'entourage de Slimane.\nAucune suite judiciaire précisée pour la seconde plainte ni les témoignages Mediapart dans le texte.'
     },
     {
         nom: 'Abittan, Ary',
         photo: 'Ary_Abittan.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusation :\n- Viol : Une jeune femme de 23 ans a porté plainte contre l\'acteur pour viol.\n\nFaits reprochés : Violences sexuelles.\n\nSuites données :\n- Octobre 2021, placement en garde à vue. Mise en examen et placement sous contrôle judiciaire. Statut de témoin assisté. Juillet 2023, clôture de l\'information judiciaire (accusations jugées non probantes). Avril 2024, décision de non-lieu, malgré les lésions constatées et le stress post-traumatique de la plaignante. Appel de la plaignante. Janvier 2025, confirmation du non lieu en appel.'
+        infosSupplementaires: 'Accusations :\n- Viol : Une jeune femme de 23 ans a porté plainte contre l\'acteur pour viol.\n\nFaits reprochés : Violences sexuelles.\n\nSuites données :\n- Octobre 2021, placement en garde à vue. Mise en examen et placement sous contrôle judiciaire. Statut de témoin assisté. Juillet 2023, clôture de l\'information judiciaire (accusations jugées non probantes). Avril 2024, décision de non-lieu, malgré les lésions constatées et le stress post-traumatique de la plaignante. Appel de la plaignante. Janvier 2025, confirmation du non lieu en appel.'
     },
     {
         nom: 'Darmanin, Gérald',
@@ -81,13 +81,13 @@ const celebrites = [
         nom: 'Beigbeder, Frédéric',
         photo: 'Frédéric_Beigbeder.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusation :\n- Viol d\'une jeune femme de 17 ans dans une chambre d\'hôtel (faits contestés par Beigbeder).\n\nFaits Reprochés : Viol.\n\nSuites Données :\n- Placement en garde à vue le 2 décembre 2023 au commissariat de Pau. L\'enquête a été classée sans suite en juillet 2024 en raison de l\'absence d’indices graves ou concordants et du fait que l’infraction apparaissait insuffisamment caractérisée.'
+        infosSupplementaires: 'Accusations :\n- Viol d\'une jeune femme de 17 ans dans une chambre d\'hôtel (faits contestés par Beigbeder).\n\nFaits Reprochés : Viol.\n\nSuites Données :\n- Placement en garde à vue le 2 décembre 2023 au commissariat de Pau. L\'enquête a été classée sans suite en juillet 2024 en raison de l\'absence d’indices graves ou concordants et du fait que l’infraction apparaissait insuffisamment caractérisée.'
     },
     {
         nom: 'Monsieur Poulpe',
         photo: 'Monsieur_Poulpe.jpg',
-        reponse: 'pas-affaire',
-        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n\n- Propos sur l\'apparence de Rachida Dati jugés sexistes lors d\'une chronique à "C dans l\'air" (janvier 2024).\n\nFaits reprochés : Sexisme, manque de respect.\n- Suites Données :\n- Vives réactions en ligne, excuses de France Télévisions, suspension de Monsieur Poulpe de l\'émission, excuses de Monsieur Poulpe.'
     },
     {
         nom: 'Etienne, Samuel',
@@ -141,7 +141,7 @@ const celebrites = [
         nom: 'Darmon, Gérard',
         photo: 'Gérard_Darmon.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusations et faits reprochés :\n- Violences sexistes et sexuelles : Neuf femmes accusent Gérard Darmon de violences sexistes et sexuelles. Elles décrivent des propos et des gestes « déplacés » sur le tournage de six films. Elles rapportent des « humiliations » et des « insultes sexistes ». Une technicienne a indiqué avoir porté plainte contre la production du film sur lequel elle travaillait avec l\'acteur pour « absence de protection ». Les témoignages indiquent que plusieurs des femmes qui témoignent occupaient des postes précaires au moment des faits. Une des femmes témoignant est âgée de 18 ans. Dix autres femmes ont aussi livré leur récits à Politis avant de refuser d\'apparaître dans l’enquête et de se rétracter.\n\nSuites données :\n -Gérard Darmon nie les accusations. Il multiplie les insultes et menaces à l’égard du média Politis. Une technicienne a porté plainte contre la production du film sur lequel elle travaillait avec l\'acteur pour « absence de protection ».'
+        infosSupplementaires: 'Accusations et faits reprochés :\n- Violences sexistes et sexuelles : Neuf femmes accusent Gérard Darmon de violences sexistes et sexuelles. Elles décrivent des propos et des gestes « déplacés » sur le tournage de six films. Elles rapportent des « humiliations » et des « insultes sexistes ». Une technicienne a indiqué avoir porté plainte contre la production du film sur lequel elle travaillait avec l\'acteur pour « absence de protection ». Les témoignages indiquent que plusieurs des femmes qui témoignent occupaient des postes précaires au moment des faits. Une des femmes témoignant est âgée de 18 ans. Dix autres femmes ont aussi livré leur récits à Politis avant de refuser d\'apparaître dans l’enquête et de se rétracter.\n\nSuites données :\n- Gérard Darmon nie les accusations. Il multiplie les insultes et menaces à l’égard du média Politis. Une technicienne a porté plainte contre la production du film sur lequel elle travaillait avec l\'acteur pour « absence de protection ».'
     },
     {
         nom: 'Depardieu, Gérard',
@@ -159,7 +159,7 @@ const celebrites = [
         nom: 'Elvis, Roméo',
         photo: 'Roméo_Elvis.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusation :\n- Agression sexuelle : Roméo Elvis a été accusé d\'agression sexuelle par une jeune femme en septembre 2020.\n\nFaits reprochés : Comportement inapproprié à caractère sexuel.\n\nSuites données :\n- Roméo Elvis a reconnu les faits et a présenté publiquement ses excuses.La victime a exprimé sa volonté d\'encourager d\'autres femmes à témoigner, dans un contexte où d\'autres affaires similaires étaient médiatisées.'
+        infosSupplementaires: 'Accusations :\n- Agression sexuelle : Roméo Elvis a été accusé d\'agression sexuelle par une jeune femme en septembre 2020.\n\nFaits reprochés : Comportement inapproprié à caractère sexuel.\n\nSuites données :\n- Roméo Elvis a reconnu les faits et a présenté publiquement ses excuses.La victime a exprimé sa volonté d\'encourager d\'autres femmes à témoigner, dans un contexte où d\'autres affaires similaires étaient médiatisées.'
     },
     {
         nom: 'Gasly, Pierre',
@@ -171,7 +171,7 @@ const celebrites = [
         nom: 'Gastambide, Franck',
         photo: 'Franck_Gastambide.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusations et faits reprochés :\n- Violences sexuelles, physiques et psychologiques (février 2025) : Six femmes, dont trois ont été ses compagnes, accusent Franck Gastambide de violences sexuelles, physiques et psychologiques.\n\nSuites données : Franck Gastambide nie les accusations. Il se déclare victime d’une campagne de calomnie orchestrée par l’une d’elles et l\'accuse de violences.'
+        infosSupplementaires: 'Accusations et faits reprochés :\n- Violences sexuelles, physiques et psychologiques (février 2025) : Six femmes, dont trois ont été ses compagnes, accusent Franck Gastambide de violences sexuelles, physiques et psychologiques.\n\nSuites données :n- Franck Gastambide nie les accusations. Il se déclare victime d’une campagne de calomnie orchestrée par l’une d’elles et l\'accuse de violences.'
     },
     {
         nom: 'Hulot, Nicolas',
@@ -213,7 +213,7 @@ const celebrites = [
         nom: 'Poivre d\'Arvor, Patrick',
         photo: 'Patrick_Poivre-Darvor.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusations :\n- Viols : Plusieurs femmes l\'accusent de viols, y compris des viols sur mineures.\n- Agressions sexuelles : De nombreux témoignages font état d\'agressions sexuelles.\n- Harcèlement : Des femmes décrivent des comportements relevant du harcèlement sexuel.\n\nFaits reprochés : Viols (y compris viols aggravés), agressions sexuelles, harcèlement sexuel, emprise psychologique et abus de pouvoir.\n\nSuites données :\n-2005, une première enquête préliminaire pour viol est classée sans suite. Février 2021, dépôt de plainte de Florence Porcel pour viols et agressions sexuelles. Mars 2021, d\'autres femmes témoignent publiquement, et de nouvelles plaintes sont déposées. Juillet 2021, classement sans suite de l\'enquête pour viols, en raison de la prescription et de l\'insuffisance de preuves. Avril 2022, Patrick Poivre d\'Arvor porte plainte pour dénonciation calomnieuse. Septembre 2022, la cour d\'appel de Versailles annule les effets du classement sans suite de plusieurs plaintes, en argumentant que si la sérialité des faits était démontrée, cela annulerait la prescription et pourrait faire aboutir l\'enquête. Décembre 2023, Patrick Poivre d\'Arvor est mis en examen pour le viol de Florence Porcel. Juillet 2024, il est visé par cinq nouvelles informations judiciaires pour viols et viols aggravés. Octobre 2024, le journal Le Monde révèle une plainte pour viol contre lui datant de 2005, mais classée sans suite à l\'époque.'
+        infosSupplementaires: 'Accusations :\n- Viols : Plusieurs femmes l\'accusent de viols, y compris des viols sur mineures.\n- Agressions sexuelles : De nombreux témoignages font état d\'agressions sexuelles.\n- Harcèlement : Des femmes décrivent des comportements relevant du harcèlement sexuel.\n\nFaits reprochés : Viols (y compris viols aggravés), agressions sexuelles, harcèlement sexuel, emprise psychologique et abus de pouvoir.\n\nSuites données :\n- 2005, une première enquête préliminaire pour viol est classée sans suite. Février 2021, dépôt de plainte de Florence Porcel pour viols et agressions sexuelles. Mars 2021, d\'autres femmes témoignent publiquement, et de nouvelles plaintes sont déposées. Juillet 2021, classement sans suite de l\'enquête pour viols, en raison de la prescription et de l\'insuffisance de preuves. Avril 2022, Patrick Poivre d\'Arvor porte plainte pour dénonciation calomnieuse. Septembre 2022, la cour d\'appel de Versailles annule les effets du classement sans suite de plusieurs plaintes, en argumentant que si la sérialité des faits était démontrée, cela annulerait la prescription et pourrait faire aboutir l\'enquête. Décembre 2023, Patrick Poivre d\'Arvor est mis en examen pour le viol de Florence Porcel. Juillet 2024, il est visé par cinq nouvelles informations judiciaires pour viols et viols aggravés. Octobre 2024, le journal Le Monde révèle une plainte pour viol contre lui datant de 2005, mais classée sans suite à l\'époque.'
     },
     {
         nom: 'Polanski, Roman',
@@ -231,7 +231,271 @@ const celebrites = [
         nom: 'Thavaud, Norman',
         photo: 'Norman_Thavaud.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusations et faits reprochés :\n- Harcèlement sexuel (2018) : Accusations de harcèlement sexuel dans le sillage du hashtag #BalanceTonYoutubeur.\n- Exploitation sexuelle sur mineur (2020) : Une internaute québécoise l\'accuse de lui avoir demandé des photographies à caractère sexuel alors qu\'elle était mineure.\n- Viols et corruption de mineurs (2022) : Six femmes portent plainte, dont cinq pour viol, et deux étaient mineures au moment des faits.\n\nSuites données : 2020, dépôt de plainte au Canada. Janvier 2022, ouverture d\'une enquête préliminaire par le parquet de Paris. Décembre 2022, placement en garde à vue de Norman Thavaud, YouTube cesse de diffuser des publicités sur ses vidéos, nouvelle convocation par la justice et dépôt d\'une septième plainte pour viol. Octobre 2023, classement sans suite de l\'enquête préliminaire par le parquet de Paris, pour infractions insuffisamment caractérisées, puis dépôt d\'une plainte avec constitution de partie civile par les avocats des plaignantes. Août 2024, Norman publie une vidéo sur youtube, où il fait part de sa version des faits.'
+        infosSupplementaires: 'Accusations et faits reprochés :\n- Harcèlement sexuel (2018) : Accusations de harcèlement sexuel dans le sillage du hashtag #BalanceTonYoutubeur.\n- Exploitation sexuelle sur mineur (2020) : Une internaute québécoise l\'accuse de lui avoir demandé des photographies à caractère sexuel alors qu\'elle était mineure.\n- Viols et corruption de mineurs (2022) : Six femmes portent plainte, dont cinq pour viol, et deux étaient mineures au moment des faits.\n\nSuites données :\n- 2020, dépôt de plainte au Canada. Janvier 2022, ouverture d\'une enquête préliminaire par le parquet de Paris. Décembre 2022, placement en garde à vue de Norman Thavaud, YouTube cesse de diffuser des publicités sur ses vidéos, nouvelle convocation par la justice et dépôt d\'une septième plainte pour viol. Octobre 2023, classement sans suite de l\'enquête préliminaire par le parquet de Paris, pour infractions insuffisamment caractérisées, puis dépôt d\'une plainte avec constitution de partie civile par les avocats des plaignantes. Août 2024, Norman publie une vidéo sur youtube, où il fait part de sa version des faits.'
+    },
+    {
+        nom: 'Orelsan',
+        photo: 'Orelsan.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n\n- Paroles de la chanson "Sale Pute" (2009) jugées menaçantes et incitant à la violence sexiste.\n- Paroles de "Saint Valentin" (ultérieurement) problématiques.\n\nFaits reprochés : Sexisme, provocation au crime/violence sexiste, injure et provocation à la violence envers les femmes.\n\nSuites Données :\n- Forte polémique médiatique et politique, demandes de déprogrammation/retrait, menaces financières contre festivals, relaxe en première instance (provocation au crime), condamnation en première instance (injure/provocation), relaxe en appel (prescription), nouvelle polémique en 2018.'
+    },
+    {
+        nom: 'Gims',
+        photo: 'Gims.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Girac, Kendji',
+        photo: 'Kendji_Girac.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Cabrel, Francis',
+        photo: 'Francis_Cabrel.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+    {
+        nom: 'Bruel, Patrick',
+        photo: 'Patrick_Bruel.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n\n- Accusations d\'exhibition et harcèlement sexuels par une employée d\hôtel lors d\'un massage en août 2019 (contestées par Bruel).\n\nFaits reprochés : Exhibition sexuelle présumée, harcèlement sexuel présumé.\n\nSuites Données : Enquête préliminaire ouverte, Bruel entendu et a nié, enquête classée sans suite pour absence d\'infraction.'
+    },    
+    {
+        nom: 'Macron, Emmanuel',
+        photo: 'Emmanuel_Macron.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+        {
+        nom: 'Larcher, Gérard',
+        photo: 'Gérard_Larcher.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+    {
+        nom: 'Jugnot, Gérard',
+        photo: 'Gérard_Jugnot.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Semoun, Elie',
+        photo: 'Elie_Semoun.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Bourdon, Didier',
+        photo: 'Didier_Bourdon.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+    {
+        nom: 'Campan, Bernard',
+        photo: 'Bernard_Campan.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Légitimus, Pascal',
+        photo: 'Pascal_Légitimus.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Comparaison de l\'homosexualité et de la pédophilie lors d\'une interview en octobre 2023.\n\nFaits reprochés : Homophobie, minimisation de la pédophilie.\n\nSuites Données :\n- Indignation et condamnations publiques, excuses de Légitimus, réactions d\'associations LGBTQ+, conséquences médiatiques (mais pas de suites judiciaires notables).'
+    },    
+    {
+        nom: 'Soprano',
+        photo: 'Soprano.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+    {
+        nom: 'Gradur',
+        photo: 'Gradur.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Heuss l\'enfoiré',
+        photo: 'Personne.png',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Dispute avec sa compagne le 1er janvier 2025, suite à la diffusion de photos de ses fesses sans consentement sur les réseaux sociaux. La compagne aurait déclaré avoir été victime de coups et de gifles. Le rappeur a reçu 2 jours d\'ITT après avoir été blessé au visage avec du charbon à chicha lancé par sa compagne.\n\nFaits reprochés : Violences conjugales (implicitement, bien que l\'avocat parle de violences réciproques).\n\nSuites Données :\n- Placement en garde à vue du rappeur. Libération à l\'issue de la garde à vue. Classement sans suite des faits reprochés au rappeur par le parquet le 4 janvier 2025, considéré comme une affaire de couple et de violences réciproques par son avocat.'
+    },    
+    {
+        nom: 'Vald',
+        photo: 'Vald.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Paroles de la chanson de Vald incluant des propos tels que : « Elle veut que j’lui fasse mal, que j’lui écrase la tête », « Elle aimerait bien s’faire violer, enfin pas vraiment violer. Elle aimerait que j’la violente, que j’la casse sans demander », « T’sais, m’faire violer mais j’sais que c’est toi, ça veut dire c’est pas vraiment gênant »\n\nFaits reprochés : Sexisme, incitation à la violence (implicite dans la dénonciation de propos violents).\n\nSuites Données :\n- Dénonciation publique des propos par l\'association Elu-e-s Contre les Violences faites aux Femmes (ECVF).'
+    },
+    {
+        nom: 'Niney, Pierre',
+        photo: 'Pierre_Niney.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Civil, François',
+        photo: 'François_Civil.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },     
+    {
+        nom: 'Lellouche, Gilles',
+        photo: 'Gilles_Lellouche.png',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+    {
+        nom: 'Obispo, Pascal',
+        photo: 'Pascal_Obispo.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Lavoine, Marc',
+        photo: 'Marc_Lavoine.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Baiser dans le cou à la candidate Léa par Marc Lavoine en direct à la Star Academy (novembre 2022).\n\nFaits reprochés : Geste déplacé/inapproprié, manque de consentement perçu.\n\nSuites Données :\n- Vives réactions sur réseaux sociaux, défense de Lavoine par Léa, absence de suites judiciaires ou de sanctions de la production.'
+    },    
+    {
+        nom: 'Pagny, Florent',
+        photo: 'Florent_Pagny.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+    {
+        nom: 'Maé, Christophe',
+        photo: 'Christophe_Maé.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Moire, Emmanuel',
+        photo: 'Emmanuel_Moire.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Olympe',
+        photo: 'Olympe.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+    {
+        nom: 'Lamotte, Martin',
+        photo: 'Martin_Lamotte.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Souchon, Alain',
+        photo: 'Alain_Souchon.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Voulzy, Laurent',
+        photo: 'Laurent_Voulzy.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+    {
+        nom: 'Mitchell, Eddy',
+        photo: 'Eddy_Mitchell.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Sheller, William',
+        photo: 'Willain_Sheller.png',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Saez, Damien',
+        photo: 'Damien_Saez.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations : Paroles insultantes et dégradantes envers les influenceuses et les femmes dans la chanson "P\'tite Pute" (2018).\n\nFaits reprochés : Misogynie, sexisme.\n\nSuites Données :\n- Vive polémique médiatique et sur réseaux sociaux, critiques de la presse, défense de l\'artiste par certains, absence de suites judiciaires notables.'
+    },
+    {
+        nom: 'Benzema, Karim',
+        photo: 'Karim_Benzema.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Affaire Zahia (2010-2016): Sollicitation de prostituée mineure (Zahia Dehar) en 2010. Benzema a nié toute implication.\n- Affaire de la sextape (2015-2021):Implication dans une affaire de chantage à la sextape visant son coéquipier Mathieu Valbuena en 2015. Accusé d\'avoir fait pression sur Valbuena. Benzema a nié toute implication directe, son lien venant de son ami proche.\n\nFaits reprochés : Sollicitation de prostituée mineure, complicité de tentative de chantage et participation à une association de malfaiteurs.\n\nSuites Données:\n- Affaire Zahia : Mis en examen en juillet 2010. Non-lieu requis par le parquet (novembre 2011) mais renvoi devant le tribunal correctionnel ordonné (août 2012). Relaxé par le tribunal correctionnel de Paris (janvier 2014). Non-sélection en équipe de France pour l\'Euro 2016, suscitant une polémique sur le racisme.\n- Affaire de la sextape : Mis en examen en novembre 2015, placé sous contrôle judiciaire (interdiction de contacter Valbuena), suspension provisoire de l\'équipe de France (décembre 2015), non-participation à l\'Euro 2016 et à la Coupe du Monde 2018. Condamné en appel le 24 novembre 2021 pour complicité de tentative de chantage à un an de prison avec sursis et 75 000 € d\'amende, ainsi que 80 000 € de dommages et intérêts à Valbuena. Il s\'est désisté de son appel en juin 2022, rendant la condamnation définitive.'
+    },    
+    {
+        nom: 'Ribéry, Franck',
+        photo: 'Franck_Ribery.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Relations sexuelles tarifées avec Zahia Dehar en 2009, alors qu\'elle était mineure. Ribéry a reconnu les relations mais affirmé ignorer sa minorité.\n\nFaits reprochés : Sollicitation de prostituée mineure.\n\nSuites Données : Entendu par la police comme témoin (avril 2010), puis placé en garde à vue et mis en examen (juillet 2010). Relaxé en janvier 2014, la cour estimant qu\'il ignorait la minorité de Zahia Dehar. L\'affaire a eu un fort écho médiatique et a coïncidé avec l\'échec de la France au Mondial 2010.'
+    },    
+    {
+        nom: 'Louvin, Gérard',
+        photo: 'Personne.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Par Olivier A. (neveu) : Accusé de complicité et d\'avoir laissé faire des abus sexuels répétés entre 10 et 14 ans par Daniel Moyne.\n- Par quatre autres hommes : Agressions sexuelles et viols (période non spécifiée).\n- Témoignage d\'un couple : Tourisme sexuel à Rio de Janeiro par le couple Louvin-Moyne (faits contestés).\n\nFaits reprochés : Complicité de viols sur mineur de moins de 15 anspar ascendant, viol sur mineurs (suite aux plaintes des quatre autres hommes), tourisme sexuel (enquête distincte).\n\nSuites Données :\n- Olivier A. : Signalement de 2014 classé sans suite en 2016 pour prescription. Enquête ouverte suite à plainte de 2021. Classement sans suite (janvier 2022) pour prescription.\n- Quatre autres hommes : Enquête ouverte pour "viol sur mineurs" en 2021. Classement sans suite (janvier 2022) pour prescription.\n- Tourisme sexuel à Rio : Classée sans suite en janvier 2022 pour "infraction insuffisamment caractérisée". Plainte pour diffamation de Louvin et Moyne contre le couple témoin et Le Parisien (suite au témoignage sur le tourisme sexuel).'
+    },
+    {
+        nom: 'Samitier, Thierry',
+        photo: 'Ary_Abittan.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Gestes déplacés et agressions sexuelles présumés sur plusieurs femmes. Ces faits auraient eu lieu dans le cadre de la pièce "Boeing Boeing" et du tournage de la série "Nos chers voisins". Deux actrices ont déposé une main courante. L\'acteur a démenti publiquement ces accusations.\n\nFaits reprochés : Harcèlement sexuel, agressions sexuelles.\n\nSuites Données :\n- Placement en garde à vue en mai 2023 dans le cadre de l\'enquête. Jugement prévu en 2025 pour harcèlement et agressions sexuelles. Réquisition de 15 mois de prison avec sursis. L\'acteur a écrit un livre inspiré de cette affaire, "Surprise !", relatant un acteur victime de diffamation.'
+    },    
+    {
+        nom: 'Miller, Gérard',
+        photo: 'Gérard_Miller.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- De nombreuses femmes, dont certaines mineures au moment des faits, accusent Gérard Miller d\'agressions sexuelles et de viols qui se seraient déroulés principalement lors de séances d\'hypnose entre les années 1990 et 2020. Des témoignages font état de comportements déplacés et de tentatives d\'agression.\n\nFaits reprochés : Agressions sexuelles et viol.\n\nSuites Données :\n- Plusieurs enquêtes journalistiques ont recueilli les témoignages des victimes (Elle, Mediapart, Envoyé Spécial). Des femmes ont témoigné auprès de la justice et une plainte pour viol a été déposée. Le parquet de Paris a ouvert une enquête préliminaire. Un signalement avait été fait concernant son comportement à l\'université Paris 8. Un livre enquête a été publié sur cette affaire.'
+    },    
+    {
+        nom: 'Bigflo',
+        photo: 'Bigflo.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+    {
+        nom: 'Oli',
+        photo: 'Oli',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },    
+    {
+        nom: 'Vodk',
+        photo: 'Personne.png',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Accusations en 2020 d\'avoir manipulé et séduit de jeunes femmes, dont mineures, via sa notoriété. Approches insistantes.\n\nFaits reprochés : Abus d\'influence et manipulation à des fins de séduction (accusations publiques).\n\nSuites Données : Démenti public de VodK, plainte pour dénonciation calomnieuse et cyberharcèlement, retrait temporaire de la RedBox, impact négatif sur son image et sa carrière, difficultés financières ultérieures de ses sociétés. Pas de condamnation judiciaire à ce jour.'
+    },    
+    {
+        nom: 'Bompard, Manuel',
+        photo: 'Manuel_Bompard.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+    {
+        nom: 'Quatennens, Adrien',
+        photo: 'Adrien_Quatennens.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Gifle, saisie du poignet, prise de téléphone, envoi excessif de SMS à sa conjointe. Dénonciation de violences physiques et morales (contestée).\n\nFaits reprochés : Violences conjugales, violences sans incapacité par conjoint, envoi malveillant de messages.\n\nSuites Données :\n- Main courante et plainte de l\'épouse, enquête, mise en retrait de LFI, condamnation avec sursis et dommages-intérêts, maintien comme député'
+    },    
+    {
+        nom: 'Coquerel, Eric',
+        photo: 'Eric_Coquerel.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Gestes déplacés (mains baladeuses), "drague lourdingue", "regard salace et gluant", textos suggestifs lors d\'une soirée en 2014 (accusation de Sophie Tissier). Coquerel parle de "flirt" et dément.\n\nFaits reprochés : Harcèlement sexuel, gestes "pouvant s\'apparenter à une agression sexuelle", agressions sexuel.\n\nSuites Données : Saisine du comité contre les violences sexuelles de LFI par Tissier. Plainte déposée par Tissier (juillet 2022). Ouverture d\'une enquête par le parquet de Paris. Classement sans suite de l\'enquête pour infraction insuffisamment caractérisée (février 2023). Nouvelle plainte avec constitution de partie civile déposée par Tissier (juin 2024).'
+    },    
+    {
+        nom: 'Courbet, Julien',
+        photo: 'Ary_Abittan.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: ''
+    },
+    {
+        nom: 'Cauet, Sébastien',
+        photo: 'Sébastien_Cauet.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations et faits reprochés:\n- Accusé d\'agressions sexuelles et viols (dont sur mineures) via tweets et plaintes de plusieurs femmes sur différentes périodes.\n\nSuites Données :\n- Retrait de NRJ, plaintes de Cauet pour diffamation/extorsion, débouté en justice pour retour antenne, mise en examen pour viols et agressions sur mineures (contrôle judiciaire allégé ensuite), débouté en appel contre NRJ.'
     },
     {
         nom: 'Vianney',
