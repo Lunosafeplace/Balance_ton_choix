@@ -409,7 +409,7 @@ const celebrites = [
     },    
     {
         nom: 'Sheller, William',
-        photo: 'Willain_Sheller.png',
+        photo: 'Willam_Sheller.png',
         reponse: 'pas-affaire',
         infosSupplementaires: ''
     },    
@@ -457,7 +457,7 @@ const celebrites = [
     },
     {
         nom: 'Oli',
-        photo: 'Oli',
+        photo: 'Oli.jpg',
         reponse: 'pas-affaire',
         infosSupplementaires: ''
     },    
