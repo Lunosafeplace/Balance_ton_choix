@@ -439,7 +439,7 @@ const celebrites = [
     },
     {
         nom: 'Samitier, Thierry',
-        photo: 'Ary_Abittan.jpg',
+        photo: 'Personne.png',
         reponse: 'affaire',
         infosSupplementaires: 'Accusations :\n- Gestes déplacés et agressions sexuelles présumés sur plusieurs femmes. Ces faits auraient eu lieu dans le cadre de la pièce "Boeing Boeing" et du tournage de la série "Nos chers voisins". Deux actrices ont déposé une main courante. L\'acteur a démenti publiquement ces accusations.\n\nFaits reprochés : Harcèlement sexuel, agressions sexuelles.\n\nSuites Données :\n- Placement en garde à vue en mai 2023 dans le cadre de l\'enquête. Jugement prévu en 2025 pour harcèlement et agressions sexuelles. Réquisition de 15 mois de prison avec sursis. L\'acteur a écrit un livre inspiré de cette affaire, "Surprise !", relatant un acteur victime de diffamation.'
     },    
