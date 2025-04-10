@@ -81,7 +81,7 @@ const celebrites = [
         nom: 'Beigbeder, Frédéric',
         photo: 'Frédéric_Beigbeder.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusations :\n- Viol d\'une jeune femme de 17 ans dans une chambre d\'hôtel (faits contestés par Beigbeder).\n\nFaits Reprochés : Viol.\n\nSuites Données :\n- Placement en garde à vue le 2 décembre 2023 au commissariat de Pau. L\'enquête a été classée sans suite en juillet 2024 en raison de l\'absence d’indices graves ou concordants et du fait que l’infraction apparaissait insuffisamment caractérisée.'
+        infosSupplementaires: 'Accusations :\n- Viol d\'une jeune femme de 17 ans dans une chambre d\'hôtel (faits contestés par Beigbeder).\n- Plaisanterie en 1995 avec Ardisson et Matzneff imaginant des relations sexuelles avec des "gamines de douze ans et demi".\n\nFaits Reprochés : Viol, apologie de la pédophilie, indécence.\n\nSuites Données :\n- Viol : Placement en garde à vue le 2 décembre 2023 au commissariat de Pau. L\'enquête a été classée sans suite en juillet 2024 en raison de l\'absence d’indices graves ou concordants et du fait que l’infraction apparaissait insuffisamment caractérisée.\n- 1995 : Vive polémique sur les réseaux sociaux en 2020, réactions indignées, absence de suites judiciaires directes (faits prescrits), résonance dans le contexte de l\'affaire Matzneff.'
     },
     {
         nom: 'Monsieur Poulpe',
