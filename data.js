@@ -6,6 +6,270 @@ const celebrites = [
         infosSupplementaires: 'Accusations :\n- Viol (2010 et 2011) : Deux femmes accusent Damien Abad de viol, dont un sous soumission chimique. L\'une des femmes avait déjà porté plainte en 2012 et 2017, classées sans suite.\n- Tentative de viol (date indéterminée) : Une élue de droite l\'accuse de tentative de viol après un dîner officiel. D\'autres témoignages évoquent des comportements inappropriés de sa part.\n Viol sous soumission chimique (2013) : Une quatrième femme l\'accuse de viol après avoir été droguée.\n\nFaits reprochés : Violences sexuelles, utilisation de soumission chimique, abus de pouvoir et comportements inappropriés envers des femmes.\n\nSuites données :\nPlusieurs plaintes ont été déposées. Le parquet de Paris a ouvert une enquête pour tentative de viol. Damien Abad a nié les accusations et porté plainte pour dénonciation calomnieuse. Il a été écarté du gouvernement en juillet 2022. Son immunité parlementaire a été levée en mai 2023. Il a été placé en garde à vue en juin 2023. Mise en examen le 16 mai 2024 pour tentative de viol en 2010.'
     },
     {
+        nom: 'Cyprien',
+        photo: 'Cyprien.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },    
+    {
+        nom: 'Tibo InShape',
+        photo: 'Tibo_InShape.png',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Vidéo du 12 janvier 2024 avec Thérèse Hargot banalisant le viol conjugal en prônant des "rendez-vous sexe" forcés. Association avec une figure controversée.\n\nFaits reprochés : Banalisation du viol conjugal, promotion d\'idées non consensuelles.\n\nSuites Données :\n- Forte polémique sur les réseaux sociaux.'
+    },    
+    {
+        nom: 'Barthès, Yann',
+        photo: 'Yann_Barthès.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Lejeune, Geoffroy',
+        photo: 'Geoffroy_Lejeune.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Lors de l\'émission "L\'heure des Pros" sur CNews le 19 décembre 2024, Geoffroy Lejeune a comparé l\'affaire Pelicot (viols de Gisèle Pelicot par plusieurs hommes) à l\'affaire des "ballets roses" de 1959 (scandale politique impliquant des soirées avec des filles mineures organisées par des célébrités). Il a minimisé les faits en affirmant que les jeunes filles impliquées dans les "ballets roses" étaient consentantes, contrairement aux victimes de l\'affaire Pelicot.\n\nFaits reprochés : Minimisation des viols et remise en question du consentement des victimes dans l\'affaire des "ballets roses", relativisation de la gravité des actes et ignorance de la loi sur le consentement des mineurs.\n\nSuites Données :\n- La polémique a suscité une vive réaction sur les réseaux sociaux et dans les médias. Geoffroy Lejeune a été critiqué pour ses propos et accusé de minimiser les viols et de ne pas respecter la loi. Il n\'a pas fait de déclaration publique pour répondre à ces critiques.'
+    },
+    {
+        nom: 'Ardisson, Thierry',
+        photo: 'Thierry_Ardisson.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Plaisanterie en 1995 avec Beigbeder et Matzneff imaginant des relations sexuelles avec des "gamines de douze ans et demi".\n\nFaits reprochés : Apologie de la pédophilie, indécence.\n\nSuites Données :\n- Vive polémique sur les réseaux sociaux en 2020, réactions indignées, absence de suites judiciaires directes (faits prescrits), résonance dans le contexte de l\'affaire Matzneff.'
+    },
+    {
+        nom: 'Matzneff, Gabriel',
+        photo: 'Gabriel_Matzneff.png',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations (entre autres) :\n- Descriptions explicites de relations sexuelles avec des mineurs dans ses écrits autobiographiques, notamment dans "Les Moins de seize ans", publiées à une époque où cela était moins ouvertement condamné mais rétrospectivement considéré comme problématique et une forme de glorification de la pédophilie.\n- Témoignages de plusieurs femmes (notamment suite au livre "Le Consentement" de Vanessa Springora) relatant des faits de viols et d\'agressions sexuelles lorsqu\'elles étaient mineures, parfois dès l\'âge de 13 ans. Ces témoignages décrivent des relations d\'emprise et des actes non consentis.\n- Révélations en 2024 dans une enquête de Libération l\'impliquant potentiellement dans un réseau de pédocriminalité actif dans les années 1970 et 1980, basé sur des archives judiciaires et des témoignages.\n\nFaits reprochés : Pédophilie, viols sur mineur, agressions sexuelles sur mineur, appartenance à un réseau de pédocriminalité.\n\nSuites Données :\n- Importante polémique médiatique et publique à partir de 2020. Ouverture d\'enquêtes judiciaires suite aux témoignages de victimes pour des faits de viols sur mineur. Arrêt de la commercialisation de ses livres par plusieurs maisons d\'édition. Perquisitions chez son éditeur concernant ses écrits inédits. Retrait de son allocation pour écrivains. Multiplication des témoignages de victimes présumées. Nouvelle enquête judiciaire ouverte en 2024 concernant le réseau de pédocriminalité.\n- Il est crucial de noter que, malgré ces accusations et les enquêtes en cours, Gabriel Matzneff n\'a pas été condamné à ce jour pour les faits de viols et d\'agressions sexuelles, principalement en raison de la prescription des faits les plus anciens.'
+    },
+    {
+        nom: 'Renaud',
+        photo: 'Renaud.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Goldman, Jean-Jacques',
+        photo: 'Jean-Jacques_Goldman.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Sardou, Michel',
+        photo: 'Michel_Sardou.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Sexisme : Paroles de chansons (années 70-80, 2010) perçues comme patriarcales, réduisant la femme à la reproduction, faisant l\'apologie du viol (selon critiques), magnifiant l\'homme et rabaissant la femme.\n- Homophobie : Paroles de chansons ("Le Rire du sergent", "J\'accuse", "Chanteur de jazz") évoquant de manière stéréotypée ou insultante des personnes homosexuelles.\n- 2024 : Le 16 mars 2024, lors de son concert à la Défense Arena à Paris, avant d\'interpréter sa chanson "Je vais t\'aimer", Michel Sardou a fait une blague sur le consentement, visant le mouvement #MeToo.\n\nFaits reprochés : Sexisme, phallocratie, misogynie, entretien de la "culture du viol", banalisation et moquerie du mouvement #MeToo et des questions de consentement, homophobie\n\nSuites Données :\n- Sexisme : Critiques féministes récurrentes, indignation, défenses de Sardou sur l\'interprétation des paroles.\n- Homophobie : Accusations dissipées, absence d\'attaques de la communauté homosexuelle, chanson "Le Privilège" perçue comme tolérante, modification des paroles de "J\'accuse".\n- 2024 : Vives réactions et indignation d\'une partie du public (certains spectateurs, choqués par la blague, ont quitté la salle en signe de protestation). Polémique médiatique et sur les réseaux sociaux : L\'incident a été largement relayé et commenté, suscitant des critiques sur le caractère dépassé et inapproprié de l\'humour de Sardou sur un sujet aussi sensible.'
+    },    
+    {
+        nom: 'Elmosnino, Eric',
+        photo: 'Eric_Elmosnino.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },    
+    {
+        nom: 'Barthélemy, Maurice',
+        photo: 'Maurice_Barthélemy.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Martin-Laval, Pierre-François',
+        photo: 'Pierre-François_Martin-Laval.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Farrugia, Dominique',
+        photo: 'Dominique_Farrugia.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Chabat, Alain',
+        photo: 'Alain_Chabat.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Elmaleh, Gad',
+        photo: 'Gad_Elmaleh.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Attal, Yvan',
+        photo: 'Yvan_Attal.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Debbouze, Jamel',
+        photo: 'Jamel_Debbouze.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Dans un extrait d\'une émission de Burger Quiz datant d\'une dizaine d\'années, Jamel Debbouze a un comportement jugé inapproprié envers une candidate. Il l\'embrasse de force sur la joue, l\'appelle "la Chinoise" ou "la sœur de Pikachu", et fait des remarques sexistes.\n\nFaits reprochés : Racisme, misogynie, agression sexuelle.\n\nSuites Données :\n- La vidéo a été largement partagée sur les réseaux sociaux, suscitant l\'indignation et la condamnation de nombreux internautes. Jamel Debbouze n\'a pas répondu publiquement à ces accusations. Cette polémique a relancé le débat sur les comportements inacceptables dans les émissions de télévision et sur la nécessité de lutter contre le harcèlement et la discrimination.'
+    },    
+    {
+        nom: 'Timsit, Patrick',
+        photo: 'Patrick_Timsit.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },    
+    {
+        nom: 'Baffie, Laurent',
+        photo: 'Laurent_Baffie.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- En 2017, Baffie remonte la jupe de Nolwenn Leroy sans consentement à la télé, plaisantant sur le "cul" pour l\'audience.\n\nFaits reprochés : Geste déplacé, non consenti, atteinte à l\'intimité, banalisation du corps féminin.\n\nSuites Données :\n- Le CSA a reçu plusieurs signalements de téléspectateurs. L\'incident a engendré une polémique médiatique. Thierry Ardisson, animateur de l\'émission, a pris la défense de Baffie. Nolwenn Leroy a minimisé l\'événement. Laurent Baffie a présenté ses excuses à la chanteuse la semaine suivante dans l\'émission.'
+    },
+    {
+        nom: 'Berry, Richard',
+        photo: 'Richard_Berry.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Par Coline Hiegel Berry (fille) : Inceste, viols, agressions sexuelles et corruption de mineure commis par Richard Berry et Jeane Manson entre ses 8 et 10 ans. Contrainte à des jeux sexuels en présence de Shirel (fille de Manson). Contexte de violences conjugales notoires.\n- Par Catherine Hiegel (mère) : Violences conjugales graves de Richard Berry (tête cognée contre lavabo, gifles, tympan explosé enceinte).\n\nFaits reprochés : Inceste, viols sur mineur, agressions sexuelles sur mineur, corruption de mineur, violences conjugales.\n\nSuites Données :\n- Plainte de Coline Berry (janvier 2021) : Enquête préliminaire ouverte. Démenti de Richard Berry : Nie les accusations de sa fille. Reconnaît des violences physiques sur ses ex-épouses. Plainte en diffamation de Jeane Manson contre Coline Berry : Coline Berry condamnée en première instance et en appel pour diffamation. Démenti de Shirel (fille de Manson) : Nie les abus et accuse Coline Berry de harcèlement pour obtenir un faux témoignage. Soutien à Coline Berry : De sa mère Catherine Hiegel, de sa cousine Marilou Berry et de sa tante Josiane Balasko. Classement sans suite de la procédure visant Richard Berry (septembre 2021) pour prescription. Annulation de la condamnation de Coline Berry en cassation (décembre 2023) : Renvoi devant la cour d\'appel de Lyon. Publication de l\'accusation de violences conjugales par Catherine Hiegel (mai 2024) : Démenti de Richard Berry (reconnaît une claque).'
+    },
+    {
+        nom: 'Anconina, Richard',
+        photo: 'Richard_Anconina.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Leconte, Patrice',
+        photo: 'Patrice_Leconte.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Boublil, Max',
+        photo: 'Max_Boublil.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Solo, Bruno',
+        photo: 'Bruno_Solo.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Le Bolloc\'h, Yvan',
+        photo: 'Yvan_le_Bolloch.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },    
+    {
+        nom: 'Ducret, Arnaud',
+        photo: 'Arnaud_Ducret.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },    
+    {
+        nom: 'Darroussin, Jean-Pierre',
+        photo: 'Jean-Pierre_Darroussin.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Mellia, Seb',
+        photo: 'Personne.png',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n-2019 : Accusation de viol par une femme.\n- 2024 : Relais par Florence Mendez des témoignages d\'une trentaine de femmes dénonçant son comportement. Publication par Télérama de onze témoignages de femmes l\'accusant d\'agressions sexuelles et de viols. Plainte pour viols déposée par Tania Dutel.\n- Accusations d\'attouchement sexuel datant de 2019 (motif de son audition libre).\n\nFaits reprochés : Viol, agressions sexuelles, attouchement sexuel.\n\nSuites Données :\n- Rassemblement devant une de ses représentations à Bruxelles (janvier 2024). Publication de témoignages dans Télérama (mars 2024). Démenti des faits reprochés par Sébastien Mellia. Plainte pour viols déposée par Tania Dutel (avril 2024). Audition libre dans un commissariat parisien pour des accusations d\'attouchement (mai 2024). Ouverture d\'une deuxième enquête pour viol (mai 2024) suite à la plainte de Tania Dutel.'
+    },
+    {
+        nom: 'Antoine, Eric',
+        photo: 'Eric_Antoine.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Novembre, Tom',
+        photo: 'Tom_Novembre.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Plaza, Stéphane',
+        photo: 'Stéphane_Plaza.png',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\nTrois anciennes compagnes accusent Stéphane Plaza de violences physiques, verbales, psychologiques et de menaces, dont une menace de mort. L\'une d\'elles décrit des blessures importantes à la main suite à une dispute.\n\nFaits reprochés : Violences physiques, violences verbales, violences psychologiques, menaces, harcèlement et cyberharcèlement, violences habituelles par concubin.\n\nSuites Données :\n- Mediapart révèle les accusations, entraînant une enquête interne chez M6 (qui maintient initialement Plaza à l\'antenne). Le parquet de Paris ouvre une enquête préliminaire suite aux courriers de deux ex-compagnes, qui déposent ensuite plainte. Des "proches" de Plaza déposent plainte pour harcèlement contre les accusatrices. Après une garde à vue, Plaza est renvoyé en procès. L\'audience est reportée pour une expertise psychiatrique. Au procès, Plaza nie les faits. Le parquet requiert 18 mois de prison avec sursis et une amende. La plainte de Plaza contre les femmes est classée sans suite. Finalement, Plaza est condamné à 12 mois de prison avec sursis pour violences habituelles par concubin et annonce son intention de faire appel. Suite à la condamnation, M6 déprogramme ses émissions.'
+    },
+    {
+        nom: 'Demaison, François-Xavier',
+        photo: 'François-Xavier_Demaison.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Dussollier, André',
+        photo: 'André_Dussollier.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },    
+    {
+        nom: 'Berléand, François',
+        photo: 'François_Berléand.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },    
+    {
+        nom: 'De Caunes, Antoine',
+        photo: 'Antoine_de_Caune.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Garcia, José',
+        photo: 'José_Garcia.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Magimel, Benoït',
+        photo: 'Benoit_Magimel.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Dubosc, Franck',
+        photo: 'Julien_Courbet.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Adams, Kev',
+        photo: 'Kev-Adams.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Moix, Yann',
+        photo: 'Yann_Moix.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Propos sur les femmes (2019) : Dans une interview à Marie Claire, Yann Moix déclare être "incapable d\'aimer une femme de 50 ans" car il trouve cela "trop vieux" et préfère les femmes jeunes.\n- Propos sur Michael Jackson (2019) : Dans l\'émission "Les Terriens du Samedi", Yann Moix prend la défense de Michael Jackson face aux accusations de pédophilie dans le documentaire Leaving Neverland, déclarant notamment qu'"un enfant, ça ne couche qu'avec les adultes qui forcent les enfants à coucher\".\n- Propos sur les femmes (2025) : Dans l'émission \"Pascale, Éric, Yann et les autres\" sur C8, des propos de Yann Moix ont choqué les internautes, notamment une phrase : \"Ce sont des femmes abîmées, donc faut cogner\". Des propos tenus dans un Complément d'enquête sur Gérard Depardieu ont également refait surface où il tenait des propos sexualisant des mineures.\n\nFaits reprochés : Sexisme, âgisme, propos blessants et humiliants envers les femmes d'un certain âge, minimisation des faits de pédophilie, propos jugés choquants et insensibles envers les victimes, incitation à la violence envers les femmes, propos dégradants et sexualisation de mineures.\n\nSuites données :\n- Sur les femmes (2019) : Tollé médiatique et réactions indignées de nombreuses personnalités et internautes. Des femmes ont ironiquement posté des photos d'elles pour lui répondre. Yann Moix a tenté de se justifier en expliquant qu'il parlait de son propre blocage psychologique et non d'une vérité générale.\n- Sur Michael Jackson : Réactions critiques sur les réseaux sociaux. Thierry Ardisson, l'animateur de l'émission, a pris la parole pour préciser que Yann Moix n'était pas un chroniqueur mais un écrivain libre de ses propos.\n- Sur les femmes (2025) : Indignation et critiques sur les réseaux sociaux. L'attitude désinvolte de Yann Moix face à la polémique lors de son retour à l'antenne a également choqué.'
+    },
+        {
+        nom: 'Bénabar',
+        photo: 'Bénabar.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },    
+    {
+        nom: 'Lanvin, Gérard',
+        photo: 'Gérard_Lanvin.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },    
+    {
+        nom: 'Duléry, Antoine',
+        photo: 'Antoine_Duléry.jpg',
+        reponse: 'pas-affaire',
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
+    },
+    {
+        nom: 'Wilson, Lambert',
+        photo: 'Lambert-Wilson.jpg',
+        reponse: 'affaire',
+        infosSupplementaires: 'Accusations :\n- Suite à la cérémonie controversée où Roman Polanski a été primé et Florence Foresti a quitté la présentation, Lambert Wilson a publiquement critiqué l\'attitude de l\'humoriste, la qualifiant notamment de "minable".\n\nFaits reprochés : Soutien implicite à Polanski, critique sévère envers Foresti, manque de solidarité victimes.\n\nSuites Données :\n- La polémique a été médiatisée et a suscité des réactions diverses. Plus tard, en 2024, il a été révélé que Lambert Wilson avait été "viré" de son rôle d\'ambassadeur auprès de Greenpeace, une organisation qu\'il soutenait depuis longtemps. Cette décision aurait été motivée par les propos de l\'acteur concernant la cérémonie des César et son attitude envers Florence Foresti, l\'ONG considérant cela incompatible avec ses valeurs de soutien aux victimes et de lutte contre les violences.'
+    },
+    {
         nom: 'Slimane',
         photo: 'Slimane.jpg',
         reponse: 'affaire',
