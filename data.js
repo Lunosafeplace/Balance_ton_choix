@@ -243,19 +243,19 @@ const celebrites = [
         nom: 'Gims',
         photo: 'Gims.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Girac, Kendji',
         photo: 'Kendji_Girac.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Cabrel, Francis',
         photo: 'Francis_Cabrel.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
         nom: 'Bruel, Patrick',
@@ -267,37 +267,37 @@ const celebrites = [
         nom: 'Macron, Emmanuel',
         photo: 'Emmanuel_Macron.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
         {
         nom: 'Larcher, Gérard',
         photo: 'Gérard_Larcher.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
         nom: 'Jugnot, Gérard',
         photo: 'Gérard_Jugnot.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Semoun, Elie',
         photo: 'Elie_Semoun.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Bourdon, Didier',
         photo: 'Didier_Bourdon.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
         nom: 'Campan, Bernard',
         photo: 'Bernard_Campan.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Légitimus, Pascal',
@@ -309,13 +309,13 @@ const celebrites = [
         nom: 'Soprano',
         photo: 'Soprano.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
         nom: 'Gradur',
         photo: 'Gradur.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Heuss l\'enfoiré',
@@ -333,25 +333,25 @@ const celebrites = [
         nom: 'Niney, Pierre',
         photo: 'Pierre_Niney.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Civil, François',
         photo: 'François_Civil.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },     
     {
         nom: 'Lellouche, Gilles',
         photo: 'Gilles_Lellouche.png',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
         nom: 'Obispo, Pascal',
         photo: 'Pascal_Obispo.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Lavoine, Marc',
@@ -363,55 +363,55 @@ const celebrites = [
         nom: 'Pagny, Florent',
         photo: 'Florent_Pagny.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
         nom: 'Maé, Christophe',
         photo: 'Christophe_Maé.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Moire, Emmanuel',
         photo: 'Emmanuel_Moire.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Olympe',
         photo: 'Olympe.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
         nom: 'Lamotte, Martin',
         photo: 'Martin_Lamotte.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Souchon, Alain',
         photo: 'Alain_Souchon.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Voulzy, Laurent',
         photo: 'Laurent_Voulzy.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
         nom: 'Mitchell, Eddy',
         photo: 'Eddy_Mitchell.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Sheller, William',
         photo: 'William_Sheller.png',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Saez, Damien',
@@ -453,13 +453,13 @@ const celebrites = [
         nom: 'Bigflo',
         photo: 'Bigflo.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
         nom: 'Oli',
         photo: 'Oli.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },    
     {
         nom: 'Vodk',
@@ -471,7 +471,7 @@ const celebrites = [
         nom: 'Bompard, Manuel',
         photo: 'Manuel_Bompard.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
         nom: 'Quatennens, Adrien',
@@ -487,9 +487,9 @@ const celebrites = [
     },    
     {
         nom: 'Courbet, Julien',
-        photo: 'Ary_Abittan.jpg',
+        photo: 'Julien_Courbet.jpg',
         reponse: 'pas-affaire',
-        infosSupplementaires: ''
+        infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
     {
         nom: 'Cauet, Sébastien',
