@@ -165,7 +165,7 @@
         nom: 'Jegou, Oscar',
         photo: 'Oscar_Jégou.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: 'En juillet 2024, Oscar Jegou, joueur de rugby du XV de France, a été mis en examen en Argentine pour viol aggravé, en même temps que son coéquipier Hugo Auradou. Les faits se seraient déroulés dans un hôtel à Mendoza après un match de l\'équipe de France. Les deux rugbymen ont toujours nié les accusations, affirmant qu'il s'agissait d\'une relation consentie.'
+        infosSupplementaires: 'En juillet 2024, Oscar Jegou, joueur de rugby du XV de France, a été mis en examen en Argentine pour viol aggravé, en même temps que son coéquipier Hugo Auradou. Les faits se seraient déroulés dans un hôtel à Mendoza après un match de l\'équipe de France. Les deux rugbymen ont toujours nié les accusations, affirmant qu\'il s\'agissait d\'une relation consentie.'
     },
     {
         nom: 'Lomepal',
@@ -207,7 +207,7 @@
         nom: 'Strauss-Kahn, Dominique',
         photo: 'Dominique_Strauss-Kahn.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: 'Il a été accusé d\'agression sexuelle et de tentative de viol par Nafissatou Diallo, une femme de chambre de l\'hôtel Sofitel. Il a été arrêté, mais les charges pénales ont finalement été abandonnées par le procureur en août 2011 en raison de doutes sur la crédibilité du témoignage de la plaignante. Une procédure civile a également été engagée par Nafissatou Diallo, qui s\'est soldée par un accord financier à l\'amiable en décembre 2012.\n\nIl a été poursuivi pour proxénétisme aggravé en bande organisée dans le cadre d\'une affaire de réseau de prostitution lié à l\'hôtel Carlton de Lille. Après un procès très médiatisé en 2015, il a été acquitté de ces accusations. Le tribunal n\'a pas établi sa participation à un réseau de prostitution et a estimé qu'il n'était pas prouvé qu\'il avait conscience du caractère prostitutionnel des rencontres.'
+        infosSupplementaires: 'Il a été accusé d\'agression sexuelle et de tentative de viol par Nafissatou Diallo, une femme de chambre de l\'hôtel Sofitel. Il a été arrêté, mais les charges pénales ont finalement été abandonnées par le procureur en août 2011 en raison de doutes sur la crédibilité du témoignage de la plaignante. Une procédure civile a également été engagée par Nafissatou Diallo, qui s\'est soldée par un accord financier à l\'amiable en décembre 2012.\n\nIl a été poursuivi pour proxénétisme aggravé en bande organisée dans le cadre d\'une affaire de réseau de prostitution lié à l\'hôtel Carlton de Lille. Après un procès très médiatisé en 2015, il a été acquitté de ces accusations. Le tribunal n\'a pas établi sa participation à un réseau de prostitution et a estimé qu\'il n\'était pas prouvé qu\'il avait conscience du caractère prostitutionnel des rencontres.'
     },
     {
         nom: 'Thavaud, Norman',
@@ -249,7 +249,7 @@
         nom: 'Lavoine, Marc',
         photo: 'Marc_Lavoine.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: 'Marc Lavoine embrasse Léa (Star Academy) dans le cou avant un duo. Geste jugé déplacé par des internautes. Léa défend Lavoine, parle de bienveillance et d\'attitude paternelle. Pas d'accusation formelle.'
+        infosSupplementaires: 'Marc Lavoine embrasse Léa (Star Academy) dans le cou avant un duo. Geste jugé déplacé par des internautes. Léa défend Lavoine, parle de bienveillance et d\'attitude paternelle. Pas d\'accusation formelle.'
     },    
     {
         nom: 'Saez, Damien',
@@ -261,13 +261,13 @@
         nom: 'Benzema, Karim',
         photo: 'Karim_Benzema.jpg',
         reponse: 'condamne',
-        infosSupplementaires: 'L\'affaire Zahia : L\'affaire éclate en avril 2010 lors d\'une enquête sur un réseau de prostitution. Les auditions de Zahia Dehar révèlent qu\'elle aurait eu des relations sexuelles tarifées avec plusieurs joueurs de l\'équipe de France, dont Karim Benzema et Franck Ribéry. Elle aurait été mineure (16 ans) au moment de ses rapports avec ces deux derniers. Karim Benzema et Franck Ribéry ont été renvoyés devant le tribunal correctionnel pour sollicitation de prostituée mineure. Ils étaient soupçonnés de ne pas avoir vérifié l\'âge de Zahia Dehar. En janvier 2014, Karim Benzema et Franck Ribéry ont été relaxés par le tribunal correctionnel de Paris. Le tribunal a estimé qu'il n'était pas prouvé qu\'ils avaient connaissance de la minorité de Zahia Dehar, qui avait menti sur son âge. Le procureur avait d\'ailleurs requis la relaxe.\n\nL\'affaire de la sextape de Mathieu Valbuena (2015-2022) : Karim Benzema a été accusé de complicité de tentative de chantage à l\'égard de son coéquipier de l\'équipe de France, Mathieu Valbuena, concernant une vidéo intime. En novembre 2021, il a été condamné en première instance à un an de prison avec sursis et 75 000 euros d\'amende. Il a fait appel de cette décision. En juin 2022, il a finalement renoncé à son appel, rendant sa condamnation définitive.'
+        infosSupplementaires: 'L\'affaire Zahia : L\'affaire éclate en avril 2010 lors d\'une enquête sur un réseau de prostitution. Les auditions de Zahia Dehar révèlent qu\'elle aurait eu des relations sexuelles tarifées avec plusieurs joueurs de l\'équipe de France, dont Karim Benzema et Franck Ribéry. Elle aurait été mineure (16 ans) au moment de ses rapports avec ces deux derniers. Karim Benzema et Franck Ribéry ont été renvoyés devant le tribunal correctionnel pour sollicitation de prostituée mineure. Ils étaient soupçonnés de ne pas avoir vérifié l\'âge de Zahia Dehar. En janvier 2014, Karim Benzema et Franck Ribéry ont été relaxés par le tribunal correctionnel de Paris. Le tribunal a estimé qu\'il n\'était pas prouvé qu\'ils avaient connaissance de la minorité de Zahia Dehar, qui avait menti sur son âge. Le procureur avait d\'ailleurs requis la relaxe.\n\nL\'affaire de la sextape de Mathieu Valbuena (2015-2022) : Karim Benzema a été accusé de complicité de tentative de chantage à l\'égard de son coéquipier de l\'équipe de France, Mathieu Valbuena, concernant une vidéo intime. En novembre 2021, il a été condamné en première instance à un an de prison avec sursis et 75 000 euros d\'amende. Il a fait appel de cette décision. En juin 2022, il a finalement renoncé à son appel, rendant sa condamnation définitive.'
     },    
     {
         nom: 'Ribéry, Franck',
         photo: 'Franck_Ribery.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: 'L\'affaire Zahia : L\'affaire éclate en avril 2010 lors d\'une enquête sur un réseau de prostitution. Les auditions de Zahia Dehar révèlent qu\'elle aurait eu des relations sexuelles tarifées avec plusieurs joueurs de l\'équipe de France, dont Karim Benzema et Franck Ribéry. Elle aurait été mineure (16 ans) au moment de ses rapports avec ces deux derniers. Karim Benzema et Franck Ribéry ont été renvoyés devant le tribunal correctionnel pour sollicitation de prostituée mineure. Ils étaient soupçonnés de ne pas avoir vérifié l\'âge de Zahia Dehar. En janvier 2014, Karim Benzema et Franck Ribéry ont été relaxés par le tribunal correctionnel de Paris. Le tribunal a estimé qu'il n'était pas prouvé qu\'ils avaient connaissance de la minorité de Zahia Dehar, qui avait menti sur son âge. Le procureur avait d\'ailleurs requis la relaxe.'
+        infosSupplementaires: 'L\'affaire Zahia : L\'affaire éclate en avril 2010 lors d\'une enquête sur un réseau de prostitution. Les auditions de Zahia Dehar révèlent qu\'elle aurait eu des relations sexuelles tarifées avec plusieurs joueurs de l\'équipe de France, dont Karim Benzema et Franck Ribéry. Elle aurait été mineure (16 ans) au moment de ses rapports avec ces deux derniers. Karim Benzema et Franck Ribéry ont été renvoyés devant le tribunal correctionnel pour sollicitation de prostituée mineure. Ils étaient soupçonnés de ne pas avoir vérifié l\'âge de Zahia Dehar. En janvier 2014, Karim Benzema et Franck Ribéry ont été relaxés par le tribunal correctionnel de Paris. Le tribunal a estimé qu\'il n\'était pas prouvé qu\'ils avaient connaissance de la minorité de Zahia Dehar, qui avait menti sur son âge. Le procureur avait d\'ailleurs requis la relaxe.'
     },    
     {
         nom: 'Louvin, Gérard',
