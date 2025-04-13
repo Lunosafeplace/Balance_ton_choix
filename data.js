@@ -229,7 +229,7 @@ const celebrites = [
     },
     {
         nom: 'Dubosc, Franck',
-        photo: 'Julien_Courbet.jpg',
+        photo: 'Franck_Dubosc.jpg',
         reponse: 'pas-affaire',
         infosSupplementaires: 'Aucune affaire connue à ce jour.'
     },
@@ -435,7 +435,7 @@ const celebrites = [
         nom: 'Gastambide, Franck',
         photo: 'Franck_Gastambide.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusations et faits reprochés :\n- Violences sexuelles, physiques et psychologiques (février 2025) : Six femmes, dont trois ont été ses compagnes, accusent Franck Gastambide de violences sexuelles, physiques et psychologiques.\n\nSuites données :n- Franck Gastambide nie les accusations. Il se déclare victime d’une campagne de calomnie orchestrée par l’une d’elles et l\'accuse de violences.'
+        infosSupplementaires: 'Accusations et faits reprochés :\n- Violences sexuelles, physiques et psychologiques (février 2025) : Six femmes, dont trois ont été ses compagnes, accusent Franck Gastambide de violences sexuelles, physiques et psychologiques.\n\nSuites données :\n- Franck Gastambide nie les accusations. Il se déclare victime d’une campagne de calomnie orchestrée par l’une d’elles et l\'accuse de violences.'
     },
     {
         nom: 'Hulot, Nicolas',
@@ -525,7 +525,7 @@ const celebrites = [
         nom: 'Bruel, Patrick',
         photo: 'Patrick_Bruel.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusations :\n\n- Accusations d\'exhibition et harcèlement sexuels par une employée d\hôtel lors d\'un massage en août 2019 (contestées par Bruel).\n\nFaits reprochés : Exhibition sexuelle présumée, harcèlement sexuel présumé.\n\nSuites Données : Enquête préliminaire ouverte, Bruel entendu et a nié, enquête classée sans suite pour absence d\'infraction.'
+        infosSupplementaires: 'Accusations :\n\n- Accusations d\'exhibition et harcèlement sexuels par une employée d\hôtel lors d\'un massage en août 2019 (contestées par Bruel).\n\nFaits reprochés : Exhibition sexuelle présumée, harcèlement sexuel présumé.\n\nSuites Données :\n- Enquête préliminaire ouverte, Bruel entendu et a nié, enquête classée sans suite pour absence d\'infraction.'
     },    
     {
         nom: 'Macron, Emmanuel',
@@ -693,7 +693,7 @@ const celebrites = [
         nom: 'Ribéry, Franck',
         photo: 'Franck_Ribery.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusations :\n- Relations sexuelles tarifées avec Zahia Dehar en 2009, alors qu\'elle était mineure. Ribéry a reconnu les relations mais affirmé ignorer sa minorité.\n\nFaits reprochés : Sollicitation de prostituée mineure.\n\nSuites Données : Entendu par la police comme témoin (avril 2010), puis placé en garde à vue et mis en examen (juillet 2010). Relaxé en janvier 2014, la cour estimant qu\'il ignorait la minorité de Zahia Dehar. L\'affaire a eu un fort écho médiatique et a coïncidé avec l\'échec de la France au Mondial 2010.'
+        infosSupplementaires: 'Accusations :\n- Relations sexuelles tarifées avec Zahia Dehar en 2009, alors qu\'elle était mineure. Ribéry a reconnu les relations mais affirmé ignorer sa minorité.\n\nFaits reprochés : Sollicitation de prostituée mineure.\n\nSuites Données :\n- Entendu par la police comme témoin (avril 2010), puis placé en garde à vue et mis en examen (juillet 2010). Relaxé en janvier 2014, la cour estimant qu\'il ignorait la minorité de Zahia Dehar. L\'affaire a eu un fort écho médiatique et a coïncidé avec l\'échec de la France au Mondial 2010.'
     },    
     {
         nom: 'Louvin, Gérard',
@@ -729,7 +729,7 @@ const celebrites = [
         nom: 'Vodk',
         photo: 'Personne.png',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusations :\n- Accusations en 2020 d\'avoir manipulé et séduit de jeunes femmes, dont mineures, via sa notoriété. Approches insistantes.\n\nFaits reprochés : Abus d\'influence et manipulation à des fins de séduction (accusations publiques).\n\nSuites Données : Démenti public de VodK, plainte pour dénonciation calomnieuse et cyberharcèlement, retrait temporaire de la RedBox, impact négatif sur son image et sa carrière, difficultés financières ultérieures de ses sociétés. Pas de condamnation judiciaire à ce jour.'
+        infosSupplementaires: 'Accusations :\n- Accusations en 2020 d\'avoir manipulé et séduit de jeunes femmes, dont mineures, via sa notoriété. Approches insistantes.\n\nFaits reprochés : Abus d\'influence et manipulation à des fins de séduction (accusations publiques).\n\nSuites Données :\n- Démenti public de VodK, plainte pour dénonciation calomnieuse et cyberharcèlement, retrait temporaire de la RedBox, impact négatif sur son image et sa carrière, difficultés financières ultérieures de ses sociétés. Pas de condamnation judiciaire à ce jour.'
     },    
     {
         nom: 'Bompard, Manuel',
@@ -747,7 +747,7 @@ const celebrites = [
         nom: 'Coquerel, Eric',
         photo: 'Eric_Coquerel.jpg',
         reponse: 'affaire',
-        infosSupplementaires: 'Accusations :\n- Gestes déplacés (mains baladeuses), "drague lourdingue", "regard salace et gluant", textos suggestifs lors d\'une soirée en 2014 (accusation de Sophie Tissier). Coquerel parle de "flirt" et dément.\n\nFaits reprochés : Harcèlement sexuel, gestes "pouvant s\'apparenter à une agression sexuelle", agressions sexuel.\n\nSuites Données : Saisine du comité contre les violences sexuelles de LFI par Tissier. Plainte déposée par Tissier (juillet 2022). Ouverture d\'une enquête par le parquet de Paris. Classement sans suite de l\'enquête pour infraction insuffisamment caractérisée (février 2023). Nouvelle plainte avec constitution de partie civile déposée par Tissier (juin 2024).'
+        infosSupplementaires: 'Accusations :\n- Gestes déplacés (mains baladeuses), "drague lourdingue", "regard salace et gluant", textos suggestifs lors d\'une soirée en 2014 (accusation de Sophie Tissier). Coquerel parle de "flirt" et dément.\n\nFaits reprochés : Harcèlement sexuel, gestes "pouvant s\'apparenter à une agression sexuelle", agressions sexuel.\n\nSuites Données :\n- Saisine du comité contre les violences sexuelles de LFI par Tissier. Plainte déposée par Tissier (juillet 2022). Ouverture d\'une enquête par le parquet de Paris. Classement sans suite de l\'enquête pour infraction insuffisamment caractérisée (février 2023). Nouvelle plainte avec constitution de partie civile déposée par Tissier (juin 2024).'
     },    
     {
         nom: 'Courbet, Julien',
