@@ -14,7 +14,7 @@
     margin-top: 0; /* Supprime l'espace au-dessus du titre de la lettre */
     margin-bottom: 1em; /* Espace sous le titre de la lettre */
     font-size: 2em; /* Rend la lettre plus grosse */
-    color: #800080; /* Violet foncé */
+    color: #dda0dd; /* Violet clair */
     margin-right: 1em; /* Espace entre la lettre et les définitions */
     flex-shrink: 0; /* Empêche la lettre de rétrécir */
     width: 1.5em; /* Largeur fixe pour alignement (ajustez si nécessaire) */
@@ -30,7 +30,7 @@
     font-weight: bold; /* Met le terme en gras */
     margin-bottom: 0.3em; /* Petit espace sous le terme */
     margin-top: 0.8em; /* Petit espace au-dessus du terme pour séparer les définitions */
-    color: #dda0dd; /* Violet clair */
+    color: #800080; /* Violet foncé */
 }
 
 .definition-group dd {
