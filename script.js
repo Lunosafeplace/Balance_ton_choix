@@ -1,33 +1,23 @@
 document.addEventListener('DOMContentLoaded', function() {
     console.log('script.js chargé');
 
-    // Inclure le fichier data.js
-    const scriptData = document.createElement('script');
-    scriptData.src = 'data.js';
-    document.head.appendChild(scriptData);
+    // La variable 'celebrites' devrait être disponible ici car data.js est inclus dans le HTML
 
-    scriptData.onload = function() {
-        console.log('data.js chargé');
-        // Vérifier si nous sommes sur la page d'accueil (index.html)
-        if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
-            afficherPourcentageCondamnes();
-        } else {
-            console.log('Pas sur la page d\'accueil, le pourcentage ne sera pas affiché.');
-        }
-    };
-
-    scriptData.onerror = function() {
-        console.error('Erreur lors du chargement de data.js');
-    };
+    // Vérifier si nous sommes sur la page d'accueil (index.html)
+    if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
+        afficherPourcentageCondamnes();
+    } else {
+        console.log('Pas sur la page d\'accueil, le pourcentage ne sera pas affiché.');
+    }
 
     function afficherPourcentageCondamnes() {
         if (typeof celebrites === 'undefined') {
-            console.error('La variable "celebrites" n\'est pas définie dans data.js');
+            console.error('La variable "celebrites" n\'est pas définie.');
             return;
         }
 
         const totalCelebrites = celebrites.length;
-        const celebritesCondamnees = celebrites.filter(personne => personne.statut === 'condamne').length;
+        const celebritesCondamnees = celebrites.filter(personne => personne.reponse === 'condamne').length; // Utilisez 'reponse' au lieu de 'statut'
 
         if (totalCelebrites > 0) {
             const pourcentageCondamnes = (celebritesCondamnees / totalCelebrites) * 100;
@@ -52,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // Gestionnaire d'événements pour le bouton "De A à Z" (renommé en "Célébrités" selon le href)
+    // Gestionnaires d'événements pour les boutons
     const celebritiesBtn = document.getElementById('a-z-button');
     if (celebritiesBtn) {
         celebritiesBtn.addEventListener('click', () => {
@@ -62,7 +52,6 @@ document.addEventListener('DOMContentLoaded', function() {
         console.error("L'élément a-z-button n'a pas été trouvé.");
     }
 
-    // Gestionnaire d'événements pour le bouton "Quiz"
     const demarrerJeuBtn = document.getElementById('demarrer-jeu');
     if (demarrerJeuBtn) {
         demarrerJeuBtn.addEventListener('click', () => {
@@ -72,7 +61,6 @@ document.addEventListener('DOMContentLoaded', function() {
         console.error("L'élément demarrer-jeu n'a pas été trouvé.");
     }
 
-    // Gestionnaire d'événements pour le bouton "Témoignages"
     const temoignagesBtn = document.getElementById('temoignages-button');
     if (temoignagesBtn) {
         temoignagesBtn.addEventListener('click', () => {
@@ -82,7 +70,6 @@ document.addEventListener('DOMContentLoaded', function() {
         console.error("L'élément temoignages-button n'a pas été trouvé.");
     }
 
-    // Gestionnaire d'événements pour le bouton "Définitions"
     const definitionsBtn = document.getElementById('definitions-button');
     if (definitionsBtn) {
         definitionsBtn.addEventListener('click', () => {
