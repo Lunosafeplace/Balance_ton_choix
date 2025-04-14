@@ -582,5 +582,3 @@
         infosSupplementaires: 'En 2017, lors d\'une émission sur RTL, Jean Lassalle a été interpellé sur des témoignages anonymes l\'accusant d\'avoir eu des gestes déplacés envers des femmes, notamment une main aux fesses. Jean Lassalle avait nié avoir eu des comportements de ce type avec une intention de nuire ou d\'agresser, tout en reconnaissant être quelqu\'un de "tactile" et ayant une "tendance à embrasser fortement".\n\nEn juillet 2023, une enquête préliminaire a été ouverte par le parquet de Bordeaux suite à la plainte d\'une femme de 45 ans l\'accusant de viol et d\'agression sexuelle lors d\'un rendez-vous en 2010. Jean Lassalle avait déclaré avoir été prévenu et attendre d\'en savoir plus, sans nier explicitement les faits à ce moment-là.\n\nL\'enquête préliminaire ouverte en juillet 2023 a été classée sans suite par le parquet de Bordeaux en mars 2024. Les raisons précises de ce classement n\'ont pas été détaillées publiquement dans tous les médias, mais il est indiqué que l\'enquête n\'a pas permis de confirmer les faits.'
     },
 ];
-
-export default celebrites;
