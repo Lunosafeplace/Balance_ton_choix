@@ -6,26 +6,38 @@
 
 .definition-group {
     margin-bottom: 2em; /* Espace entre les groupes de lettres (A, C, D, etc.) */
+    display: flex; /* Pour aligner la lettre et les définitions */
+    align-items: flex-start; /* Aligner le haut de la lettre avec le haut de la première définition */
 }
 
 .definition-group h3 {
     margin-top: 0; /* Supprime l'espace au-dessus du titre de la lettre */
     margin-bottom: 1em; /* Espace sous le titre de la lettre */
+    font-size: 2em; /* Rend la lettre plus grosse */
+    color: #800080; /* Violet foncé */
+    margin-right: 1em; /* Espace entre la lettre et les définitions */
+    flex-shrink: 0; /* Empêche la lettre de rétrécir */
+    width: 1.5em; /* Largeur fixe pour alignement (ajustez si nécessaire) */
+    text-align: left; /* Aligne la lettre à gauche de son espace */
 }
 
 .definition-group dl {
     /* Vous pouvez ajouter des styles pour la liste de définitions ici si nécessaire */
+    flex-grow: 1; /* Permet aux définitions de prendre l'espace restant */
 }
 
 .definition-group dt {
     font-weight: bold; /* Met le terme en gras */
     margin-bottom: 0.3em; /* Petit espace sous le terme */
     margin-top: 0.8em; /* Petit espace au-dessus du terme pour séparer les définitions */
+    color: #dda0dd; /* Violet clair */
 }
 
 .definition-group dd {
     margin-left: 0; /* Supprime l'indentation par défaut de dd */
-    margin-bottom: 1em; /* Espace sous la définition (c'est ce qui crée l'écart entre les définitions) */
+    margin-bottom: 1em; /* Espace sous la définition */
+    padding-left: 1em; /* Ajoute un espace entre le mot et la définition */
+    text-indent: -1em; /* Compense l'indentation pour aligner le début du texte de la définition */
 }
 
 /* Style pour le lien de retour à l'accueil */
