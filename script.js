@@ -1,9 +1,8 @@
+import celebrites from './data.js';
+
 document.addEventListener('DOMContentLoaded', function() {
     console.log('script.js chargé');
 
-    // La variable 'celebrites' devrait être disponible ici car data.js est inclus dans le HTML
-
-    // Vérifier si nous sommes sur la page d'accueil (index.html)
     if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
         afficherPourcentageCondamnes();
     } else {
@@ -12,18 +11,17 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function afficherPourcentageCondamnes() {
         if (typeof celebrites === 'undefined') {
-            console.error('La variable "celebrites" n\'est pas définie.');
+            console.error('La variable "celebrites" n\'a pas été importée correctement.');
             return;
         }
 
         const totalCelebrites = celebrites.length;
-        const celebritesCondamnees = celebrites.filter(personne => personne.reponse === 'condamne').length; // Utilisez 'reponse' au lieu de 'statut'
+        const celebritesCondamnees = celebrites.filter(personne => personne.reponse === 'condamne').length;
 
         if (totalCelebrites > 0) {
             const pourcentageCondamnes = (celebritesCondamnees / totalCelebrites) * 100;
             console.log(`Pourcentage de célébrités condamnées : ${pourcentageCondamnes.toFixed(2)}%`);
 
-            // Créer le nuage rouge avec le pourcentage
             const pourcentageDiv = document.createElement('div');
             pourcentageDiv.style.position = 'absolute';
             pourcentageDiv.style.top = '10px';
@@ -31,9 +29,9 @@ document.addEventListener('DOMContentLoaded', function() {
             pourcentageDiv.style.backgroundColor = 'red';
             pourcentageDiv.style.color = 'white';
             pourcentageDiv.style.padding = '10px';
-            pourcentageDiv.style.borderRadius = '20px'; // Pour l'effet de nuage
+            pourcentageDiv.style.borderRadius = '20px';
             pourcentageDiv.style.fontWeight = 'bold';
-            pourcentageDiv.style.zIndex = '1000'; // Pour s'assurer qu'il est au-dessus des autres éléments
+            pourcentageDiv.style.zIndex = '1000';
             pourcentageDiv.textContent = `${pourcentageCondamnes.toFixed(0)}%`;
 
             document.body.appendChild(pourcentageDiv);
@@ -42,7 +40,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // Gestionnaires d'événements pour les boutons
     const celebritiesBtn = document.getElementById('a-z-button');
     if (celebritiesBtn) {
         celebritiesBtn.addEventListener('click', () => {
