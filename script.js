@@ -1,6 +1,52 @@
 document.addEventListener('DOMContentLoaded', function() {
     console.log('script.js chargé');
 
+    // Inclure le fichier data.js
+    const script = document.createElement('script');
+    script.src = 'data.js';
+    document.head.appendChild(script);
+
+    script.onload = function() {
+        console.log('data.js chargé');
+        afficherPourcentageCondamnes();
+    };
+
+    script.onerror = function() {
+        console.error('Erreur lors du chargement de data.js');
+    };
+
+    function afficherPourcentageCondamnes() {
+        if (typeof celebrites === 'undefined') {
+            console.error('La variable "celebrites" n\'est pas définie dans data.js');
+            return;
+        }
+
+        const totalCelebrites = celebrites.length;
+        const celebritesCondamnees = celebrites.filter(personne => personne.statut === 'condamne').length;
+
+        if (totalCelebrites > 0) {
+            const pourcentageCondamnes = (celebritesCondamnees / totalCelebrites) * 100;
+            console.log(`Pourcentage de célébrités condamnées : ${pourcentageCondamnes.toFixed(2)}%`);
+
+            // Créer le nuage rouge avec le pourcentage
+            const pourcentageDiv = document.createElement('div');
+            pourcentageDiv.style.position = 'absolute';
+            pourcentageDiv.style.top = '10px';
+            pourcentageDiv.style.right = '10px';
+            pourcentageDiv.style.backgroundColor = 'red';
+            pourcentageDiv.style.color = 'white';
+            pourcentageDiv.style.padding = '10px';
+            pourcentageDiv.style.borderRadius = '20px'; // Pour l'effet de nuage
+            pourcentageDiv.style.fontWeight = 'bold';
+            pourcentageDiv.style.zIndex = '1000'; // Pour s'assurer qu'il est au-dessus des autres éléments
+            pourcentageDiv.textContent = `${pourcentageCondamnes.toFixed(0)}%`;
+
+            document.body.appendChild(pourcentageDiv);
+        } else {
+            console.warn('Aucune célébrité trouvée dans data.js');
+        }
+    }
+
     // Gestionnaire d'événements pour le bouton "De A à Z" (renommé en "Célébrités" selon le href)
     const celebritiesBtn = document.getElementById('a-z-button');
     if (celebritiesBtn) {
