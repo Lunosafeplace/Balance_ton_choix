@@ -50,7 +50,7 @@
     {
         nom: 'Berry, Richard',
         photo: 'Richard_Berry.jpg',
-        reponse: 'pas condamne',
+        reponse: 'pas-condamne',
         infosSupplementaires: 'Richard Berry a été accusé par sa fille aînée, Coline Hiegel Berry, en janvier 2021. Elle a déposé plainte pour inceste, viols, agressions sexuelles et corruption de mineur, qui auraient été commis lorsqu\'elle était mineure, entre ses 8 et 10 ans.\n\nEn mai 2024, Catherine Hiegel, la mère de Coline Berry-Rojtman et ancienne compagne de Richard Berry, a également déclaré avoir été victime de violences conjugales de la part de l\'acteur lorsqu\'elle était enceinte de leur fille.\n\nCependant, au 1er septembre 2023, la procédure visant Richard Berry concernant les accusations de sa fille a été classée sans suite pour prescription par le parquet de Paris.'
     },
     {
@@ -123,7 +123,271 @@
         nom: 'Besnehard, Dominique',
         photo: 'Dominique_Besnehard.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: 'Plusieurs témoignages, recueillis notamment dans une enquête de Télérama, ont fait état d\'un sentiment d\'abus de pouvoir de la part de Dominique Besnehard pour tenter d\'obtenir des faveurs sexuelles de jeunes comédiens et comédiennes.\n\nEn mai 2024, l\'acteur Giovanni Savoia et un autre acteur ont publiquement accusé Dominique Besnehard d\'avoir abusé de son pouvoir pour essayer d\'obtenir des faveurs sexuelles, respectivement au début des années 2000 et dans les années 1990. Dominique Besnehard a nié ces accusations.'
+        infosSupplementaires: 'Plusieurs témoignages, recueillis notamment dans une enquête de Télérama, ont fait état d\'un sentiment d\'abus de pouvoir de la part de Dominique Besnehard pour tenter d\'obtenir des faveurs sexuelles de jeunes comédiens et comédiennes.\n\nEn mai 2024, l\'acteur Giovanni Savoia et un autre acteur ont publiquement accusé Dominique Besnehard d\'avoir abusé de son pouvoir pour essayer d\'obtenir des faveurs sexuelles, respectivement au début des années 2000 et dans les années 1990. Dominique Besnehard a nié ces accusations.\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés. Le 20 janvier, Dominique Besnehard revient sur son soutien à Depardieu : « C\'est une erreur de ma part ».'
+    },
+    {
+        nom: 'Cohn-Bendit, Daniel',
+        photo: 'Daniel_Cohn-Bendit.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Des accusations de pédophilie ou d\'apologie de la pédophilie reposant sur des propos tenus dans son livre "Le Grand Bazar" (1975), où il décrit des interactions avec des enfants à connotation sexuelle, suscitant des accusations d\'ambiguïté et d\'apologie, ainsi que son intervention à l\'émission "Apostrophes" en 1982, où il a tenu des propos sur la sexualité infantile qui ont été interprétés comme une banalisation de la pédophilie.\n\nCes éléments ont été réexhumés et ont pris de l\'ampleur en 2001, suite à la diffusion d\'extraits de son livre par des journaux européens, et à partir de 2009, notamment lors d\'une confrontation télévisée avec François Bayrou et la rediffusion de la vidéo d\'"Apostrophes".\n\nCohn-Bendit a toujours nié être pédophile et a condamné la pédophilie. Il a expliqué que ses écrits et propos devaient être replacés dans le contexte des années 1970 et de la "révolution sexuelle", et a exprimé des regrets quant à la formulation de certains passages, les qualifiant aujourd\'hui d\'"insoutenables". Malgré ses explications, ces accusations ont régulièrement refait surface et ont été utilisées par des responsables politiques pour le critiquer.\n\nLa justice ne l\'a jamais inquiété sur ces faits.'
+    },
+    {
+        nom: 'Rozon, Gilbert',
+        photo: 'Gilbert_Rozon.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Un groupe de femmes s\'est constitué sous le nom "Les Courageuses" pour intenter une action collective contre Gilbert Rozon au nom des victimes. Bien que cette action collective ait été initialement autorisée, elle a ensuite été rejetée en appel, les juges estimant que des actions individuelles seraient plus appropriées. La Cour suprême du Canada a refusé d\'entendre l\'appel de cette décision.\n\nPlusieurs femmes ont intenté des poursuites civiles individuelles contre Gilbert Rozon pour des agressions sexuelles et du harcèlement qui se seraient produits sur plusieurs années. Ces femmes réclament des millions de dollars en dommages et intérêts compensatoires et punitifs.\n\nGilbert Rozon a été acquitté en décembre 2020 des accusations de viol et d\'attentat à la pudeur dans une affaire. La juge a déclaré qu\'il subsistait un doute raisonnable quant à sa culpabilité. Il est important de noter qu\'un acquittement au criminel ne signifie pas que les faits ne se sont pas produits, mais plutôt que la preuve hors de tout doute raisonnable n\'a pas été établie.\n\nUn nouveau procès civil regroupant les plaintes de neuf femmes a débuté en décembre 2024. Ces femmes réclament collectivement 14 millions de dollars à Gilbert Rozon pour des agressions sexuelles alléguées entre 1980 et 2004. Ce procès est en cours et a connu une pause en mars 2025 suite à un appel de Gilbert Rozon concernant la preuve de mythes et stéréotypes, mais il a été décidé qu\'il reprendrait.\n\nGilbert Rozon avait été condamné à une amende pour des voies de fait sur une femme en 1998, mais cette condamnation avait ensuite été annulée en appel avec une absolution inconditionnelle.'
+    },    
+    {
+        nom: 'Weber, Jacques',
+        photo: 'Jacques-Weber.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Jacques Weber a été publiquement accusé d\'agression sexuelle par une de ses anciennes élèves.\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés. Le 1er janvier, Jacques Weber déclare : « Je mesure chaque jour mon aveuglement. J\'ai par réflexe d\'amitié signé à la hâte, sans me renseigner, oui j\'ai signé en oubliant les victimes et le sort de milliers de femmes dans le monde qui souffrent d\'un état de fait trop longtemps admis […] Ma signature était un autre viol ».'
+    },
+    {
+        nom: 'Baupin, Denis',
+        photo: 'Denis_Baupin.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Plusieurs femmes, dont des élues écologistes, ont publiquement accusé Denis Baupin de harcèlement sexuel, d\'agressions sexuelles et d\'envoi de messages à caractère sexuel non sollicités. Les accusations ont été relayées par les médias, notamment Mediapart et France Inter.\n\nUne enquête a été ouverte, mais elle a été classée sans suite pour prescription. Denis Baupin a été condamné pour procédure abusive, en raison de sa plainte en dénonciation calomnieuse contre ses accusatrices.'
+    },
+    {
+        nom: 'Tron, Georges',
+        photo: 'Georges_Tron.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Les plaignantes ont accusé Georges Tron de leur avoir imposé des attouchements et des pénétrations digitales, notamment en leur demandant des massages de pieds, qu\'elles considéraient comme des actes sexuels. Elles ont décrit un climat d\'emprise et de harcèlement au sein de la mairie.\n\nGeorges Tron a été mis en examen en 2011. Il a été acquitté en première instance en 2018.\n\nEn appel, en 2021, il a été condamné à cinq ans de prison, dont deux avec sursis, pour viols et agressions sexuelles en réunion. Georges Tron à été incarcéré suite à sa condamnation.'
+    },
+    {
+        nom: 'Bourdin, Jean-Jacques',
+        photo: 'Jean-Jacques_Bourdin.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Fanny Agostini a déposé plainte pour tentative d\'agression sexuelle, relatant des faits qui se seraient déroulés en 2013 lors d\'un déplacement professionnel à Calvi, en Corse. Elle affirme que Jean-Jacques Bourdin aurait tenté de l\'embrasser de force à plusieurs reprises dans une piscine, en la saisissant par le cou, et aurait tenu des propos laissant entendre qu\'il obtenait toujours ce qu\'il voulait.\n\nUne enquête a été ouverte par le parquet de Paris suite à cette plainte. Jean-Jacques Bourdin a contesté les faits.'
+    },      
+    {
+        nom: 'Boutonnat, Dominique',
+        photo: 'Dominique_Boutonnat.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Son filleul l\'a accusé d\'agressions sexuelles qui se seraient produites lors de séjours familiaux entre 2010 et 2012, alors que la victime était mineure.\n\nEn mars 2023, le tribunal correctionnel de Nanterre l\'a condamné à huit mois de prison avec sursis pour agression sexuelle sur mineur de 15 ans par personne ayant autorité. Le tribunal avait estimé qu\'il y avait eu "atteinte sexuelle" mais pas "pénétration".Dominique Boutonnat a fait appel de cette décision.\n\nLe 28 juin 2024, la cour d\'appel de Versailles a alourdi sa peine, le condamnant à trois ans de prison, dont un an ferme et deux ans avec sursis. La cour a estimé qu\'il y avait bien eu agression sexuelle.'
+    },       
+    {
+        nom: 'Crémer, Bruno',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En février 2024, dans une chronique, Catherine Schwaab évoque des accusations faites par Judith Godrèche à l\'encontre de plusieurs réalisateurs, dont Benoît Jacquot et Jacques Doillon, et mentionne également Bruno Cremer dans ce contexte. Selon cette chronique, Judith Godrèche aurait laissé entendre que Bruno Cremer l\'aurait violée dans son bureau. L\'article souligne la sidération face à de telles accusations visant des personnalités perçues comme "fines et cultivées".\n\nIl est important de noter qu\'il s\'agit d\'accusations relayées dans un article de presse et que Bruno Cremer étant décédé, il ne peut ni répondre à ces allégations ni faire l\'objet de poursuites judiciaires.'
+    },
+    {
+        nom: 'Mocky, Jean-Pierre',
+        photo: 'Jean-Pierre_Mocky.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Jean-Pierre Mocky, décédé en 2019, a été mentionné dans le contexte du mouvement #MeToo.\n\nDans un article datant d\août 2019, il est rapporté que Mocky n\'était pas très "#MeToo en apparence" et qu\'il se vantait d\'avoir 17 enfants. L\'article le décrit comme ayant profité de la liberté sexuelle des femmes.'
+    },
+    {
+        nom: 'Marchand, Thierry',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Thierry Marchand était maire d\'une commune, il a été condamné par le tribunal correctionnel de Chartres (juin 2024) à une peine de cinq ans de prison ferme.\n\nLes faits concernaient des agressions sexuelles sur des mineurs de 15 ans.'
+    },
+    {
+        nom: 'Zemmour, Eric',
+        photo: 'Éric_Zemmour.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Des témoignages de plusieurs femmes ont été recueillis, faisant état de comportements inappropriés, de propos à caractère sexuel non sollicités, et de tentatives d\'intimidation.\n\nCes accusations ont été relayées par des médias, notamment lors de sa campagne présidentielle de 2022.\n\nÉric Zemmour a contesté ces accusations.'
+    },
+    {
+        nom: 'Jacquot, Benoît',
+        photo: 'Benoit_Jacquot.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Judith Godrèche a porté plainte en février 2024 pour des faits survenus entre 1986 et 1992, concernant des infractions de viol sur mineur de 15 ans par personne ayant autorité, viol, violences par concubin, et agression sexuelle sur mineur de plus de 15 ans par personne ayant autorité. Elle décrit une relation où elle ne désirait pas son corps et se sentait dégoûtée. Elle souligne l\'attirance de Benoît Jacquot pour les jeunes actrices mineures, qu\'il évoquait lui-même.\n\nSuite au témoignage de Judith Godrèche, plusieurs autres actrices ayant travaillé avec Benoît Jacquot ont témoigné de harcèlement sexuel (Julia Roy, Vahina Giocante, Isild Le Besco), violence psychologique et physique (Julia Roy, Isild Le Besco), chantage au rôle (Vahina Giocante).\n\nJulia Roy a déposé plainte pour agression sexuelle dans un contexte de violences et de contrainte morale qui aurait duré plusieurs années.\n\nIsild Le Besco a porté plainte en mai 2024 pour viol sur mineur de plus de 15 ans et viol. Elle évoque une emprise destructrice et des violences physiques et morales lors du tournage de Sade.'
+    },
+    {
+        nom: 'Moati, Serge',
+        photo: 'Serge_Moati.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En février 2024, plusieurs femmes, dont des actrices, des journalistes et d\'anciennes collaboratrices, ont accusé Serge Moati d\'agressions sexuelles. Ces accusations ont été rendues publiques dans le sillage de l\'affaire Judith Godrèche et du mouvement #MeToo en France. Les femmes ont décrit diverses formes de harcèlement et d\'agressions sexuelles, incluant des remarques inappropriées, des attouchements non consentis et des tentatives d\'intimidation.'
+    },
+    {
+        nom: 'De Coubertin, Pierre',
+        photo: 'Pierre_de_Coubertin.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Coubertin avait une vision très traditionnelle et essentialiste des rôles de genre. Il considérait que les hommes étaient naturellement aptes à la compétition physique et à l\'effort, tandis que les femmes étaient destinées à des rôles plus "féminins" et moins exposés.\n\nIl exprimait des préoccupations esthétiques, estimant que la participation des femmes aux épreuves sportives nuirait à la beauté et à la dignité des Jeux. Il soulevait également des arguments moraux, craignant que la compétition ne "dévirilise" les femmes ou ne les détourne de leur rôle familial et maternel.\n\nSes écrits et ses discours sont truffés de déclarations sans équivoque sur ce sujet. Par exemple, il a déclaré que "le rôle des femmes doit être avant tout de couronner les lauréats". Il voyait leur présence comme une source de "distraction" et non comme des participantes légitimes.\n\nSon influence a directement contribué à la faible représentation, voire à l\'absence totale, de femmes lors des premières éditions des Jeux Olympiques modernes. La participation féminine a progressé lentement et avec difficulté, souvent contre ses convictions initiales.'
+    },
+    {
+        nom: 'Doillon, Jacques',
+        photo: 'Jacques_Doillon.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Judith Godrèche l\'a accusé d\'avoir mis ses doigts dans sa culotte lors d\'auditions pour le film "La fille de 15 ans" en 1989, alors qu\'elle avait 15 ans. Cependant, les faits allégués sont prescrits.\n\nHélène l\'a accusé de l\'avoir violée lorsqu\'elle avait 15 ans.\n\nJacques Doillon a été placé sous le statut de "témoin assisté" en décembre 2024, dans le cadre de l\'enquête déclenchée par la plainte de Judith Godrèche. Ce statut est plus favorable que celui de mis en examen.'
+    },
+    {
+        nom: 'Toubiana, Serge',
+        photo: 'Serge_Toubiana.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Judith Godrèche affirme que Serge Toubiana, qui était un ami proche de Benoît Jacquot, savait ce qui se passait concernant sa relation avec le réalisateur lorsqu\'elle était mineure. Elle déclare qu\'elle dînait parfois avec eux chez Serge Toubiana et que "tout le monde savait, lui mieux que quiconque".\n\nJudith Godrèche a exprimé sa déception face au silence de Serge Toubiana et l\'a interpellé à ce sujet.\n\nElle l\'accuse également d\'avoir "menti sous serment" devant la commission d\'enquête parlementaire sur les violences sexuelles dans le cinéma en niant avoir eu connaissance de sa relation avec Benoît Jacquot.\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Caubère, Philippe',
+        photo: 'Philippe_Caubere.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Depuis février 2024, Philippe Caubère a été mis en examen pour agressions sexuelles, viols et corruption de mineur.\n\nDes témoignages de femmes ont été publiés, décrivant des actes effroyables. L\'une d\'elles accuse Caubère de l\'avoir "faite violer" par des hommes inconnus recrutés sur internet.\n\nUne plainte a été déposée en octobre 2022, après une longue hésitation. Il nie les faits et reste présumé innocent jusqu\'à un éventuel jugement définitif.\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Poelvoorde, Benoît',
+        photo: 'Benoit_Poelvoorde.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Richard, Pierre',
+        photo: 'Pierre_Richard.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nLe 31 décembre, Pierre Richard exprime ses regrets d\'avoir signé la tribune et présente ses excuses.'
+    },
+    {
+        nom: 'Duléry, Antoine',
+        photo: 'Antoine_Duléry.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Dutronc, Jacques',
+        photo: 'Jacques_Dutronc.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Attal, Yvan',
+        photo: 'Yvan_Attal.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nYvan Attal admet, dans les jours suivants, sur BFM TV, « son malaise avec cette pétition qui ne lui va pas totalement » et précise qu\'il aurait demandé en vain la reformulation de certains passages de la tribune avant de la signer, mais affirme avoir signé « parce qu\'il y avait quelque chose de plus fort que ce qui me dérangeait dans cette pétition ».\n\nLe 20 janvier, dans l\'émission Quelle époque !, Yvan Attal revient une nouvelle fois sur la tribune et assume ne pas avoir retiré sa signature, mais il parle d\'« une erreur » et qualifie le texte d\'« abominable ».'
+    },
+    {
+        nom: 'Blier, Bertrand',
+        photo: 'Bertrand_Blier.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Alagna, Roberto',
+        photo: 'Roberto_Alagna.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nRoberto Alagna émet des regrets d\'avoir signé la tribune.'
+    },
+    {
+        nom: 'Fau, Michel',
+        photo: 'Michel_Fau.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nMichel Fau estime que l\'« artiste doit rester extravagant, scandaleux, obscène et ingérable ».'
+    },
+    {
+        nom: 'Ricciotti, Rudy',
+        photo: 'Rudy_Ricciotti.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Veber, Francis',
+        photo: 'Francis_Veber.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Leconte, Patrice',
+        photo: 'Patrice_Leconte.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nLe 2 janvier, Patrice Leconte déclare regretter de l\'avoir signée, notamment à cause du positionnement politique de Yannis Ezziadi. Il précise : « Quand on me dit qu\'il n\'est pas exemplaire, je veux bien le croire, je le crois parce que je le sais. Je ne cherche pas à le défendre, ni à l\'accabler. Mais cette mise à mort, ce lynchage m\'effraie un peu. Peut-être que c\'est mérité, je ne sais pas », et ajoute « Je pense que Gérard Depardieu ne fera plus de cinéma, hélas ».'
+    },
+    {
+        nom: 'Sansal, Boualem',
+        photo: 'Boualem_Sansal.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Berling, Charles',
+        photo: 'Charles_Berling.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nCharles Berling déclare : « Je combats au quotidien les idées d\'extrême droite portées par son auteur, je regrette le manque de nuance et les raccourcis de ce texte et j\'entends l\'indignation qu\'il suscite » et affirme l\'avoir signé « en tant que citoyen, artiste et responsable culturel, je défends la légitimité de la justice contre les effets de horde et de meute et c\'est cette haine collective, rendue possible par l\'usage massif des réseaux sociaux que j\'ai voulu dénoncer ».'
+    },
+    {
+        nom: 'Ezziadi, Yannis',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a rédigé et signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nYannis Ezziadi assume et attaque les détracteurs en parlant de « revanche des minables ».'
+    },
+    {
+        nom: 'Perez, Vincent',
+        photo: 'Vincent_Perez.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Branco, Paulo',
+        photo: 'Paulo_Branco.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Rouart, Jean-Marie',
+        photo: 'Jean-Marie_Rouart.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nJean-Marie Rouart invoque « l\'esprit gaulois de la France » et demande : « Est-ce que vous croyez que, chez Rabelais, il n\'y a pas de grossièretés ? ».'
+    },
+    {
+        nom: 'Séria, Joël',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Murat, Bernard',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Henric, Jacques',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Humair, Daniel',
+        photo: 'Daniel_Humair.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Belugou, David',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Dreyfus, Jean-Claude',
+        photo: 'Jean-Claude_Dreyfus.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nLe 2 janvier, Jean-Claude Dreyfus annonce : « Comme beaucoup, je me retire de la Tribune à propos de Gérard Depardieu ».'
+    },
+    {
+        nom: 'Besset, Jean-Marie',
+        photo: 'Jean-Marie_Besset.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Druet, Stéphan',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Euzéby, Lilian',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'En décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+    },
+    {
+        nom: 'Macron, Emmanuel',
+        photo : 'Emmanuel_Macron.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Emmanuel Macron a publiquement défendu Gérard Depardieu, accusé de viols et d\'agressions sexuelles, en invoquant la présomption d\'innocence et en critiquant la "chasse à l\'homme". Ces propos ont suscité de vives réactions, notamment de la part d\'associations féministes et de victimes de violences sexuelles, qui ont dénoncé une banalisation des violences sexuelles. Il a aussi mis en doute le travail journalistique de certains reportages diffusés sur des chaines de télévisions.\n\nEmmanuel Macron a été critiqué pour sa gestion de certaines accusations visant des membres de son gouvernement, jugée parfois trop indulgente ou trop lente. Par exemple, la nomination de Gérald Darmanin au poste de ministre de l\'Intérieur, alors qu\'il faisait l\'objet d\'une enquête pour viol, a suscité des polémiques.\n\nIl a souvent rappelé l\'importance de la présomption d\'innocence.'
     },
     {
         nom: 'Besson, Luc',
@@ -135,7 +399,7 @@
         nom: 'Darmon, Gérard',
         photo: 'Gérard_Darmon.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: 'Neuf femmes accusent Gérard Darmon de violences sexistes et sexuelles. Elles décrivent des propos et des gestes « déplacés » sur le tournage de six films, rapportent des « humiliations » et des « insultes sexistes ». Les témoignages indiquent que plusieurs des femmes qui témoignent occupaient des postes précaires au moment des faits.\n\nUne technicienne a indiqué avoir porté plainte contre la production du film sur lequel elle travaillait avec l\'acteur pour « absence de protection ».\n\nDix autres femmes ont aussi livré leur récits à Politis avant de refuser d\'apparaître dans l’enquête et de se rétracter.'
+        infosSupplementaires: 'Neuf femmes accusent Gérard Darmon de violences sexistes et sexuelles. Elles décrivent des propos et des gestes « déplacés » sur le tournage de six films, rapportent des « humiliations » et des « insultes sexistes ». Les témoignages indiquent que plusieurs des femmes qui témoignent occupaient des postes précaires au moment des faits.\n\nUne technicienne a indiqué avoir porté plainte contre la production du film sur lequel elle travaillait avec l\'acteur pour « absence de protection ».\n\nDix autres femmes ont aussi livré leur récits à Politis avant de refuser d\'apparaître dans l’enquête et de se rétracter.\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés. Gérard Darmon indique avoir signé, sans connaître Yannis Ezziadi, pour « défendre la présomption d\'innocence » et contester un procès médiatique'
     },
     {
         nom: 'Depardieu, Gérard',
