@@ -2,16 +2,21 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log('script.js chargé');
 
     // Inclure le fichier data.js
-    const script = document.createElement('script');
-    script.src = 'data.js';
-    document.head.appendChild(script);
+    const scriptData = document.createElement('script');
+    scriptData.src = 'data.js';
+    document.head.appendChild(scriptData);
 
-    script.onload = function() {
+    scriptData.onload = function() {
         console.log('data.js chargé');
-        afficherPourcentageCondamnes();
+        // Vérifier si nous sommes sur la page d'accueil (index.html)
+        if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
+            afficherPourcentageCondamnes();
+        } else {
+            console.log('Pas sur la page d\'accueil, le pourcentage ne sera pas affiché.');
+        }
     };
 
-    script.onerror = function() {
+    scriptData.onerror = function() {
         console.error('Erreur lors du chargement de data.js');
     };
 
@@ -67,7 +72,7 @@ document.addEventListener('DOMContentLoaded', function() {
         console.error("L'élément demarrer-jeu n'a pas été trouvé.");
     }
 
-    // Gestionnaire d'événements pour le bouton "Témoignages" (ajouté selon votre demande initiale)
+    // Gestionnaire d'événements pour le bouton "Témoignages"
     const temoignagesBtn = document.getElementById('temoignages-button');
     if (temoignagesBtn) {
         temoignagesBtn.addEventListener('click', () => {
@@ -77,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
         console.error("L'élément temoignages-button n'a pas été trouvé.");
     }
 
-    // Gestionnaire d'événements pour le bouton "Définitions" (ajouté selon votre dernière demande)
+    // Gestionnaire d'événements pour le bouton "Définitions"
     const definitionsBtn = document.getElementById('definitions-button');
     if (definitionsBtn) {
         definitionsBtn.addEventListener('click', () => {
