@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
             pourcentageDiv.style.borderRadius = '20px';
             pourcentageDiv.style.fontWeight = 'bold';
             pourcentageDiv.style.zIndex = '1000';
-            pourcentageDiv.textContent = `${pourcentageCondamnes.toFixed(0)}%`;
+            pourcentageDiv.textContent = `Pourcentage de célébrités condamnées : ${pourcentageCondamnes.toFixed(0)}%`;
 
             document.body.appendChild(pourcentageDiv);
         } else {
