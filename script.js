@@ -2,12 +2,14 @@ import celebrites from './data.js';
 
 document.addEventListener('DOMContentLoaded', function() {
     console.log('script.js chargé');
+    console.log('pathname:', window.location.pathname);
 
-    if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
+
+    //if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
         afficherPourcentageCondamnes();
-    } else {
-        console.log('Pas sur la page d\'accueil, le pourcentage ne sera pas affiché.');
-    }
+    //} else {
+    //    console.log('Pas sur la page d\'accueil, le pourcentage ne sera pas affiché.');
+    //}
 
     function afficherPourcentageCondamnes() {
         if (typeof celebrites === 'undefined') {
