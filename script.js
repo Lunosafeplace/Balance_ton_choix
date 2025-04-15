@@ -1,4 +1,4 @@
-import celebrites from './Balance_ton_choix/data.js';
+import celebrites from './data.js';
 
 document.addEventListener('DOMContentLoaded', function() {
     console.log('script.js chargé');
