@@ -5,11 +5,11 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log('pathname:', window.location.pathname);
 
 
-    //if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
+    if (window.location.pathname === '/Balance_ton_choix/' || window.location.pathname === '/Balance_ton_choix/index.html') {
         afficherPourcentageCondamnes();
-    //} else {
-    //    console.log('Pas sur la page d\'accueil, le pourcentage ne sera pas affiché.');
-    //}
+    } else {
+        console.log('Pas sur la page d\'accueil, le pourcentage ne sera pas affiché.');
+    }
 
     function afficherPourcentageCondamnes() {
         if (typeof celebrites === 'undefined') {
