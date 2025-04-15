@@ -6,6 +6,162 @@
         infosSupplementaires: 'Homme politique\n\nDeux premières femmes l\'ont mis en cause en mai 2022. L\'une l\'accuse de viol sous soumission chimique en 2010, et l\'autre de viol en 2011. Cette dernière avait déposé plainte à deux reprises, classées sans suite.\n\nUne troisième femme (Laëtitia) l\'accuse de tentative de viol en 2010. Elle a porté plainte en juin 2022.\n\nUne quatrième femme l\'accuse de viol par soumission chimique en 2013.'
     },
     {
+        nom: 'Palmade, Pierre',
+        photo: 'Pierre_Palmade.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: '	Humoriste, acteur, scénariste\n\nUn homme de 19 ans, avec qui Pierre Palmade avait passé la nuit, l\'a accusé de viol.\n\nAprès une enquête de flagrance et une garde à vue, l\'accusateur a reconnu avoir menti.'
+    },
+    {
+        nom: 'Hanouna, Cyril',
+        photo: 'Cyril_Hanouna.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Animateur, producteur, homme d\'affaires, chroniqueur, acteur,humoriste\n\nLors de l\'émission TPMP du 7 décembre 2016, un "jeu" a conduit la chroniqueuse Capucine Anav à toucher l\'entrejambe de l\'animateur Cyril Hanouna. Le CSA a jugé cette séquence problématique et a infligé une sanction à la chaîne C8 (suspension de publicité pendant 15 jours).\n\nIl n\'y a pas eu de sanction judiciaire directe contre Cyril Hanouna en tant que personne.'
+    },          
+    {
+        nom: 'Ménès, Pierre',
+        photo: 'Pierre_Ménès.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Consultant sportif, chroniqueur, éditorialiste, polémiste, blogueur\n\nAccusations révélées par le documentaire "Je ne suis pas une salope, je suis une journaliste" en mars 2021, notamment de Marie Portolano pour une agression sexuelle en août 2016 sur le plateau du Canal Football Club (soulèvement de robe et empoignement des fesses) et Isabelle Moreau pour avoir été forcée à l\'embrasser longuement sur la bouche lors d\'un anniversaire d\'émission quelques années auparavant (Ménès avait évoqué une "blague").\n\nD\autres accusations ont suivi, telle qu\'une agression sexuelle présumée sur une hôtesse d\'accueil au Parc des Princes en novembre 2021 (toucher de poitrine).\n\nIl a tenté de s\'expliquer sur TPMP minimisant ses actes, puis s\'est excusé sur les réseaux sociaux.\n\nLa procureure requiert 8 mois de sursis, 10 000€ d\'amende, une inscription au Fijais et une inéligibilité de 2 ans pour les faits du Parc des Princes et dans un magasin Nike en 2018.\n\nIl a été déclaré coupable pour une seule agression sexuelle (contact avec une vendeuse de Nike) et condamné à deux mois de prison avec sursis et un an d\'inéligibilité, mais pas d\'inscription au Fijais.'
+    },
+    {
+        nom: 'Maire, Jean-Michel',
+        photo: 'Jean-Michel_Maire.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Journaliste, animateur\n\nJean-Michel Maire a fait l\'objet de deux polémiques dans TPMP. En 2016, il a embrassé le décolleté d\'une figurante, ce qui a conduit à une plainte pour geste déplacé. En 2017, il s\'est accidentellement montré nu à l\'antenne lors d\'un défi, entraînant un signalement au CSA.'
+    },    
+    {
+        nom: 'Bouvier, Yves',
+        photo: 'Yves_Bouvier.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Marchand d\'art, entrepreneur\n\nLe journal "Le Point" a affirmé qu\'Yves Bouvier avait été le proxénète de Zahia Dehar pendant plusieurs années.\n\nLe journal "Le Point" a été définitivement condamné en appel en 2018 pour cet article. La cour a noté qu\'il n\'avait jamais été prétendu qu\'Yves Bouvier ait eu de telles relations avec Zahia. Yves Bouvier et Zahia Dehar ont nié cette relation de proxénétisme.\n\nL\'avocat de l\'homme condamné pour proxénétisme dans l\'affaire Zahia Dehar a demandé la réouverture de l\'enquête, en fournissant le témoignage d\'une ancienne prostituée affirmant qu\'Yves Bouvier les prostituait, elle et Zahia Dehar.'
+    },
+    {
+        nom: 'Govou, Sydney',
+        photo: 'Sydney_Govou.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Footballeur\n\nIl a été mis en cause pour sollicitation de prostituée mineure dans le cadre de l\'enquête sur les relations tarifées qu\'avait Zahia Dehar avec des joueurs de l\'équipe de France de football alors qu\'elle était mineure.\n\nÀ la fin de l\'année 2011, le parquet de Paris a demandé un non-lieu en sa faveur. Cependant, en août 2012, contrairement à la demande du parquet, il a été renvoyé devant le tribunal correctionnel pour être jugé pour cette accusation.'
+    },
+    {
+        nom: 'Ben Arfa, Hatem',
+        photo: 'Hatem_Ben_Arfa.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Footballeur\n\nIl a été auditionné par la police dans le cadre de l\'enquête sur les relations tarifées de Zahia Dehar avec des footballeurs mineure. Cette audition a eu lieu en juillet 2010.\n\nSon avocat de l\'époque, Jean-Jacques Bertrand, a déclaré publiquement qu\'Hatem Ben Arfa avait reçu la confirmation qu\'il n\'était pas impliqué dans le dossier.'
+    },
+    {
+        nom: 'Brunel, Jean-Luc',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Directeur, agent de mannequin\n\nDans les années 1980, des accusations d\'agressions sexuelles sur mineures ont été portées contre Jean-Luc Brunel, une figure influente du monde du mannequinat. Des mannequins ont témoigné avoir été droguées et violées par lui.\n\nSon nom a ensuite été fortement lié à l\'affaire Jeffrey Epstein, où il est accusé d\'avoir joué un rôle clé dans le recrutement et la fourniture de jeunes femmes pour le réseau d\'Epstein.\n\nArrêté en décembre 2020, Brunel a été mis en examen pour viols sur mineure et harcèlement sexuel, ainsi que pour sa participation présumée à l\'organisation du trafic de jeunes femmes pour Epstein. Bien que de nombreux témoignages aient émergé, une partie des faits reprochés est frappée par la prescription.'
+    },          
+    {
+        nom: 'L\'Abbé Pierre',
+        photo: 'L_abbé_Pierre.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Prêtre catholique\n\nDes rapports de 2024-2025 ont révélé de multiples accusations d\'agressions sexuelles et de viols commis par l\'abbé Pierre entre les années 1950 et 2005, y compris sur mineurs. Au moins 57 victimes ont été identifiées.\n\nEmmaüs a retiré son nom de son logo, la Fondation Abbé-Pierre a changé de nom, et la justice française n\'ouvrira pas d\'enquête pour non-dénonciation en raison de la prescription.'
+    },
+    {
+        nom: 'Placé, Jean-Vincent',
+        photo: 'Jean-Vincent_Placé.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Homme politique, chef d\entreprise\n\nEn 2021, il est condamné à 5 000 euros d\'amende pour harcèlement sexuel commis sur une gendarme affectée à la sécurité de son logement de fonction.\n\nPlus tard, il est accusé d\'harcèlement et agressions sexuelles par une ancienne collaboratrice. Une plainte est déposée pour des faits remontant à 2012-2016. Il est placé en garde à vue en mars 2022, puis mis en examen pour « agressions sexuelles » et « harcèlement sexuel ».\n\nEn septembre 2024, il est mis en examen pour agression sexuelle sur une femme, pour des faits commis à l\'étranger en octobre 2017.'
+    },    
+    {
+        nom: 'Guerriau, Joël',
+        photo: 'Joël_Guerriau.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Homme politique\n\nSandrine Josso porte plainte, l\'accusant de lui avoir administré à son insu de l\'ecstasy lors d\'une rencontre à son domicile. Des analyses révèlent la présence d\'ecstasy dans le sang de Sandrine Josso. De l\'ecstasy est retrouvée au domicile de Joël Guerriau lors d\'une perquisition. Il est accusé d\'avoir changé l\'intensité de la lumière, afin de renforcer les effets de la drogue, et d\'avoir insisté pour la faire boire.\n\nIl est placé en garde à vue, puis mis en examen pour « administration à une personne, à son insu, d’une substance de nature à altérer son discernement ou le contrôle de ses actes, dans le but de commettre un viol ou une agression sexuelle ». En avril 2025, le parquet de Paris requiert un procès contre Joël Guerriau.'
+    },
+    {
+        nom: 'Sardou, Romain',
+        photo: 'Romain_Sardou.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Romancier, écrivain\n\nPlusieurs anciennes collaboratrices ont publiquement fait état de harcèlement moral qu\'elles auraient subi de la part de Romain Sardou. Le harcèlement moral se définit comme des agissements répétés ayant pour objet ou pour effet une dégradation des conditions de travail susceptible de porter atteinte aux droits et à la dignité du salarié, d\'altérer sa santé physique ou mentale ou de compromettre son avenir professionnel.'
+    },
+    {
+        nom: 'Kassovitz, Mathieu',
+        photo: 'Mathieu_Kassovitz.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Acteur, réalisateur, producteur, scénariste, monteur\n\nDes témoignages ont fait surface concernant des comportements déplacés et des remarques sexistes sur des tournages impliquant Mathieu Kassovitz.'
+    },          
+    {
+        nom: 'Robert, Denis',
+        photo: 'Denis_Robert.jog',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Journaliste, écrivain\n\nDenis Robert a été accusé de harcèlement moral par plusieurs anciennes collaboratrices.'
+    },    
+    {
+        nom: 'JoeyStarr',
+        photo: 'JoeyStarr.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Rapeur, auteur-intérprête, acteur\n\nEn 1998, JoeyStarr a été condamné pour des violences commises à l\'encontre d\'une hôtesse de l\'air. Il l\'avait giflée et lui avait craché au visage lors d\'un vol. Cette agression lui avait valu une condamnation judiciaire.\n\nEn 2009, JoeyStarr a été condamné par le tribunal correctionnel de Paris à trois mois de prison ferme pour des faits de violences conjugales commis à l\'encontre de son ancienne compagne, la mère de ses deux premiers enfants. Il a également été condamné à une amende de 2 000 euros pour coups et blessures.'
+    },
+    {
+        nom: 'Taghmaoui, Saïd',
+        photo: 'Saïd_Taghmaoui.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Acteur\n\nL\'acteur a accordé une interview au magazine marocain "Femmes du Maroc" dans laquelle il a dénoncé la prostitution au Maroc. Cependant, la manière dont il a abordé le sujet a suscité de vives réactions, notamment de la part de féministes marocaines. Ses propos ont été jugés sexistes, objectifiants et moralisateurs envers les femmes marocaines.'
+    },
+    {
+        nom: 'Gaccio, Bruno',
+        photo: 'Bruno_Gaccio.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Scénariste, producteur\n\nBruno Gaccio a été critiqué pour des propos et des sketchs jugés sexistes et misogynes au cours de sa carrière, notamment en tant qu\'ancien auteur des "Guignols de l\'info".\n\nAu-delà des "Guignols", certaines de ses interventions médiatiques ou prises de position ont également été jugées sexistes ou misogynes par des observateurs et des associations féministes.'
+    },          
+    {
+        nom: 'Cassel, Vincent',
+        photo: 'Vincent_Cassel.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Acteur, réalisateur, scénariste, producteur\n\nDans une interview, il a déclaré : "Si les hommes deviennent trop féminins, il va y avoir un problème" et "C\'est presque honteux d\'être masculin aujourd\'hui."\n\nCes remarques ont suscité un débat et ont conduit à certaines accusations de misogynie. Cassel s\'est défendu en expliquant qu\'il était entouré de femmes (sa femme, ses filles, son ex-femme et sa mère) et que son intention était de critiquer une image déformée de la masculinité promue sur les réseaux sociaux, et non d\'être misogyne. Il a argumenté que les gens oubliaient l\'essence des choses et étaient poussés à se conformer à de fausses images de la façon dont les hommes et les femmes devraient être.'
+    },
+    {
+        nom: 'Lévy, Bernard-Henri',
+        photo: 'Bernard-Henri_Lévy.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Ecrivain, éditeur, chroniqueur\n\nBernard-Henri Lévy a défendu publiquement Dominique Strauss-Kahn en mettant en avant la présomption d\'innocence et en critiquant le traitement médiatique de l\'affaire. Cela a provoqué des réactions négatives de la part de ceux qui estimaient qu\'il ne prenait pas suffisamment en compte la parole de la victime présumée.'
+    },    
+    {
+        nom: 'Lalanne, Francis',
+        photo: 'Francis_Lalanne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Acteur, homme politique, poète, chanteur, auteur-compositeur-interprète\n\nFrancis Lalanne a été placé en garde à vue le 2 mai 2023 suite à une plainte de son ex-compagne pour des faits de violences commises à son égard.\n\nIl a également été rapporté en février 2023 qu\'il avait eu un conflit avec son ex-compagne, ce qui avait initialement conduit à des poursuites pour « violences » et « harcèlement sur conjoint ».'
+    },
+    {
+        nom: 'Bigard, Jean-Marie',
+        photo: 'Jean-Marie_Bigard.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Acteur, réalisateur, scénariste, humoriste\n\nCertains de ses sketchs et blagues ont été décrits comme vulgaires et sexistes, avec des groupes comme "Osez le féminisme !" critiquant spécifiquement son invitation en tant que vedette à un événement pour la Journée internationale des femmes (8 mars), qualifiant cela de "plus grosse arnaque sexiste".\n\nBigard a défendu son style, affirmant que ses spectacles sont souvent destinés à un public adulte (plus de 18 ans) et que la liberté de plaisanter sur tout devrait toujours exister sur scène. Il a également rejeté les critiques concernant sa vulgarité.\n\nAu-delà de ses sketchs, certaines de ses déclarations publiques ont également été perçues comme sexistes.'
+    },      
+    {
+        nom: 'Balkany, Patrick',
+        photo: 'Patrick_Balkany.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Homme politique\n\nEn 2016, la championne olympique Marie-Claire Restoux a accusé Patrick Balkany de harcèlement sexuel. Il a également été rapporté qu\'une autre femme avait porté plainte pour des faits similaires, mais qu\'elle avait finalement retiré sa plainte.\n\nPatrick et Isabelle Balkany ont été accusés d\'avoir diffusé des images à caractère sexuel d\'un opposant politique. En 2023, ils ont été relaxés par le tribunal correctionnel de Nanterre, la preuve qu\'il y ait eu un photomontage n\'étant « pas suffisamment démontrée ».'
+    },  
+    {
+        nom: 'Pivot, Bernard',
+        photo: 'Bernard_Pivot.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Journaliste, animateur\n\nEn décembre 2019, Bernard Pivot a été critiqué pour son attitude lors de l\'émission "Apostrophes" du 2 mars 1990. Durant l\'émission, il avait interviewé l\'écrivain Gabriel Matzneff sur un ton léger, allant jusqu\'à le qualifier, au milieu de rires généraux, de "professeur d\'éducation sexuelle" et de "collectionneur de jeunes filles (\'minettes\')". Cette séquence a refait surface en raison des révélations et accusations ultérieures concernant les relations de Matzneff avec des mineures.\n\nPivot a lui-même exprimé plus tard des regrets de ne pas avoir eu "les mots qu\'il fallait" à l\'époque.'
+    },    
+    {
+        nom: 'Gainsbourg, Serge',
+        photo: 'Serge_Gainsbourg.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Chanteur, acteur, musicien, scénariste, compositeur, auteur-compositeur-interprète, poète, écrivain, réalisateur, peintre\n\nGainsbourg était connu pour ses provocations et ses remarques parfois choquantes à la télévision et dans les médias, y compris envers des femmes. Un incident notable est son échange tendu avec Whitney Houston en 1986.\n\nCertaines de ses chansons, comme "Les Sucettes" ou "Lemon Incest", ont suscité des polémiques en raison de leur double sens ou de leur thématique.\n\nEn 2020, la chanteuse Lio a déclaré sur ARTE Radio que Serge Gainsbourg était "un harceleur tout simplement, quelqu\'un de pas du tout cool avec les filles" et l\'a comparé à Harvey Weinstein. Cette déclaration est une opinion personnelle et une critique de son comportement passé.\n\nMalgré ces controverses et critiques, il n\'y pas eu de plaintes formelles déposées contre Serge Gainsbourg pour harcèlement ou agression sexuelle, ni de condamnations judiciaires à ce sujet de son vivant.'
+    },    
+    {
+        nom: 'Vincent, Francky',
+        photo: 'Franky_Vincent.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Chanteur, auteur-compositeur-interprète, producteur\n\nLa majeure partie des critiques à l\'égard de Francky Vincent concerne le contenu de ses chansons, souvent perçues comme vulgaires, sexistes et réduisant les femmes à des objets sexuels.'
+    },    
+    {
+        nom: 'Booba',
+        photo: 'Booba.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Rappeur, chanteur, producteur, entrepreneur, acteur\n\nEn 2023, son concert au Maroc a été annulé suite à une campagne de boycott l\'accusant de sexisme. Des paroles de chansons comme "petite Marocaine se tape Berlusconi" et "je vais à la Chicha qu\'pour les beurettes" ont été particulièrement pointées du doigt comme dégradantes et objectifiant les femmes.\n\nUne plainte pour diffamation et injures contre les femmes marocaines a été déposée par le Club des avocats au Maroc.'
+    },
+    {
         nom: 'Tibo InShape',
         photo: 'Tibo_InShape.png',
         reponse: 'pas-condamne',
