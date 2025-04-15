@@ -98,7 +98,7 @@
     {
         nom: 'Taghmaoui, Saïd',
         photo: 'Saïd_Taghmaoui.jpg',
-        reponse: 'condamne',
+        reponse: 'pas-condamne',
         infosSupplementaires: 'Acteur\n\nL\'acteur a accordé une interview au magazine marocain "Femmes du Maroc" dans laquelle il a dénoncé la prostitution au Maroc. Cependant, la manière dont il a abordé le sujet a suscité de vives réactions, notamment de la part de féministes marocaines. Ses propos ont été jugés sexistes, objectifiants et moralisateurs envers les femmes marocaines.'
     },
     {
