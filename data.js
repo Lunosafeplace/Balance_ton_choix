@@ -10,7 +10,355 @@
         photo: 'Tibo_InShape.png',
         reponse: 'pas-condamne',
         infosSupplementaires: 'Influenceur, entrepreneur\n\nTibo InShape n\'est pas accusé directement dans la polémique de sa vidéo avec Thérèse Hargot. C\'est Thérèse Hargot qui est accusée d\'avoir banalisé le viol conjugal avec ses propos sur les "rendez-vous sexe" obligatoires. Tibo InShape est critiqué pour avoir diffusé ces propos sur sa chaîne.'
+    },
+    {
+        nom: 'Rosello, Luc',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Metteur en scène\n\nPlusieurs témoignages ont fait surface, notamment via les réseaux sociaux et des articles de presse, accusant Luc Rosello de violences sexuelles et de harcèlement. Ces témoignages décrivent des comportements inappropriés, des pressions et des agressions.\n\nUne partie des témoignages proviennent de personnes travaillant dans le milieu du doublage, où Luc Rosello est actif. Ces témoignages évoquent des abus de pouvoir et des comportements prédateurs.\n\nLuc Rosello a nié catégoriquement ces accusations et a annoncé avoir déposé plainte pour diffamation.'
+    },
+    {
+        nom: 'InThePanda',
+        photo: 'Inthepanda.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nPlusieurs extraits de ses streams et d\'anciennes vidéos ont refait surface, montrant InThePanda tenir des propos jugés sexistes, dégradants envers les femmes, et parfois homophobes. Ces remarques ont suscité de vives critiques sur les réseaux sociaux.\n\nDes témoignages ont émergé concernant des comportements inappropriés lors de conventions et d\'événements, où il aurait tenu des propos ou eu des attitudes malaisantes envers des fans, parfois mineures. Ces accusations n\'ont pas fait l\'objet de plaintes judiciaires à ma connaissance.\n\nFace à la polémique grandissante, InThePanda a publié des messages d\'excuses sur les réseaux sociaux, reconnaissant la maladresse et l\'inappropriation de certains de ses propos passés. Il a affirmé avoir évolué et ne plus partager ces opinions.'
     },    
+    {
+        nom: 'Mitch D.',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Educateur sportif\n\nIl est accusé d\'avoir agressé et harcelé sexuellement plusieurs jeunes footballeuses au club de la Salésiennes (17e arrondissement de Paris). Il aurait envoyé des SMS inappropriés à certaines joueuses, tenté de les alcooliser et serait entré dans les vestiaires pendant qu\'elles se changeaient.\n\nSuite à ces plaintes, la mairie de Paris a demandé un rapport qui a conduit à son éviction et lui a interdit d\'exercer auprès d\'enfants pendant trois ans.\n\nIl a écopé de trois ans de prison avec sursis.'
+    },
+    {
+        nom: 'Moulévrier, Gérard',
+        photo: 'Gérard_Moulèvrier.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Directeur du casting, acteur, directeur artistique, metteur en scène, auteur\n\nPlainte pour agression sexuelle déposée à son encontre en février 2024 par l\'acteur Francis Renaud.\n\nCette plainte visait également le réalisateur André Téchiné pour harcèlement sexuel, pression grave, menace de mort réitérée et agression sexuelle, ainsi qu\'une personne non identifiée pour menaces de mort.\n\nette plainte a été classée sans suite pour cause de prescription en juin 2024 par le parquet de Paris.'
+    },
+    {
+        nom: 'Barde, Bruno',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Directeur de festival, Attaché de presse, Acteur\n\nAccusations d\'agressions et de harcèlement sexuel de la part de sept ex-collaboratrices. Les faits se seraient déroulés entre 2014 et 2023.\n\nLes accusations portent sur des comportements inappropriés, des humiliations, des caresses, des propositions de massages ou de bains, et des remarques sexistes. Une des femmes a témoigné d\'une tentative d\'embrassade dans un bureau parisien.'
+    },
+    {
+        nom: 'Lanzmann, Claude',
+        photo: 'Claude_Lanzmann.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: '	Journaliste, producteur, scénariste, documentariste, réalisateur, écrivain\n\n2012 (Aéroport de Tel Aviv) : Une employée de sécurité de l\'aéroport a déclaré avoir été embrassée de force par Claude Lanzmann. Ce dernier a répondu à cet incident dans un article du Monde.\n\nOctobre 2017 (Mouvement MeToo) : La journaliste néerlandaise Joyce Roodnat a raconté qu\'en 1985, lors d\'une interview à son domicile concernant le film Shoah, Claude Lanzmann lui avait imposé des contacts physiques non consentis. Elle a réitéré ces accusations à la télévision néerlandaise, ajoutant que deux autres femmes journalistes lui avaient rapporté avoir subi des procédés similaires de la part de Lanzmann.\n\nAllemagne : La journaliste Natascha Freundel a raconté dans un article que Claude Lanzmann avait essayé de l\'embrasser de force après une interview, qualifiant ce geste de "répugnant".'
+    },      
+    {
+        nom: 'Wass Freestyle',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Freestyleur, Influenceur\n\nPlusieurs filles mineures l\'ont accusé de les avoir draguées alors qu\'il connaissait leur âge et qu\'il avait près de 30 ans à l\'époque.'
+    },
+    {
+        nom: 'Experimentboy',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nPlusieurs témoignages ont fait état de comportements inappropriés et de dragues insistantes envers des abonnées mineures. Ces témoignages décrivaient des messages privés à caractère sexuel, des tentatives de rencontres malgré le refus des jeunes filles, et un abus de sa notoriété pour établir des contacts inappropriés.\n\nÀ l\'époque, Experimentboy avait réagi en publiant des excuses publiques, reconnaissant des erreurs de jugement et un comportement inapproprié. Il avait affirmé avoir pris conscience de ses actes et vouloir changer.'
+    },    
+    {
+        nom: 'TheKairi78',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nEn juillet 2020, un tweet a révélé que Jaouad (TheKairi78), alors âgé de 33 ans, entretenait une relation avec Julie Pospieszny, une jeune fille de 16 ans. Jaouad a confirmé cette relation sur Twitter, affirmant son amour pour elle et indiquant que les parents de la jeune fille approuvaient leur union, tout en rappelant que cette relation était légale en France.\n\nLe parquet de Paris a ouvert une enquête suite à une plainte déposée contre Jaouad Daouki en juillet 2023. Une femme l\'accusait de viol et d\'avoir été droguée. Les analyses médicales effectuées sur la plaignante ont révélé qu\'aucune substance n\'avait été détectée dans son organisme, contredisant ainsi ses premières déclarations concernant le fait d\'avoir été droguée. Il a été reconnu non coupable.'
+    },
+    {
+        nom: 'Ramadan, Tariq',
+        photo: 'Tariq_Ramadan.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Islamologue, théologien\n\nTariq Ramadan a fait l\'objet de multiples accusations de viol et de harcèlement sexuel dans plusieurs pays, notamment en France et en Suisse. Plusieurs femmes ont porté plainte contre lui pour des faits qui se seraient déroulés entre 2008 et 2016.\n\nEn septembre 2024, la justice genevoise l\'a condamné en appel à 3 ans de prison, dont un an ferme, pour viol et contrainte sexuelle sur une femme dans un hôtel en 2008. Il a été reconnu coupable d\'avoir imposé un acte sexuel et d\'autres actes d\'ordre sexuel de manière brutale et violente. Tariq Ramadan a annoncé son intention de recourir au Tribunal fédéral suisse.\n\nEn juin 2024, la cour d\'appel de Paris a renvoyé Tariq Ramadan devant la cour criminelle départementale pour des accusations de viols sur trois femmes, tout en écartant une quatrième plainte.\n\nEn première instance en Suisse, il avait été acquitté en mai 2023, le tribunal estimant qu\'il n\'y avait pas suffisamment d\'éléments matériels pour emporter sa conviction au-delà du doute. Cependant, cet acquittement a été annulé en appel.\n\nTariq Ramadan a toujours nié les accusations portées contre lui, affirmant que les relations étaient consenties et dénonçant des motivations politiques derrière les plaintes.'
+    },
+    {
+        nom: 'Sarde, Alain',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Producteur, acteur\n\nNeuf femmes ont accusé publiquement le producteur de cinéma Alain Sarde d\'agressions sexuelles et de viols dans une enquête publiée par le magazine Elle en mai 2024. Les faits dénoncés se seraient déroulés majoritairement dans les années 1980 et 1990, et pour certaines victimes, à l\'époque où elles étaient mineures.\n\nLes témoignages décrivent un mode opératoire similaire : des invitations au domicile du producteur, des tentatives de séduction, des offres de cadeaux (comme des chocolats), suivies d\'agressions.\n\nAucune plainte judiciaire n\'a été déposée concernant ces faits. Alain Sarde a nié les accusations.\n\nAlain Sarde avait déjà été mis en examen pour viol et tentative de viol en 1997 et brièvement incarcéré avant de bénéficier d\'un non-lieu.'
+    },
+    {
+        nom: 'Pernoo, Jérôme',
+        photo: 'Jérôme_Pernoo.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Violoncelliste, professeur de musique\n\nDeux anciens élèves signalent des faits d\'agression et de harcèlement sexuels, entraînant une alerte au procureur de la République par la directrice du CNSMDP et une première suspension de Pernoo. Une enquête interne est menée, concluant à une exclusion temporaire d\'un an prononcée en septembre 2021. Cette enquête est fortement contestée par des soutiens de Pernoo pour manque d\'impartialité et détournement de propos.\n\nUne enquête préliminaire pour "agression sexuelle sur mineur" est ouverte en avril 2021 suite à des plaintes de deux victimes présumées, dont un mineur au moment des faits.\n\nAprès une seconde enquête interne, Pernoo est licencié par le CNSMDP en mai 2022 pour "manquements graves à ses obligations de dignité et d\'exemplarité". Son licenciement est confirmé par le tribunal administratif en novembre 2022.\n\nLors d\'une procédure en référé contre son licenciement, des témoignages de victimes sont lus, décrivant des "bisous dans le cou", des "câlins" inappropriés, des "humiliations" publiques, des contrepèteries ou surnoms à connotation sexuelle, et des intrusions dans la vie privée des élèves.\n\nJérôme Pernoo est renvoyé devant un tribunal correctionnel pour agression sexuelle sur mineur et harcèlement sexuel. Il est reconnu coupable d’agression sexuelle sur mineur de 14 ans et condamné à un an de prison avec sursis, à une inscription au Fichier des auteurs d\'infractions sexuelles et à une interdiction d\'enseigner à des mineurs pendant dix ans.'
+    },          
+    {
+        nom: 'Roth, François-Xavier',
+        photo: 'Francois-Xavier_Roth.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: '	Chef d\'orchestre\n\nEn mai 2024, le magazine d\'investigation français Le Canard Enchaîné a rapporté les accusations de sept femmes affirmant que Roth leur avait envoyé de nombreux messages à caractère sexuel. Ces messages ont été décrits comme non désirés et créant un malaise chez les destinataires. Sans admettre explicitement le harcèlement, Roth a reconnu avoir eu des "échanges intimes par téléphone" et s\'est excusé auprès de ceux qu\'il "aurait pu choquer".\n\nEn décembre 2024, des informations ont indiqué que l\'enquête pénale concernant François-Xavier Roth avait été classée sans suite par le parquet de Cologne, faute de suspicion suffisante.'
+    },
+    {
+        nom: 'Letort, Bruno',
+        photo: 'Bruno_Letort.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Compositeur, producteur, essayiste\n\nSelon un rapport de l\'Institut pour l\'égalité des femmes et des hommes, sept femmes ont témoigné à l\'encontre de Bruno Letort pour « harcèlement, abus de pouvoir et violences sexistes et sexuelles ».\n\nSuite à ce rapport, Bruno Letort a été démis de ses fonctions de direction d\'Ars Musica en juin 2024 par le conseil d\'administration, à la demande de Bénédicte Linard, Ministre de la Culture, des Médias et des Droits des femmes, qui a qualifié cette décision d\'« indispensable en regard de la gravité des faits ».\n\nLes avocates de Bruno Letort ont dénoncé les qualificatifs utilisés par le cabinet de la Ministre, soulignant que le rapport de l\'Institut ne mentionne nulle part de "violences sexistes ou sexuelles". Elles ont également insisté sur le fait qu\'il n\'y a ni plainte au pénal, ni enquête menée par des autorités judiciaires pour établir la véracité des témoignages et leur qualification juridique.'
+    },    
+    {
+        nom: 'Tubéry, Jean',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Cornettiste, chef de chœur, flûtiste à bec, professeur de musique\n\nAccusations de violence et harcèlements sexistes et sexuels (juin 2022) : Suite à ces accusations, il a été sanctionné et mis à pied par le CNSM de Lyon, mais a ensuite été réintégré en octobre. De nouveaux témoignages ont émergé, entraînant une nouvelle enquête interne du conservatoire.\n\nÀ la suite de trois plaintes d\'étudiantes du CNSM de Lyon déposées en 2023, Jean Tubéry a été condamné à six mois de prison avec sursis pour des « propos à connotation sexuelle imposés de manière répétée » dans le cadre de sa position d\'autorité en tant qu\'enseignant.\n\nJean Tubéry a fait appel de sa condamnation, considérant qu\'il s\'agit d\'une erreur judiciaire.'
+    },
+    {
+        nom: 'Cantat, Bertrand',
+        photo: 'Bertrand_Cantat.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: '	Guitariste, auteur-compositeur-interprète\n\nDurant un tournage de téléfilm à Vilnius, en Lituanie, en juillet 2003, une violente dispute éclate entre Bertrand Cantat et Marie Trintignant. Au cours de cette altercation, Bertrand Cantat porte plusieurs coups au visage de Marie Trintignant. Marie Trintignant décède le 1er août 2003 des suites des lésions cérébrales causées par les coups.\n\nBertrand Cantat est arrêté et jugé en Lituanie, où les faits se sont déroulés.\n\nEn janvier 2004, il est condamné à huit ans de prison pour homicide involontaire (et non pour meurtre, le tribunal lituanien n\'ayant pas retenu l\'intention de tuer).\n\nAprès avoir purgé une partie de sa peine en Lituanie puis en France, il est libéré conditionnellement en octobre 2007, après avoir effectué un peu plus de quatre ans de prison. Cette libération conditionnelle était assortie de conditions, notamment un suivi psychologique.\n\nSa libération conditionnelle a pris fin en 2011.'
+    },
+    {
+        nom: 'Pistorius, Oscar',
+        photo: 'Oscar_Pistorius.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Athlète\n\nLe 14 février 2013, Oscar Pistorius a tiré quatre coups de feu à travers la porte fermée des toilettes de sa résidence, tuant sa compagne, Reeva Steenkamp, qui s\'y était réfugiée. Il a affirmé avoir cru qu\'il s\'agissait d\'un cambrioleur et avoir tiré par erreur, sans savoir que c\'était Reeva derrière la porte.\n\nIl a été reconnu coupable d\'homicide involontaire et condamné à cinq ans de prison.\n\nLa Cour suprême d\'appel a infirmé le verdict d\'homicide involontaire et l\'a reconnu coupable de meurtre. Il a été condamné à six ans de prison pour meurtre.\n\nSuite à un nouvel appel du parquet, la Cour suprême d\'appel a alourdi sa peine à 13 ans et 5 mois de prison pour meurtre.\n\nAprès avoir purgé plus de la moitié de sa peine, Oscar Pistorius a été libéré conditionnellement le 5 janvier 2024. Sa libération est soumise à des conditions strictes, notamment une thérapie pour la gestion de la colère et des travaux d\'intérêt général. Il restera sous surveillance jusqu'à l'expiration de sa peine complète en décembre 2029.'
+    },
+    {
+        nom: 'Retro X',
+        photo: 'Retro_x.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Rappeur, chanteur, auteur-compositeur-interprète\n\nHuit femmes accusent le rappeur Retro X de nombreuses agressions sexuelles, qui se seraient déroulées principalement entre 2016 et 2018 dans son appartement toulousain.'
+    },          
+    {
+        nom: 'Jorrdee',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Rappeur, producteur\n\nJorrdee, un rappeur français, a été impliqué dans des affaires de violences conjugales.\n\nEn février 2023, il a été condamné à six mois de prison avec sursis et à une amende de 500€ pour des violences commises à l\'encontre de Maria, une des femmes ayant témoigné contre lui.\n\nDes témoignages de quatre femmes ont été recueillis, décrivant des faits de violence, incluant des étranglements et des coups au visage ayant entraîné des ecchymoses. Ces femmes décrivent également une forte emprise psychologique et des violences récurrentes.\n\nJorrdee a été diagnostiqué schizophrène et a plaidé l\'amnésie et la maladie mentale concernant les faits qui lui sont reprochés. Il avait auparavant été interné pour schizophrénie.'
+    },
+    {
+        nom: 'Escoffier, Kevin',
+        photo: 'Kevin_Escoffier.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Navigateur\n\nLa Fédération Française de Voile a signalé des faits « apparentés à une agression sexuelle » qui se seraient déroulés en mai 2023 aux États-Unis lors d\'une escale de The Ocean Race. Une enquête judiciaire a été ouverte par le parquet de Paris. Escoffier a quitté la course et son équipe suite à cet événement.\n\nLa FFVoile a annoncé avoir reçu de nouveaux signalements et a ouvert une nouvelle procédure disciplinaire pour « comportements inappropriés envers des femmes ».\n\nEscoffier a été placé en garde à vue en février 2025 à Lorient dans le cadre de trois plaintes pour agressions sexuelles. Dix femmes auraient été auditionnées. Il a contesté les accusations et a été libéré sans contrôle judiciaire.'
+    },    
+    {
+        nom: 'Racle, Jean-Roland',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: '	Patineur artistique, entraîneur de patinage artistique\n\nHélène Godard, une de ses anciennes élèves mineures, l\'a accusé de viol et d\'agressions sexuelles, affirmant avoir subi des "attouchements" sexuels lorsqu\'elle avait entre 15 et 16 ans et qu\'il l\'hébergeait avec son épouse.\n\nBien que ces accusations aient été rendues publiques, Jean-Roland Racle n\'a pas été poursuivi en justice, car les faits étaient prescrits.'
+    },
+    {
+        nom: 'Samba, Giscard',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: '	Entraîneur d\'athlétisme\n\nPlusieurs athlètes, dont Pascal Martinot-Lagarde et Cindy Billaud, ont témoigné de pratiques inacceptables de la part de Samba, évoquant des humiliations et des allusions sexuelles récurrentes. Cindy Billaud a déclaré avoir "vécu 14 ans d\'humiliation".\n\nUne enquête préliminaire a été ouverte par le parquet de Créteil suite à une plainte. Une jeune femme, alors âgée de 22 ans, avait décrit plusieurs relations sexuelles imposées en 2016 par son ancien entraîneur à l\'US Créteil.\n\nL\'enquête ouverte pour "viol, agression sexuelle et harcèlement sexuel" a été classée sans suite par le parquet de Créteil en février 2019.'
+    },
+    {
+        nom: 'Prigent, Jean-Yves',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Kayakiste\n\nEn mars 2024, une plainte a été déposée contre lui pour des faits d\'agression sexuelle sur un jeune kayakiste de 16 ans lors d\'une compétition à Châteauneuf-sur-Cher. Une seconde victime, également âgée de 16 ans, aurait subi une agression similaire la nuit suivante. Prigent a reconnu les faits et a été placé sous contrôle judiciaire. En juillet 2024, il a été condamné à quatre ans de prison, dont un an ferme avec bracelet électronique et trois ans avec sursis probatoire, pour ces deux agressions sexuelles sur mineurs.\n\nEn novembre 2024, une nouvelle procédure judiciaire a conduit à sa mise en examen et à son écroulement pour des accusations plus graves et concernant d\'autres victimes. Il est accusé de viols, agressions et harcèlement sexuel sur des mineurs. Les faits concernent un jeune homme pour des agressions sexuelles datant d\'une période comprise entre 2005 et 2008, une jeune femme pour des propos répétés à connotation sexuelle et l\'une des deux victimes de la première affaire pour des faits de viol survenus en 2023 et 2024.'
+    },
+    {
+        nom: 'Gailhaguet, Didier',
+        photo: 'Didier_Gailhaguet.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Patineur artistique, entraîneur, dirigeant sportif\n\nSarah Abitbol l\'a accusé d\'avoir couvert les agissements de son ancien entraîneur et a demandé sa démission de la présidence de la Fédération Française des Sports de Glace (FFSG).\n\nUn collectif d\'anciens sportifs et professionnels a lancé une pétition demandant également sa démission pour "manquement à la sécurité des enfants depuis plus de 20 ans".'
+    },          
+    {
+        nom: 'Auradou, Hugo',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Rugbyman\n\nEn juillet 2024, Hugo Auradou, joueur de rugby du XV de France, a été mis en examen en Argentine pour viol aggravé, en même temps que son coéquipier Oscar Jegou. Les faits se seraient déroulés dans un hôtel à Mendoza après un match de l\'équipe de France. Les deux rugbymen ont toujours nié les accusations, affirmant qu\'il s\'agissait d\'une relation consentie.'
+    },
+    {
+        nom: 'Jammes, Loïck',
+        photo: 'Loick_Jammes.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Rugbyman\n\nLoïck Jammes, ancien rugbyman du Football Club de Grenoble rugby, a été accusé, avec deux autres anciens joueurs, de viol collectif sur une étudiante de vingt ans en 2017.\n\nEn décembre 2024, Loïck Jammes a été jugé et condamné à quatorze ans de prison pour ce crime.'
+    },    
+    {
+        nom: 'De Camaret, Régis',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Entraîneur de tennis\n\nPlusieurs jeunes joueuses de tennis qu\'il entraînait ont porté plainte contre lui pour des agressions sexuelles qui se seraient déroulées dans les années 1980 et 1990.\n\nEn 2010, Régis de Camaret a été condamné à huit ans de prison pour viols et agressions sexuelles sur mineures. Sa condamnation a été confirmée en appel en 2012.'
+    },
+    {
+        nom: 'Beyer, Gilles',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Patineur artistique, entraîneur français\n\nL\'ancienne championne de patinage artistique Sarah Abitbol l\'a accusé de viol dans son livre paru en 2020, des faits qui remonteraient au début des années 1990, lorsqu\'elle était mineure. D\'autres témoignages ont suivi, notamment ceux de Nadjma Mahamoud et de sa mère pour harcèlement sexuel et chantage, ainsi qu\'Agnès Gosselin pour des gestes déplacés.\n\nGilles Beyer a été mis en examen en 2021.\n\nSon décès est survenu avant la fin de l\'instruction judiciaire, mettant fin aux poursuites.'
+    },
+    {
+        nom: 'Chabanne, Saïd',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Homme d\affaire, ancien président du SCO d\'Angers\n\nSaïd Chabane a été condamné pour agression sexuelle aggravée à deux ans de prison, dont un an avec sursis.\n\nLes accusations provenaient de sept jeunes femmes, dont des employées du club, qui ont allégué des incidents survenus entre 2014 et 2019. Ceux-ci comprenaient des attouchements non consentis, des étreintes forcées et des tentatives de baisers.'
+    },
+    {
+        nom: 'Didym, Michel',
+        photo: 'Michel_Didym.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Metteur en scène, comédien, directeur de théâtre\n\nUne plainte pour viol a été déposée contre lui à Nancy, entraînant l\'ouverture d\'une enquête. Le ministère de la Culture a également effectué un signalement à la justice.\n\nUne vingtaine d\'actuelles ou anciennes comédiennes ont témoigné dans Libération de gestes déplacés et de remarques sexistes de sa part. Ces accusations ont marqué le début du mouvement #MeTooThéâtre.'
+    },          
+    {
+        nom: 'Notte, Pierre',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Journaliste, acteur, réalisateur, écrivain, dramaturge, compositeur\n\nEn mai 2024, il a été rapporté que Pierre Notte a été placé sous contrôle judiciaire dans le cadre d\'une enquête concernant cette accusation. Il est soupçonné d\'avoir abusé de l\'une de ses anciennes élèves.\n\nPierre Notte conteste ces allégations, affirmant avoir vécu une "véritable histoire d\'amour" avec l\'adolescente concernée.'
+    },
+    {
+        nom: 'DirtyBiology',
+        photo: 'Léo_Grasset.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur, écrivain\n\nPlusieurs femmes témoignent de violences sexuelles ou psychologiques, de comportements misogynes, d\'un problème avec le consentement sexuel et d\'emprise dans ses relations. L\'une d\'elles, sous le pseudonyme Lisa, l\'accuse de viol en juillet 2016. Aucune plainte n\'est déposée à ce moment-là. La vidéaste Clothilde Chamussy dépose une plainte pour harcèlement sexuel. Une étudiante en journalisme, Léa, dépose de son côté une plainte pour viol.\n\nLe parquet de Paris ouvre une enquête préliminaire.\n\nMediapart publie le témoignage de Léa et de quatre autres femmes accusant Léo Grasset de comportements inappropriés.\n\nLéo Grasset est placé en garde à vue et entendu par la police suite aux trois premières plaintes pour viol. Il est relâché le même jour sans poursuites.'
+    },    
+    {
+        nom: 'Duhamel, Olivier',
+        photo: 'Olivier-Duhamel.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Homme politique, avocat, animateur, politologue, scénariste\n\nSa belle-fille, Camille Kouchner, l\'accuse publiquement dans son livre La Familia grande d\'inceste, de viol et d\'agressions sexuelles répétées sur son frère jumeau ("Victor") durant leur adolescence, à partir des années 1988-1989.\n\nLe parquet de Paris ouvre une enquête pour "viols et agressions sexuelles par personne ayant autorité". Il est révélé que des soupçons et des tentatives d\'alerte existaient au sein de l\'entourage familial depuis 2008, notamment de la part de Marie-France Pisier.\n\n"Victor" Kouchner dépose plainte contre son beau-père. L\'enquête vise à vérifier la prescription des faits et à identifier d\'éventuelles autres victimes.\n\nEntendu par la brigade de protection des mineurs, Olivier Duhamel reconnaît "difficilement" les faits qui lui sont reprochés, notamment les abus sur son beau-fils dans les années 1980.\n\nL\'enquête est classée sans suite pour cause de prescription des faits.'
+    },
+    {
+        nom: 'Cochard, Maxime',
+        photo: 'Denis_Baupin.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Homme politique, auteur, éditeur\n\nGuillaume T. T., un étudiant de 18 ans, a accusé Maxime Cochard et son compagnon Victor Laby de l\'avoir violé en octobre 2018 alors qu\'il se trouvait dans une situation de vulnérabilité. Il a décrit des rapports sexuels "sans violence, ni menace, ni contrainte, mais de la surprise", envisageant de porter plainte pour viol par surprise.\n\nMaxime Cochard a nié les faits, évoquant une relation consentie et annonçant une plainte en diffamation.\n\nGuillaume T. T. s\'est suicidé. Sa famille a porté plainte contre X, estimant que les personnes mises en cause avaient réagi médiatiquement pour le discréditer.\n\nL\'enquête visant Maxime Cochard a été classée sans suite, le parquet de Paris écartant sa responsabilité dans le suicide de Guillaume T. T. L\'enquête a conclu que Guillaume T. T. n\'avait pas explicitement refusé les rapports et qu\'ils étaient pleinement consentis dans les mois suivants.\n\nIl est révélé que Guillaume T. T. faisait lui-même l\'objet d\'une accusation d\'agression sexuelle. Il avait exprimé sa peur d\'être considéré comme un paria avant son suicide.'
+    },
+    {
+        nom: 'Lévêque, Claude',
+        photo: 'Claude_Lévêque.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Artiste visuel\n\nUne enquête préliminaire est ouverte pour « viols et agression sexuelles sur mineur de moins de 15 ans » pour des faits prescrits survenus dans les années 1980. Lévêque reconnaît dans un courriel une "aventure forte" et une "souffrance souterraine" chez le plaignant.\n\nMediapart publie par la suite des témoignages anonymes de deux autres personnes évoquant une emprise de Lévêque dans les années 1980.\n\nClaude Lévêque est mis en examen pour « viols sur mineur de quinze ans », « viols sur mineur par personne ayant autorité de droit ou de fait sur la victime », et « agressions sexuelles sur mineur de quinze ans par personne ayant autorité ».\n\nDeux frères ont également porté plainte pour des faits non prescrits, l\'un pour des agressions sexuelles entre 1997 et 2000 (âgé de 13 à 16 ans), l\'autre pour plusieurs agressions, dont des viols, entre 1989 et 1997.'
+    },
+    {
+        nom: 'Brisseau, Jean-Claude',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Réalisateur, scénariste, producteur, enseignant\n\nL\'actrice Noémie Kocher a porté plainte en 2001 contre lui pour harcèlement sexuel.\n\nLe tribunal correctionnel de Paris l\'a condamné en 2005 à un an de prison avec sursis et 15 000 € d\'amende pour harcèlement sexuel sur deux actrices lors d\'auditions pour son film Choses secrètes.\n\nEn appel en 2006, il a été condamné pour agression sexuelle sur une troisième actrice, Julie Quéré.'
+    },          
+    {
+        nom: 'Ruggia, Christophe',
+        photo: 'Daniel_Cohn-Bendit.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Réalisateur, scénariste, producteur\n\nAdèle Haenel a accusé Christophe Ruggia d\'« attouchements » et de « harcèlement sexuel » alors qu\'elle était âgée de douze à quinze ans, lors du tournage du film Les Diables.\n\nUne enquête préliminaire a été ouverte pour « agressions sexuelles » sur mineure et « harcèlement sexuel », et Adèle Haenel a déposé plainte. Christophe Ruggia a été mis en examen pour « agressions sexuelles sur mineur de 15 ans par personne ayant autorité sur la victime ». Le parquet a requis un procès pour « agressions sexuelles aggravées sur mineur de 15 ans », retenant la minorité de l\'actrice et la position d\'autorité du réalisateur comme circonstances aggravantes.\n\nLe procès s\'est ouvert en décembre 2024, durant lequel Christophe Ruggia a nié les faits, évoquant un possible ressentiment de l\'actrice pour ne pas lui avoir proposé d\'autres rôles.\n\nChristophe Ruggia a été condamné à quatre ans de prison, dont deux ans ferme sous bracelet électronique. Il a annoncé son intention de faire appel.'
+    },
+    {
+        nom: 'Moreau, David',
+        photo: 'David-Moreau.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Réalisateur, scénariste\n\nDavid Moreau, est accusé de viol qui se serait déroulé pendant le tournage du film King en 2020. Les faits allégués se seraient produits lors d\'une soirée privée organisée pour l\'équipe technique du film, en dehors des heures de travail, dans la nuit du 12 au 13 septembre 2020 à Sète.\n\nLa technicienne qui accuse le réalisateur a porté plainte et a quitté le tournage immédiatement après les faits.'
+    },    
+    {
+        nom: 'Theis, Samuel',
+        photo: 'Samuel_Theis.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Acteur\n\nAccusé d\'agression sexuelle par un machiniste sur le tournage de Je le jure après un pot de tournage. Le technicien a porté plainte pour viol.\n\nAuditionné par la juge, Samuel Theis est placé sous le statut de témoin assisté (et non mis en examen). Il conteste l\'agression et évoque une relation consentie.'
+    },
+    {
+        nom: 'Garrel, Philippe',
+        photo: 'Philippe_Garrel.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Réalisateur\n\nCinq comédiennes mettent en cause Philippe Garrel, l\'accusant d\'avoir eu des gestes déplacés, de tenter des baisers non consentis et de leur avoir demandé des faveurs sexuelles en échange d\'un rôle.'
+    },
+    {
+        nom: 'Corneau, Alain',
+        photo: 'Alain_Corneau.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Réalisateur, acteur, scénariste, producteur\n\nL\'actrice Sarah Grappin a déclaré avoir subi des agressions sexuelles de la part d\'Alain Corneau dans les années 1990, alors qu\'elle avait 16 ans et lui 52 ans. Elle a précisé qu\'elle était sous l\'emprise du cinéaste à l\'époque.'
+    },
+    {
+        nom: 'Kechiche, Abdellatif',
+        photo: 'Abdellatif_Kechiche.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Réalisateur, scénariste, acteur\n\nAbdellatif Kechiche a fait l\'objet d\'une accusation d\'agression sexuelle en 2018. Une jeune femme de 29 ans a porté plainte, affirmant avoir dîné avec le réalisateur dans la nuit du 23 au 24 juin 2018 à Paris et avoir été agressée sexuellement.\n\nL\'enquête ouverte suite à cette plainte a été classée sans suite par le parquet pour « infraction insuffisamment caractérisée ».'
+    },          
+    {
+        nom: 'Téchiné, André',
+        photo: 'André_Téchiné.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Réalisateur, scénariste\n\nL\'acteur Francis Renaud a porté plainte contre André Téchiné et le directeur de casting Gérard Moulévrier pour des faits qui se seraient produits entre 1988 et 2004. Renaud accuse Téchiné de harcèlement sexuel et Moulévrier d\'agression sexuelle. Il aurait notamment évoqué dans son livre des avances et un comportement déplacé de la part de Téchiné lors d\'un déjeuner.\n\nLe procureur de la République d\'Évreux a confirmé le dépôt de plainte et l\'ouverture d\'une enquête, tout en soulignant la possible prescription des faits en raison de leur ancienneté et en appelant à la prudence quant à la qualification pénale à ce stade. Concernant Téchiné, le procureur a noté que les faits dénoncés par Renaud pourraient ne pas être suffisants pour caractériser un harcèlement sexuel.\n\nAndré Téchiné a contesté ces accusations.'
+    },
+    {
+        nom: 'Tavernier, Nils',
+        photo: 'Nils_Tavernier.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Réalisateur, acteur, scénariste\n\nNils Tavernier est accusé de viol par deux femmes, Jennifer Covillault Miramont pour des faits qui se seraient produits en 1992, alors qu\'elle avait 13 ans et Laura Lardeux pour des faits datant de 2012, lors du tournage du film De toutes nos forces.\n\nNils Tavernier a réfuté ces accusations, affirmant n\'avoir rien à se reprocher.'
+    },    
+    {
+        nom: 'Lioret, Philippe',
+        photo: 'Philippe_Lioret.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Réalisateur, scénariste, producteur\n\nPhilippe Lioret a été mis en cause en avril 2024 suite à une enquête de Radio France. Dix actrices ont témoigné de comportements inappropriés de sa part lors de castings au tournant des années 2010.\n\nAu moins deux comédiennes, Hélène Seuzaret et une autre sous pseudonyme, rapportent que Philippe Lioret a tenté de les embrasser lors d\'auditions pour le film "Toutes nos envies". Elles ont ressenti cela comme un abus de pouvoir de sa part en tant que potentiel employeur.\n\nPlusieurs actrices décrivent des situations où, pendant les essais, Philippe Lioret donnait la réplique et adoptait une "attitude charnelle", allant jusqu\'à vouloir des contacts physiques plus poussés pour rendre les scènes plus "vraies". Élodie Frenck a mis fin à son essai en raison de ce malaise.\n\nMarie Gillain, qui a obtenu le rôle principal dans "Toutes nos envies", a également évoqué une "sensation de malaise" due à l\'attitude du réalisateur pendant les essais, sans toutefois lui en avoir fait part à l\'époque en raison de son pouvoir.'
+    },
+    {
+        nom: 'Lafosse, Joachim',
+        photo: 'Joachim_Lafosse.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Réalisateur, scénariste\n\nUne enquête de Mediapart a recueilli les témoignages de plusieurs techniciennes et comédiennes qui décrivent un climat de travail anxiogène, des remarques désobligeantes, des humiliations et un management brutal de la part de Joachim Lafosse sur différents tournages. Les témoignages parlent principalement de harcèlement moral, de propos humiliants et d\'une ambiance de travail délétère.\n\nSuite à ces révélations, le CNC a indiqué avoir été saisi de signalements concernant Joachim Lafosse et a lancé une enquête.'
+    },
+    {
+        nom: 'Scimeca, Thomas',
+        photo: 'Thomas_Scimeca.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Compositeur, acteur, metteur en scène\n\nSept femmes accusent l’acteur Thomas Scimeca de violences sexuelles et psychologiques.\n\nDeux plaintes ont déjà été déposées, une pour tentative de viol par l’actrice Jeanne Faucher, qui décrit un comportement déplacé et un cunnilingus imposé en 2015, une autre pour violences psychologiques par l’actrice Solène Rigot, évoquant un emprisonnement mental, une emprise morale et du harcèlement après des ruptures.\n\nCinq autres femmes ont témoigné de « rapport sexuel consenti puis subi », violences psychologiques, « mise en danger d’autrui » en insistant pour ne pas utiliser de préservatif.\n\nThomas Scimeca a qualifié ces accusations de récit des faits « très éloigné de la réalité » et a déclaré qu’il s’expliquerait devant la justice s’il en avait l’opportunité.'
+    },
+    {
+        nom: 'Duvauchelle, Nicolas',
+        photo: 'Nicolas_Duvauchelle.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Acteur\n\nNicolas Duvauchelle a fait l\'objet d\'une plainte pour une gifle sur un tournage par Sara Forestier, ainsi que de plusieurs plaintes et mains courantes pour violences ou menaces de la part d\'anciennes compagnes. Toutes les procédures antérieures à la plainte de Sara Forestier ont été classées sans suite par la justice.'
+    },          
+    {
+        nom: 'Arestrup, Niels',
+        photo: 'Niels_Arestrup.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Réalisateur, acteur, scénariste\n\nLors d\'une représentation de "Mademoiselle Julie" au théâtre, Niels Arestrup lui aurait donné une vraie gifle avec une telle force qu\'elle en aurait eu le bras cassé. Isabelle Adjani a parlé de cet événement publiquement en 2024, exprimant sa honte de ne l\'avoir jamais fait auparavant.\n\nIl existe également d\'autres accusations de coups portés à l\'encontre de comédiennes, dont Myriam Boyer en 1996.'
+    },
+    {
+        nom: 'Bozon, Serge',
+        photo: 'Serge_Bozon.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Réalisateur, critique de cinéma, acteur\n\nSerge Bozon a fait l\'objet de quatre plaintes pour viol. Trois ont été classées sans suite pour diverses raisons (manque de preuves, prescription, faits non clairement établis).\n\nUne quatrième plainte pour viol, basée sur une accusation de stealthing, a été déposée plus récemment.'
+    },    
+    {
+        nom: 'Vidal, Olivier',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Réalisateur, producteur\n\nCondamné en 2010 à 10 mois de prison avec sursis pour atteinte sexuelle sur mineur commise entre 2003 et 2004.\n\nJugé en 2025 pour des faits s\'étalant de 2001 à 2021, à savoir viols aggravés sur 3 jeunes garçons, agressions sexuelles sur 5 mineurs, corruption de 12 mineurs. Il a été condamné pour ces faits à 16 ans de réclusion criminelle, assortis de 7 ans de suivi sociojudiciaire et d\'une interdiction définitive d\'exercer toute activité en lien avec des mineurs. Une peine supplémentaire de 5 ans peut être appliquée en cas de manquement.'
+    },
+    {
+        nom: 'Pelloux, Patrick',
+        photo: 'Patrick_Pelloux.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Médecin urgentiste, chroniqueur\n\nAccusations répétées de violences verbales et sexuelles (selon Libération). Qualifié de "prédateur sexuel" par Karine Lacombe.\n\nIl reconnaît que ses comportements passés seraient inappropriés aujourd\hui, mais les minimise.'
+    },
+    {
+        nom: 'Anthox Colaboy',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nAnthox Colaboy a été accusé de harcèlement en ligne et d\'avoir tenu des propos inappropriés à l\'égard d\'une fan mineure en août 2018, dans le contexte du mouvement #BalanceTonYoutubeur. À l\'époque, des captures d\'écran de messages qui lui étaient attribués montraient des propos suggestifs et ambigus adressés à une jeune fille de quinze ans.\n\nAnthox Colaboy avait nié les faits et annoncé son intention de porter plainte pour dénonciation calomnieuse et cyberharcèlement.'
+    },
+    {
+        nom: 'Jeremstar',
+        photo: 'Jeremstar.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur, humoriste, chroniqueur\n\nPascal Cardonna (alias Babybel), un ami de Jeremstar, a été accusé d\'avoir profité de sa relation amicale avec le blogueur pour proposer des rencontres sexuelles à des mineurs. Une plainte pour "viol sur mineur" a été déposée contre Jeremstar dans le cadre de cette affaire.\n\nCette plainte a été classée sans suite en 2021.'
+    },          
+    {
+        nom: 'Babybel',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Homme de radio, comparse de Jeremstar\n\nPascal Cardonna, alias "Babybel", a été condamné à Nîmes à 2 ans d’emprisonnement, dont 18 mois avec sursis, pour agression sexuelle sur mineur.\n\nLes accusations et la condamnation concernent la corruption de mineur, la provocation directe de mineur à la consommation excessive d\’alcool, le recours à la prostitution d\’un mineur.\n\nLe procureur adjoint de Nîmes a souligné que Pascal Cardonna s\’était servi de son amitié avec Jeremstar pour "prendre dans ses griffes des mineurs" qui venaient dans l\'espoir de rencontrer leur idole.\n\nLa peine inclut également le port d\'un bracelet électronique pendant les six mois de prison ferme et une interdiction d\'approcher des mineurs pendant les 18 mois de sursis probatoire. Il a également été inscrit au fichier des délinquants sexuels.'
+    },
+    {
+        nom: 'François, Claude',
+        photo: 'Claude_Francois.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Chanteur, auteur-compositeur-interprète, danseur, acteur, producteur, photographe, compositeur\n\nEn 2018, pour le 40ème anniversaire de sa mort, les médias se sont focalisés sur son "attirance pour les jeunes filles". Cela a été notamment alimenté par un entretien avec sa fille, Julie Bocquet, dont la mère était mineure à sa naissance.\n\nDans une interview à la RTBF dans les années 1970, Claude François a explicitement exprimé sa préférence pour les jeunes femmes, déclarant aimer les filles "jusqu’à 17-18 ans" et se méfier des femmes entre 18 et 30 ans qu\'il considérait comme moins "naturelles" et plus "réfléchies". Il affirmait retrouver un équilibre chez les femmes après une trentaine d\'années. Cette déclaration a été largement commentée et critiquée rétrospectivement.'
+    },    
+    {
+        nom: 'Lahaye, Jean-Luc',
+        photo: 'Jean-Luc_Lahaye.jpg',
+        reponse: 'condamne',
+        infosSupplementaires: 'Chanteur, animateur\n\nEn 2007, il a été condamné à une amende de 10 000 euros pour atteinte sexuelle sur mineur de 15 ans.\n\nEn 2015, il a été condamné à un an de prison avec sursis pour corruption de mineur de 15 ans. Il a été relaxé des accusations de proposition sexuelle à mineur de quinze ans et de détention d\'images pédopornographiques de mineur de quinze ans.\n\nEn 2021, il est placé en garde à vue en pour soupçons de viol sur deux adolescentes (16 et 17 ans) et de détention d\'images pédopornographiques. Mis en examen pour viol et agression sexuelle et placé en détention provisoire, puis remis en liberté sous contrôle judiciaire en mai 2022 avec des interdictions d\'activités publiques et de contact avec des mineurs, sa mise en examen pour viols a été confirmée en appel en octobre 2024.'
+    },
+    {
+        nom: 'Quesada, Christian',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Joueur, écrivain\n\nCondamné à trois reprises entre 2001 et 2009 pour « corruption de mineur », « exhibition sexuelle », « détention et diffusion d\'images pédopornographiques ».\n\nCondamné en 2017 pour tentative de proxénétisme aggravée.\n\nMise en examen et détention provisoire en 2019 suite à la plainte pour tentative de corruption sur mineurs. Des milliers d’images et vidéos pédopornographiques sont découvertes sur ses disques durs, faits qu\'il reconnaît. Plusieurs internautes, dont certaines mineures au moment des faits, témoignent de propositions sexuelles de sa part comme Émeline (ancienne candidate) qui a reçu plusieurs photos de son sexe lors de conversations privées ou Audrey (internaute) qui a reçu une proposition d\'envoi de photo de son sexe.\n\nMélissa témoigne à la télévision avoir été violée par lui en 2017, alors qu\'elle était mineure. Dans un documentaire, elle évoque une tentative.\n\nCondamnation pour corruption de mineures, détention et diffusion d’images pédopornographiques. Condamné à trois ans de prison ferme, cinq ans de suivi socio-judiciaire et inscription au fichier des délinquants sexuels.\n\nLibération en 2021, nouvelle incarcération en septembre 2022 pour non-respect de son suivi socio-judiciaire, nouvelle remise en liberté en octobre 2022.'
+    },
     {
         nom: 'Lejeune, Geoffroy',
         photo: 'Geoffroy_Lejeune.jpg',
