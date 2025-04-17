@@ -5,6 +5,36 @@
         reponse: 'pas-condamne',
         infosSupplementaires: 'Homme politique\n\nDeux premières femmes l\'ont mis en cause en mai 2022. L\'une l\'accuse de viol sous soumission chimique en 2010, et l\'autre de viol en 2011. Cette dernière avait déposé plainte à deux reprises, classées sans suite.\n\nUne troisième femme (Laëtitia) l\'accuse de tentative de viol en 2010. Elle a porté plainte en juin 2022.\n\nUne quatrième femme l\'accuse de viol par soumission chimique en 2013.'
     },
+          {
+        nom: 'Baer, Edouard',
+        photo: 'Edouard_Baer.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: '	Auteur, metteur en scène, comédien, producteur, animateur, scénariste, réalisateur\n\nLe comédien Édouard Baer est accusé de harcèlement sexuel et d\'agressions sexuelles. Ces accusations proviennent d\'une enquête conjointe de Mediapart et du magazine Cheek, publiée le 23 mai 2024. Les faits reprochés se seraient déroulés entre 2013 et 2021, principalement dans un cadre professionnel.\n\nSix femmes ont témoigné dans cette enquête. Édouard Baer a exprimé ses regrets et présenté ses excuses, déclarant ne pas se reconnaître dans les actes qui lui sont reprochés, mais reconnaissant ne pas avoir su percevoir le malaise ou la souffrance causés.'
+    },
+    {
+        nom: 'Maalouf, Ibrahim',
+        photo: 'Ibrahim_Maalouf.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: ' Trompettiste de jazz, pianiste de jazz, compositeur\n\nIbrahim Maalouf a été visé par une enquête préliminaire en janvier 2016, suite à une plainte de parents l\'accusant d\'avoir embrassé à plusieurs reprises leur fille de quatorze ans et d\'avoir mimé un acte sexuel fin 2013.\n\nLa procureure du tribunal de Créteil a retenu l\'« atteinte sexuelle ». Ibrahim Maalouf a été condamné par le Tribunal correctionnel en 2018, mais relaxé par la cour d\'appel de Paris le 8 juillet 2020. Selon lui, l\'adolescente aurait menti et l\'affaire aurait été amplifiée par la presse.\n\nLa cour d\'appel a estimé qu\'il n\'avait pas eu un comportement approprié envers la jeune fille, en échangeant des messages « totalement inadaptés », qualifiés de « nauséabonds » par lui-même, mais a rappelé qu\'elle n\'était pas saisie pour ces faits précis.'
+    },          
+    {
+        nom: 'Mbappé, Kylian',
+        photo: 'Kylian_Mbappé.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Footballeur\n\nLe 14 octobre 2024, des médias suédois ont révélé qu\'une enquête avait été ouverte pour un viol survenu le 10 octobre dans un hôtel de Stockholm, et ont avancé que Kylian Mbappé était impliqué en tant que « raisonnablement suspect ».\n\nL\'entourage du joueur a démenti ces accusations, les qualifiant de « rumeur calomnieuse » et d\'« accusations totalement fausses ». Mbappé s\'est dit « particulièrement serein, mais éberlué de voir cet emballement médiatique ».\n\nLe 12 décembre, le parquet suédois a clôturé l\'enquête faute de preuves, sans avoir dévoilé le nom de la plaignante ni celui du suspect, qui n\'a été ni informé ni interrogé.'
+    },
+    {
+        nom: 'Laurent, Gabriel',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Chanteur, masseur\n\nGabriel Laurent, un masseur (candidat de la saison 7 de The Voice), a fait l\'objet de graves accusations. Plusieurs femmes ont témoigné d\'expériences où, au fil des séances, l\'ambiance aurait évolué vers des pratiques sexuelles non consenties.\n\nIl a été mis en exament pour viol et agressions sexuelles.'
+    },    
+    {
+        nom: 'LeFouBruiteur',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nLe streamer LeFouBruiteur a été publiquement accusé de viol en mars 2020 par une autre streameuse connue sous le pseudo de Willokhlass, qui était sa petite amie au moment des faits.\n\nLefouBruiteur a nié les accusations et a porté plainte pour diffamation. Il a affirmé en 2023 que Willokhlass avait été condamnée pour diffamation.\n\nCependant, Willokhlass a indiqué que sa plainte pour viol n\'avait pas été traitée et a fait appel de la condamnation pour diffamation. En janvier 2024, elle a été innocentée en appel.'
+    },
     {
         nom: 'Arthur',
         photo: 'Arthur.jpg',
