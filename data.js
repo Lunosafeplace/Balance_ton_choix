@@ -6,6 +6,12 @@
         infosSupplementaires: 'Homme politique\n\nDeux premières femmes l\'ont mis en cause en mai 2022. L\'une l\'accuse de viol sous soumission chimique en 2010, et l\'autre de viol en 2011. Cette dernière avait déposé plainte à deux reprises, classées sans suite.\n\nUne troisième femme (Laëtitia) l\'accuse de tentative de viol en 2010. Elle a porté plainte en juin 2022.\n\nUne quatrième femme l\'accuse de viol par soumission chimique en 2013.'
     },
     {
+        nom: 'Arthur',
+        photo: 'Arthur.jpg',
+        reponse :'pas-condamne',
+        infosSupplementaires: ' Animateur, producteur, homme d\'affaires, acteur, scénariste\n\nDes remarques sexistes, des baisers et des gestes non consentis envers les candidates de l\'émission. Ces accusations ont été soulevées par une vidéo de la journaliste luxembourgeoise Alice Welter.\n\nIl a qualifié cette période d\'« une autre époque » et, via sa société de production SAMARON, a demandé la censure de toutes les archives de l\'émission diffusées sur le web.'
+    },
+    {
         nom: 'Palmade, Pierre',
         photo: 'Pierre_Palmade.jpg',
         reponse: 'pas-condamne',
