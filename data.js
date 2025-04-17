@@ -5,7 +5,25 @@
         reponse: 'pas-condamne',
         infosSupplementaires: 'Homme politique\n\nDeux premières femmes l\'ont mis en cause en mai 2022. L\'une l\'accuse de viol sous soumission chimique en 2010, et l\'autre de viol en 2011. Cette dernière avait déposé plainte à deux reprises, classées sans suite.\n\nUne troisième femme (Laëtitia) l\'accuse de tentative de viol en 2010. Elle a porté plainte en juin 2022.\n\nUne quatrième femme l\'accuse de viol par soumission chimique en 2013.'
     },
-          {
+    {
+        nom: 'Mr WaynZ',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Influenceur\n\nLe streamer « Mr WaynZ », de son vrai nom Yannick Nascimiento, a été condamné par la cour d\'assises de Paris à 18 ans de réclusion criminelle. Il a été reconnu coupable de viols, de violences, de séquestrations et d\'escroqueries commis sur plusieurs de ses conjointes.\n\nIl était également jugé pour tentative de meurtre sur une conjointe, mais la cour ne l\'a pas reconnu coupable de ce chef d\'accusation. Il a cependant été reconnu coupable de séquestration et de violences volontaires sur cette victime.\n\nLes victimes étaient pour la plupart des femmes fragiles, rencontrées dans le milieu des jeux en ligne où « Mr WaynZ » était un YouTubeur et streamer influent. Au cours du procès, il a été décrit comme un gamer drôle mais impulsif, jaloux et dominateur dans la sphère privée. L\'accusé a évoqué une enfance difficile et a présenté ses excuses aux victimes.'
+    },
+    {
+        nom: 'Castronovo, Illan',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Star de télé-réalité\n\nIllan Castronovo a fait l\'objet d\'une information judiciaire pour viols en 2018, suite à des plaintes de deux jeunes femmes. Elles l\'accusent (ainsi que Julien Bert) d\'avoir profité de leur état d\'inconscience après avoir consommé des boissons qu\'il leur avait offertes en boîte de nuit.\n\nIl avait déjà été accusé d\'agressions sexuelles et de harcèlement par d\'autres candidates de téléréalité, et une enquête préliminaire pour viol sur un tiers avait été ouverte à Nice en 2021.'
+    },
+    {
+        nom: 'Bert, Julien',
+        photo: 'Personne.png',
+        reponse: 'condamne',
+        infosSupplementaires: 'Star de télé-réalité\n\nLe nom de Julien Bert est mentionné dans le cadre d\'une information judiciaire ouverte à Blois concernant des accusations de viol. Deux jeunes femmes l\'accusent, ainsi qu\'Illan Castronovo, d\'avoir profité de leur état d\'inconscience après avoir consommé des boissons offertes dans une boîte de nuit en 2018.\n\nPar ailleurs, Julien Bert a été reconnu coupable de violences conjugales envers son ex-compagne, Hilona Gos. Le tribunal correctionnel d\'Aix-en-Provence l\'a condamné à un an de prison ferme et un an de sursis probatoire, incluant une obligation de soins, d\'indemnisation et une interdiction de contact avec Hilona Gos.\n\nJulien Bert a annoncé son intention de faire appel de cette condamnation.'
+    }, 
+    {
         nom: 'Baer, Edouard',
         photo: 'Edouard_Baer.jpg',
         reponse: 'pas-condamne',
