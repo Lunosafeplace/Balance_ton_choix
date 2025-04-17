@@ -27,13 +27,13 @@
         nom: 'Baer, Edouard',
         photo: 'Edouard_Baer.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: '	Auteur, metteur en scène, comédien, producteur, animateur, scénariste, réalisateur\n\nLe comédien Édouard Baer est accusé de harcèlement sexuel et d\'agressions sexuelles. Ces accusations proviennent d\'une enquête conjointe de Mediapart et du magazine Cheek, publiée le 23 mai 2024. Les faits reprochés se seraient déroulés entre 2013 et 2021, principalement dans un cadre professionnel.\n\nSix femmes ont témoigné dans cette enquête. Édouard Baer a exprimé ses regrets et présenté ses excuses, déclarant ne pas se reconnaître dans les actes qui lui sont reprochés, mais reconnaissant ne pas avoir su percevoir le malaise ou la souffrance causés.'
+        infosSupplementaires: 'Auteur, metteur en scène, comédien, producteur, animateur, scénariste, réalisateur\n\nLe comédien Édouard Baer est accusé de harcèlement sexuel et d\'agressions sexuelles. Ces accusations proviennent d\'une enquête conjointe de Mediapart et du magazine Cheek, publiée le 23 mai 2024. Les faits reprochés se seraient déroulés entre 2013 et 2021, principalement dans un cadre professionnel.\n\nSix femmes ont témoigné dans cette enquête. Édouard Baer a exprimé ses regrets et présenté ses excuses, déclarant ne pas se reconnaître dans les actes qui lui sont reprochés, mais reconnaissant ne pas avoir su percevoir le malaise ou la souffrance causés.'
     },
     {
         nom: 'Maalouf, Ibrahim',
         photo: 'Ibrahim_Maalouf.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: ' Trompettiste de jazz, pianiste de jazz, compositeur\n\nIbrahim Maalouf a été visé par une enquête préliminaire en janvier 2016, suite à une plainte de parents l\'accusant d\'avoir embrassé à plusieurs reprises leur fille de quatorze ans et d\'avoir mimé un acte sexuel fin 2013.\n\nLa procureure du tribunal de Créteil a retenu l\'« atteinte sexuelle ». Ibrahim Maalouf a été condamné par le Tribunal correctionnel en 2018, mais relaxé par la cour d\'appel de Paris le 8 juillet 2020. Selon lui, l\'adolescente aurait menti et l\'affaire aurait été amplifiée par la presse.\n\nLa cour d\'appel a estimé qu\'il n\'avait pas eu un comportement approprié envers la jeune fille, en échangeant des messages « totalement inadaptés », qualifiés de « nauséabonds » par lui-même, mais a rappelé qu\'elle n\'était pas saisie pour ces faits précis.'
+        infosSupplementaires: 'Trompettiste de jazz, pianiste de jazz, compositeur\n\nIbrahim Maalouf a été visé par une enquête préliminaire en janvier 2016, suite à une plainte de parents l\'accusant d\'avoir embrassé à plusieurs reprises leur fille de quatorze ans et d\'avoir mimé un acte sexuel fin 2013.\n\nLa procureure du tribunal de Créteil a retenu l\'« atteinte sexuelle ». Ibrahim Maalouf a été condamné par le Tribunal correctionnel en 2018, mais relaxé par la cour d\'appel de Paris le 8 juillet 2020. Selon lui, l\'adolescente aurait menti et l\'affaire aurait été amplifiée par la presse.\n\nLa cour d\'appel a estimé qu\'il n\'avait pas eu un comportement approprié envers la jeune fille, en échangeant des messages « totalement inadaptés », qualifiés de « nauséabonds » par lui-même, mais a rappelé qu\'elle n\'était pas saisie pour ces faits précis.'
     },          
     {
         nom: 'Mbappé, Kylian',
@@ -57,13 +57,13 @@
         nom: 'Arthur',
         photo: 'Arthur.jpg',
         reponse :'pas-condamne',
-        infosSupplementaires: ' Animateur, producteur, homme d\'affaires, acteur, scénariste\n\nDes remarques sexistes, des baisers et des gestes non consentis envers les candidates de l\'émission. Ces accusations ont été soulevées par une vidéo de la journaliste luxembourgeoise Alice Welter.\n\nIl a qualifié cette période d\'« une autre époque » et, via sa société de production SAMARON, a demandé la censure de toutes les archives de l\'émission diffusées sur le web.'
+        infosSupplementaires: 'Animateur, producteur, homme d\'affaires, acteur, scénariste\n\nDes remarques sexistes, des baisers et des gestes non consentis envers les candidates de l\'émission. Ces accusations ont été soulevées par une vidéo de la journaliste luxembourgeoise Alice Welter.\n\nIl a qualifié cette période d\'« une autre époque » et, via sa société de production SAMARON, a demandé la censure de toutes les archives de l\'émission diffusées sur le web.'
     },
     {
         nom: 'Palmade, Pierre',
         photo: 'Pierre_Palmade.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: '	Humoriste, acteur, scénariste\n\nUn homme de 19 ans, avec qui Pierre Palmade avait passé la nuit, l\'a accusé de viol.\n\nAprès une enquête de flagrance et une garde à vue, l\'accusateur a reconnu avoir menti.'
+        infosSupplementaires: 'Humoriste, acteur, scénariste\n\nUn homme de 19 ans, avec qui Pierre Palmade avait passé la nuit, l\'a accusé de viol.\n\nAprès une enquête de flagrance et une garde à vue, l\'accusateur a reconnu avoir menti.'
     },
     {
         nom: 'Hanouna, Cyril',
@@ -255,7 +255,7 @@
         nom: 'Lanzmann, Claude',
         photo: 'Claude_Lanzmann.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: '	Journaliste, producteur, scénariste, documentariste, réalisateur, écrivain\n\n2012 (Aéroport de Tel Aviv) : Une employée de sécurité de l\'aéroport a déclaré avoir été embrassée de force par Claude Lanzmann. Ce dernier a répondu à cet incident dans un article du Monde.\n\nOctobre 2017 (Mouvement MeToo) : La journaliste néerlandaise Joyce Roodnat a raconté qu\'en 1985, lors d\'une interview à son domicile concernant le film Shoah, Claude Lanzmann lui avait imposé des contacts physiques non consentis. Elle a réitéré ces accusations à la télévision néerlandaise, ajoutant que deux autres femmes journalistes lui avaient rapporté avoir subi des procédés similaires de la part de Lanzmann.\n\nAllemagne : La journaliste Natascha Freundel a raconté dans un article que Claude Lanzmann avait essayé de l\'embrasser de force après une interview, qualifiant ce geste de "répugnant".'
+        infosSupplementaires: 'Journaliste, producteur, scénariste, documentariste, réalisateur, écrivain\n\n2012 (Aéroport de Tel Aviv) : Une employée de sécurité de l\'aéroport a déclaré avoir été embrassée de force par Claude Lanzmann. Ce dernier a répondu à cet incident dans un article du Monde.\n\nOctobre 2017 (Mouvement MeToo) : La journaliste néerlandaise Joyce Roodnat a raconté qu\'en 1985, lors d\'une interview à son domicile concernant le film Shoah, Claude Lanzmann lui avait imposé des contacts physiques non consentis. Elle a réitéré ces accusations à la télévision néerlandaise, ajoutant que deux autres femmes journalistes lui avaient rapporté avoir subi des procédés similaires de la part de Lanzmann.\n\nAllemagne : La journaliste Natascha Freundel a raconté dans un article que Claude Lanzmann avait essayé de l\'embrasser de force après une interview, qualifiant ce geste de "répugnant".'
     },      
     {
         nom: 'Wass Freestyle',
@@ -297,7 +297,7 @@
         nom: 'Roth, François-Xavier',
         photo: 'Francois-Xavier_Roth.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: '	Chef d\'orchestre\n\nEn mai 2024, le magazine d\'investigation français Le Canard Enchaîné a rapporté les accusations de sept femmes affirmant que Roth leur avait envoyé de nombreux messages à caractère sexuel. Ces messages ont été décrits comme non désirés et créant un malaise chez les destinataires. Sans admettre explicitement le harcèlement, Roth a reconnu avoir eu des "échanges intimes par téléphone" et s\'est excusé auprès de ceux qu\'il "aurait pu choquer".\n\nEn décembre 2024, des informations ont indiqué que l\'enquête pénale concernant François-Xavier Roth avait été classée sans suite par le parquet de Cologne, faute de suspicion suffisante.'
+        infosSupplementaires: 'Chef d\'orchestre\n\nEn mai 2024, le magazine d\'investigation français Le Canard Enchaîné a rapporté les accusations de sept femmes affirmant que Roth leur avait envoyé de nombreux messages à caractère sexuel. Ces messages ont été décrits comme non désirés et créant un malaise chez les destinataires. Sans admettre explicitement le harcèlement, Roth a reconnu avoir eu des "échanges intimes par téléphone" et s\'est excusé auprès de ceux qu\'il "aurait pu choquer".\n\nEn décembre 2024, des informations ont indiqué que l\'enquête pénale concernant François-Xavier Roth avait été classée sans suite par le parquet de Cologne, faute de suspicion suffisante.'
     },
     {
         nom: 'Letort, Bruno',
@@ -315,7 +315,7 @@
         nom: 'Cantat, Bertrand',
         photo: 'Bertrand_Cantat.jpg',
         reponse: 'condamne',
-        infosSupplementaires: '	Guitariste, auteur-compositeur-interprète\n\nDurant un tournage de téléfilm à Vilnius, en Lituanie, en juillet 2003, une violente dispute éclate entre Bertrand Cantat et Marie Trintignant. Au cours de cette altercation, Bertrand Cantat porte plusieurs coups au visage de Marie Trintignant. Marie Trintignant décède le 1er août 2003 des suites des lésions cérébrales causées par les coups.\n\nBertrand Cantat est arrêté et jugé en Lituanie, où les faits se sont déroulés.\n\nEn janvier 2004, il est condamné à huit ans de prison pour homicide involontaire (et non pour meurtre, le tribunal lituanien n\'ayant pas retenu l\'intention de tuer).\n\nAprès avoir purgé une partie de sa peine en Lituanie puis en France, il est libéré conditionnellement en octobre 2007, après avoir effectué un peu plus de quatre ans de prison. Cette libération conditionnelle était assortie de conditions, notamment un suivi psychologique.\n\nSa libération conditionnelle a pris fin en 2011.'
+        infosSupplementaires: 'Guitariste, auteur-compositeur-interprète\n\nDurant un tournage de téléfilm à Vilnius, en Lituanie, en juillet 2003, une violente dispute éclate entre Bertrand Cantat et Marie Trintignant. Au cours de cette altercation, Bertrand Cantat porte plusieurs coups au visage de Marie Trintignant. Marie Trintignant décède le 1er août 2003 des suites des lésions cérébrales causées par les coups.\n\nBertrand Cantat est arrêté et jugé en Lituanie, où les faits se sont déroulés.\n\nEn janvier 2004, il est condamné à huit ans de prison pour homicide involontaire (et non pour meurtre, le tribunal lituanien n\'ayant pas retenu l\'intention de tuer).\n\nAprès avoir purgé une partie de sa peine en Lituanie puis en France, il est libéré conditionnellement en octobre 2007, après avoir effectué un peu plus de quatre ans de prison. Cette libération conditionnelle était assortie de conditions, notamment un suivi psychologique.\n\nSa libération conditionnelle a pris fin en 2011.'
     },
     {
         nom: 'Pistorius, Oscar',
@@ -345,13 +345,13 @@
         nom: 'Racle, Jean-Roland',
         photo: 'Personne.png',
         reponse: 'pas-condamne',
-        infosSupplementaires: '	Patineur artistique, entraîneur de patinage artistique\n\nHélène Godard, une de ses anciennes élèves mineures, l\'a accusé de viol et d\'agressions sexuelles, affirmant avoir subi des "attouchements" sexuels lorsqu\'elle avait entre 15 et 16 ans et qu\'il l\'hébergeait avec son épouse.\n\nBien que ces accusations aient été rendues publiques, Jean-Roland Racle n\'a pas été poursuivi en justice, car les faits étaient prescrits.'
+        infosSupplementaires: 'Patineur artistique, entraîneur de patinage artistique\n\nHélène Godard, une de ses anciennes élèves mineures, l\'a accusé de viol et d\'agressions sexuelles, affirmant avoir subi des "attouchements" sexuels lorsqu\'elle avait entre 15 et 16 ans et qu\'il l\'hébergeait avec son épouse.\n\nBien que ces accusations aient été rendues publiques, Jean-Roland Racle n\'a pas été poursuivi en justice, car les faits étaient prescrits.'
     },
     {
         nom: 'Samba, Giscard',
         photo: 'Personne.png',
         reponse: 'pas-condamne',
-        infosSupplementaires: '	Entraîneur d\'athlétisme\n\nPlusieurs athlètes, dont Pascal Martinot-Lagarde et Cindy Billaud, ont témoigné de pratiques inacceptables de la part de Samba, évoquant des humiliations et des allusions sexuelles récurrentes. Cindy Billaud a déclaré avoir "vécu 14 ans d\'humiliation".\n\nUne enquête préliminaire a été ouverte par le parquet de Créteil suite à une plainte. Une jeune femme, alors âgée de 22 ans, avait décrit plusieurs relations sexuelles imposées en 2016 par son ancien entraîneur à l\'US Créteil.\n\nL\'enquête ouverte pour "viol, agression sexuelle et harcèlement sexuel" a été classée sans suite par le parquet de Créteil en février 2019.'
+        infosSupplementaires: 'Entraîneur d\'athlétisme\n\nPlusieurs athlètes, dont Pascal Martinot-Lagarde et Cindy Billaud, ont témoigné de pratiques inacceptables de la part de Samba, évoquant des humiliations et des allusions sexuelles récurrentes. Cindy Billaud a déclaré avoir "vécu 14 ans d\'humiliation".\n\nUne enquête préliminaire a été ouverte par le parquet de Créteil suite à une plainte. Une jeune femme, alors âgée de 22 ans, avait décrit plusieurs relations sexuelles imposées en 2016 par son ancien entraîneur à l\'US Créteil.\n\nL\'enquête ouverte pour "viol, agression sexuelle et harcèlement sexuel" a été classée sans suite par le parquet de Créteil en février 2019.'
     },
     {
         nom: 'Prigent, Jean-Yves',
@@ -789,7 +789,7 @@
         nom: 'Poelvoorde, Benoît',
         photo: 'Benoit_Poelvoorde.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: '	Acteur, scénariste, réalisateur, humoriste\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
+        infosSupplementaires: 'Acteur, scénariste, réalisateur, humoriste\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.'
     },
     {
         nom: 'Richard, Pierre',
@@ -813,7 +813,7 @@
         nom: 'Attal, Yvan',
         photo: 'Yvan_Attal.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: '	Acteur, réalisateur, scénariste, dialoguiste\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nYvan Attal admet, dans les jours suivants, sur BFM TV, « son malaise avec cette pétition qui ne lui va pas totalement » et précise qu\'il aurait demandé en vain la reformulation de certains passages de la tribune avant de la signer, mais affirme avoir signé « parce qu\'il y avait quelque chose de plus fort que ce qui me dérangeait dans cette pétition ».\n\nLe 20 janvier, dans l\'émission Quelle époque !, Yvan Attal revient une nouvelle fois sur la tribune et assume ne pas avoir retiré sa signature, mais il parle d\'« une erreur » et qualifie le texte d\'« abominable ».'
+        infosSupplementaires: 'Acteur, réalisateur, scénariste, dialoguiste\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nYvan Attal admet, dans les jours suivants, sur BFM TV, « son malaise avec cette pétition qui ne lui va pas totalement » et précise qu\'il aurait demandé en vain la reformulation de certains passages de la tribune avant de la signer, mais affirme avoir signé « parce qu\'il y avait quelque chose de plus fort que ce qui me dérangeait dans cette pétition ».\n\nLe 20 janvier, dans l\'émission Quelle époque !, Yvan Attal revient une nouvelle fois sur la tribune et assume ne pas avoir retiré sa signature, mais il parle d\'« une erreur » et qualifie le texte d\'« abominable ».'
     },
     {
         nom: 'Blier, Bertrand',
@@ -849,7 +849,7 @@
         nom: 'Leconte, Patrice',
         photo: 'Patrice_Leconte.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: '	Réalisateur, scénariste, metteur en scène\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nLe 2 janvier, Patrice Leconte déclare regretter de l\'avoir signée, notamment à cause du positionnement politique de Yannis Ezziadi. Il précise : « Quand on me dit qu\'il n\'est pas exemplaire, je veux bien le croire, je le crois parce que je le sais. Je ne cherche pas à le défendre, ni à l\'accabler. Mais cette mise à mort, ce lynchage m\'effraie un peu. Peut-être que c\'est mérité, je ne sais pas », et ajoute « Je pense que Gérard Depardieu ne fera plus de cinéma, hélas ».'
+        infosSupplementaires: 'Réalisateur, scénariste, metteur en scène\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nLe 2 janvier, Patrice Leconte déclare regretter de l\'avoir signée, notamment à cause du positionnement politique de Yannis Ezziadi. Il précise : « Quand on me dit qu\'il n\'est pas exemplaire, je veux bien le croire, je le crois parce que je le sais. Je ne cherche pas à le défendre, ni à l\'accabler. Mais cette mise à mort, ce lynchage m\'effraie un peu. Peut-être que c\'est mérité, je ne sais pas », et ajoute « Je pense que Gérard Depardieu ne fera plus de cinéma, hélas ».'
     },
     {
         nom: 'Sansal, Boualem',
@@ -861,7 +861,7 @@
         nom: 'Berling, Charles',
         photo: 'Charles_Berling.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: '	Acteur, metteur en scène, directeur de théâtre, réalisateur, scénariste, producteur, chanteur\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nCharles Berling déclare : « Je combats au quotidien les idées d\'extrême droite portées par son auteur, je regrette le manque de nuance et les raccourcis de ce texte et j\'entends l\'indignation qu\'il suscite » et affirme l\'avoir signé « en tant que citoyen, artiste et responsable culturel, je défends la légitimité de la justice contre les effets de horde et de meute et c\'est cette haine collective, rendue possible par l\'usage massif des réseaux sociaux que j\'ai voulu dénoncer ».'
+        infosSupplementaires: 'Acteur, metteur en scène, directeur de théâtre, réalisateur, scénariste, producteur, chanteur\n\nEn décembre 2023, il a signé une tribune controversée intitulée "N\'effacez pas Gérard Depardieu", visant à défendre la présomption d\'innocence de Gérard Depardieu, alors accusé de viol, agression sexuelle et harcèlement sexuel. Cette prise de position a été critiquée par certaines personnes qui y ont vu un soutien aux agresseurs présumés.\n\nCharles Berling déclare : « Je combats au quotidien les idées d\'extrême droite portées par son auteur, je regrette le manque de nuance et les raccourcis de ce texte et j\'entends l\'indignation qu\'il suscite » et affirme l\'avoir signé « en tant que citoyen, artiste et responsable culturel, je défends la légitimité de la justice contre les effets de horde et de meute et c\'est cette haine collective, rendue possible par l\'usage massif des réseaux sociaux que j\'ai voulu dénoncer ».'
     },
     {
         nom: 'Ezziadi, Yannis',
