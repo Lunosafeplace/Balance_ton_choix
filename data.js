@@ -12,6 +12,12 @@
         infosSupplementaires: 'Influenceur\n\nLe streamer « Mr WaynZ », de son vrai nom Yannick Nascimiento, a été condamné par la cour d\'assises de Paris à 18 ans de réclusion criminelle. Il a été reconnu coupable de viols, de violences, de séquestrations et d\'escroqueries commis sur plusieurs de ses conjointes.\n\nIl était également jugé pour tentative de meurtre sur une conjointe, mais la cour ne l\'a pas reconnu coupable de ce chef d\'accusation. Il a cependant été reconnu coupable de séquestration et de violences volontaires sur cette victime.\n\nLes victimes étaient pour la plupart des femmes fragiles, rencontrées dans le milieu des jeux en ligne où « Mr WaynZ » était un YouTubeur et streamer influent. Au cours du procès, il a été décrit comme un gamer drôle mais impulsif, jaloux et dominateur dans la sphère privée. L\'accusé a évoqué une enfance difficile et a présenté ses excuses aux victimes.'
     },
     {
+        nom: 'Imbert, Jean',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Chef cuisinier, animateur\n\nUne enquête du Elle, parue le 23 avril 2025, l\'accuse de violences conjugales (psychologiques et physiques) sur plusieurs anciennes compagnes.'
+    },
+    {
         nom: 'Castronovo, Illan',
         photo: 'Personne.png',
         reponse: 'pas-condamne',
