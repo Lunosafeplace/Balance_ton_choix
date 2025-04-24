@@ -6,6 +6,12 @@
         infosSupplementaires: 'Homme politique\n\nDeux premières femmes l\'ont mis en cause en mai 2022. L\'une l\'accuse de viol sous soumission chimique en 2010, et l\'autre de viol en 2011. Cette dernière avait déposé plainte à deux reprises, classées sans suite.\n\nUne troisième femme (Laëtitia) l\'accuse de tentative de viol en 2010. Elle a porté plainte en juin 2022.\n\nUne quatrième femme l\'accuse de viol par soumission chimique en 2013.'
     },
     {
+        nom: 'Ravier, Stéphane',
+        photo: 'Stéphane_Ravier.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Homme politique, fonctionnaire\n\nEn 2013, Stéphane Ravier, candidat FN à Marseille, a suscité la polémique en comparant le viol à un "rapport amoureux, qu\'une partie des deux souhaite. La deuxième pourrait faire un effort.", lors d\'une émission télévisée. Il a justifié cela comme une "réponse par l\'absurde" à une question sur la légalisation du cannabis.\n\nCondamné en première instance pour "injure sexiste" après un jeu de mots sur la sénatrice Samia Ghali en 2019 (« La sénatrice Samia G., c’est le point G. de Marseille ! »), il a finalement été relaxé en appel, la cour estimant que le propos n\'était pas une injure sexiste.'
+    },
+    {
         nom: 'Mr WaynZ',
         photo: 'Personne.png',
         reponse: 'condamne',
