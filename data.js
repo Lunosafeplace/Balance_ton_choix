@@ -6,6 +6,108 @@
         infosSupplementaires: 'Homme politique\n\nDeux premières femmes l\'ont mis en cause en mai 2022. L\'une l\'accuse de viol sous soumission chimique en 2010, et l\'autre de viol en 2011. Cette dernière avait déposé plainte à deux reprises, classées sans suite.\n\nUne troisième femme (Laëtitia) l\'accuse de tentative de viol en 2010. Elle a porté plainte en juin 2022.\n\nUne quatrième femme l\'accuse de viol par soumission chimique en 2013.'
     },
     {
+        nom: 'Niel, Jérôme',
+        photo: 'Jérôme_Niel.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: '	Acteur, vidéaste, humoriste\n\nLola Cadet, ancienne compagne de Jérôme Niel, a publiquement dénoncé sur Instagram des "abus" et une "emprise" qu\'elle aurait subis. Par la suite, une enquête du Nouvel Obs a relayé ses accusations de violences psychologiques, et elle a annoncé avoir porté plainte contre l\'humoriste pour violences conjugales.\n\nDe son côté, Jérôme Niel, par l\'intermédiaire de son avocate, a fait savoir qu\'il portait plainte contre Lola Cadet pour cyberharcèlement.'
+    },
+    {
+        nom: 'Arial, Nino',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Humoriste\n\nSuite à des critiques concernant d\'anciens sketchs jugés sexistes, l\'humoriste Nino Arial a réagi de manière virulente sur Instagram, insultant les féministes en les qualifiant de "folles, hystériques et débiles" et de "frustrées".\n\nDe plus, une ancienne vidéo a refait surface où il tient des propos problématiques sur le consentement dans le contexte de #MeToo, suggérant qu\'un "oui" initial par message impliquerait un consentement à vie, minimisant ainsi la notion de consentement continu et révocable.\n\nCes propos ont été largement critiqués en ligne, suscitant l\'indignation des internautes qui y voient une banalisation du consentement et un manque de remise en question de la part de l\'humoriste.'
+    },          
+    {
+        nom: 'Agnel, Yannick',
+        photo: 'Yannick_Agnel.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Nageur\n\nYannick Agnel a été mis en examen pour viol et agression sexuelle sur mineure de moins de 15 ans suite à la plainte de Naome Horter, qui relate des faits survenus en 2016 lorsqu\'elle avait 13 ans et lui 24. Bien qu\'il ait reconnu la matérialité des actes lors de sa garde à vue, il a nié toute contrainte et évoqué un "consentement".\n\nUne suspicion d\'atteinte sexuelle sur une autre mineure a également émergé durant l\'enquête.\n\nÀ ce jour, il n\'y a pas eu de condamnation dans cette affaire. L\'enquête a été clôturée et le parquet a requis son renvoi devant la cour criminelle, mais la décision du juge et un éventuel procès sont toujours en attente.'
+    },
+    {
+        nom: 'Tayc',
+        photo: 'Tayc.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Chanteur\n\nEn août 2021, Tayc a été critiqué pour une interaction jugée déplacée avec une spectatrice lors d\'un showcase.\n\nEn août 2022, il a été impliqué dans la séparation d\'un couple après avoir invité une fan sur scène lors d\'un concert en Côte d\'Ivoire.\n\nEn septembre 2022, une vidéo de lui sentant une petite culotte lancée sur scène a créé une polémique virale.\n\nEn février 2023, sa chanson "Quand tu dors" a suscité de vives réactions, étant accusée de faire l\'apologie du viol conjugal, ce qui l\'a poussé à présenter ses excuses et à retirer temporairement le titre pour le réécrire. Parallèlement, les paroles d\'une autre de ses chansons, "Entremood" datant de 2019, ont refait surface et ont été critiquées pour leur formulation ambigüe concernant une mineure.'
+    },    
+    {
+        nom: 'AD Laurent',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Acteur pornographique, influenceur\n\nEn mars 2024, Adrien Laurent a été accusé de viols aggravés par une femme pour des faits remontant à 2018 en Australie (relation sexuelle non protégée et fellation forcée). Il a nié, qualifiant la plainte de "sketch", tandis que la plaignante affirme des faits précis avec des preuves.'
+    },
+    {
+        nom: 'La Menace',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nLe youtubeur "La Menace", Maxime Alexandrov, a été accusé de violences conjugales par son ex-compagne.\n\nCondamné en première instance en mars 2023, il a fait appel et a finalement été relaxé par la cour d\'appel de Bordeaux le 29 février 2024. La relaxe a été prononcée car la plaignante a admis par courrier avoir menti dans ses déclarations initiales.'
+    },
+    {
+        nom: 'Naps',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Rappeur, chanteur\n\nEn octobre 2021, Naps a été visé par une enquête pour viol suite à la plainte d\'une femme. Il a nié et porté plainte pour dénonciation calomnieuse, mais a été renvoyé devant la cour criminelle en 2024 (décision faisant l\'objet d\un appel de son avocat).\n\nEn août 2024, il a été interpellé et mis en examen pour de nouvelles accusations d\'agressions sexuelles et de viols par trois femmes majeures, faits qu\'il conteste également.\n\nIl a ensuite été incarcéré pour non-respect de son contrôle judiciaire.'
+    },
+    {
+        nom: 'Berrebi, Ethan',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nEst sorti avec une mineur alors qu\il était largement majeur.\n\nS\est moqué de l\'inceste, faisant croire qu\il sortait avec sa soeur.\n\nA soutenu AD Laurent.'
+    },          
+    {
+        nom: 'Neoxys',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nLe créateur de la chaîne Youtube "Trash" a été accusé par deux femmes de viol, dont une qui a porté plainte pour viol aggravé.'
+    },
+    {
+        nom: 'Nono Mlt',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nAccusé de viol et de violence sexuelle.'
+    },    
+    {
+        nom: 'Aksyle',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nAccusé de violence sexuelle, psychologique et sexiste.'
+    },
+    {
+        nom: 'Marttiste',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nAccusé de viol.'
+    },
+    {
+        nom: 'Goretti, Antoine',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nSéquestration à domicile suite au refus de coucher avec lui.'
+    },          
+    {
+        nom: 'Syadel',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nAccusé de viol'
+    },    
+    {
+        nom: 'Adamdesagesse',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Influenceur\n\nAccusé d\agressions sexuelles et de viols envers des personnes beaucoup plus jeunes que lui.'
+    },
+    {
+        nom: 'Nekfeu',
+        photo: 'Nekfeu.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: '	Rappeur, chanteur, auteur-compositeur-interprète, acteur, réalisateur, directeur de photographie\n\nEn novembre 2024, l\'ex-femme de Nekfeu a porté plainte contre lui pour des faits de viols et de violences répétées sur une période de 4 ans. Nekfeu a contesté ces accusations, précisant que certaines avaient été classées sans suite pour manque de preuves. Il a également affirmé que son ex-femme avait été interpellée pour non-représentation d\'enfant.\n\nParallèlement, cette dernière a maintenu ses accusations de violence et de contrôle coercitif, et a déposé une nouvelle plainte pour "violences sur mineur de 15 ans par personne ayant ascendant".'
+    },
+    {
+        nom: 'Gringe',
+        photo: 'Gringe.jpg',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Rappeur, acteur, écriveain\n\nAncien membre du groupe Casseurs Flowters avec Orelsan, Gringe est accusé d\avoir demandé des nudes à des mineures.'
+    },          
+    {
         nom: 'Ravier, Stéphane',
         photo: 'Stéphane_Ravier.jpg',
         reponse: 'pas-condamne',
