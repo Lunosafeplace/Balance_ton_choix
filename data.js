@@ -45,7 +45,7 @@
         nom: 'Naps',
         photo: 'Personne.png',
         reponse: 'pas-condamne',
-        infosSupplementaires: 'Rappeur, chanteur\n\nEn octobre 2021, Naps a été visé par une enquête pour viol suite à la plainte d\'une femme. Il a nié et porté plainte pour dénonciation calomnieuse, mais a été renvoyé devant la cour criminelle en 2024 (décision faisant l\'objet d\un appel de son avocat).\n\nEn août 2024, il a été interpellé et mis en examen pour de nouvelles accusations d\'agressions sexuelles et de viols par trois femmes majeures, faits qu\'il conteste également.\n\nIl a ensuite été incarcéré pour non-respect de son contrôle judiciaire.'
+        infosSupplementaires: 'Rappeur, chanteur\n\nEn octobre 2021, Naps a été visé par une enquête pour viol suite à la plainte d\'une femme. Il a nié et porté plainte pour dénonciation calomnieuse, mais a été renvoyé devant la cour criminelle en 2024 (décision faisant l\'objet d\'un appel de son avocat).\n\nEn août 2024, il a été interpellé et mis en examen pour de nouvelles accusations d\'agressions sexuelles et de viols par trois femmes majeures, faits qu\'il conteste également.\n\nIl a ensuite été incarcéré pour non-respect de son contrôle judiciaire.'
     },
     {
         nom: 'Berrebi, Ethan',
