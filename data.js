@@ -51,7 +51,7 @@
         nom: 'Berrebi, Ethan',
         photo: 'Personne.png',
         reponse: 'pas-condamne',
-        infosSupplementaires: 'Influenceur\n\nEst sorti avec une mineur alors qu\il était largement majeur.\n\nS\est moqué de l\'inceste, faisant croire qu\il sortait avec sa soeur.\n\nA soutenu AD Laurent.'
+        infosSupplementaires: 'Influenceur\n\nEst sorti avec une mineur alors qu\'il était largement majeur.\n\nS\'est moqué de l\'inceste, faisant croire qu\'il sortait avec sa soeur.\n\nA soutenu AD Laurent.'
     },          
     {
         nom: 'Neoxys',
