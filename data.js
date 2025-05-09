@@ -9,7 +9,7 @@
         nom: 'Niel, Jérôme',
         photo: 'Jérôme_Niel.jpg',
         reponse: 'pas-condamne',
-        infosSupplementaires: '	Acteur, vidéaste, humoriste\n\nLola Cadet, ancienne compagne de Jérôme Niel, a publiquement dénoncé sur Instagram des "abus" et une "emprise" qu\'elle aurait subis. Par la suite, une enquête du Nouvel Obs a relayé ses accusations de violences psychologiques, et elle a annoncé avoir porté plainte contre l\'humoriste pour violences conjugales.\n\nDe son côté, Jérôme Niel, par l\'intermédiaire de son avocate, a fait savoir qu\'il portait plainte contre Lola Cadet pour cyberharcèlement.'
+        infosSupplementaires: 'Acteur, vidéaste, humoriste\n\nLola Cadet, ancienne compagne de Jérôme Niel, a publiquement dénoncé sur Instagram des "abus" et une "emprise" qu\'elle aurait subis. Par la suite, une enquête du Nouvel Obs a relayé ses accusations de violences psychologiques, et elle a annoncé avoir porté plainte contre l\'humoriste pour violences conjugales.\n\nDe son côté, Jérôme Niel, par l\'intermédiaire de son avocate, a fait savoir qu\'il portait plainte contre Lola Cadet pour cyberharcèlement.'
     },
     {
         nom: 'Arial, Nino',
@@ -46,6 +46,36 @@
         photo: 'Personne.png',
         reponse: 'pas-condamne',
         infosSupplementaires: 'Rappeur, chanteur\n\nEn octobre 2021, Naps a été visé par une enquête pour viol suite à la plainte d\'une femme. Il a nié et porté plainte pour dénonciation calomnieuse, mais a été renvoyé devant la cour criminelle en 2024 (décision faisant l\'objet d\'un appel de son avocat).\n\nEn août 2024, il a été interpellé et mis en examen pour de nouvelles accusations d\'agressions sexuelles et de viols par trois femmes majeures, faits qu\'il conteste également.\n\nIl a ensuite été incarcéré pour non-respect de son contrôle judiciaire.'
+    },
+    {
+        nom: 'Charon, François',
+        photo: 'François Charon',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Chanteur\n\nMembre du groupe Shaka Ponk, son en 2011 en collaboration avec le chanteur Bertrand Cantat (condamné pour meurtre quelques années auparavant). En 2018, ont confirmé leur soutien au chanteur, indiquant qu\il avait purgé sa peine et qu\ils croyaient en sa rédemption.'
+    },
+    {
+        nom: 'Roger, Cyril',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Guitariste\n\nMembre du groupe Shaka Ponk, son en 2011 en collaboration avec le chanteur Bertrand Cantat (condamné pour meurtre quelques années auparavant). En 2018, ont confirmé leur soutien au chanteur, indiquant qu\il avait purgé sa peine et qu\ils croyaient en sa rédemption.'
+    },          
+    {
+        nom: 'Da Cruz, Mandris',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Bassiste\n\nMembre du groupe Shaka Ponk, son en 2011 en collaboration avec le chanteur Bertrand Cantat (condamné pour meurtre quelques années auparavant). En 2018, ont confirmé leur soutien au chanteur, indiquant qu\il avait purgé sa peine et qu\ils croyaient en sa rédemption.'
+    },
+    {
+        nom: 'Meunier, Yohan',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Batteur\n\nMembre du groupe Shaka Ponk, son en 2011 en collaboration avec le chanteur Bertrand Cantat (condamné pour meurtre quelques années auparavant). En 2018, ont confirmé leur soutien au chanteur, indiquant qu\il avait purgé sa peine et qu\ils croyaient en sa rédemption.'
+    },    
+    {
+        nom: 'Desgarceaux, Steve',
+        photo: 'Personne.png',
+        reponse: 'pas-condamne',
+        infosSupplementaires: 'Claviste\n\nMembre du groupe Shaka Ponk, son en 2011 en collaboration avec le chanteur Bertrand Cantat (condamné pour meurtre quelques années auparavant). En 2018, ont confirmé leur soutien au chanteur, indiquant qu\il avait purgé sa peine et qu\ils croyaient en sa rédemption.'
     },
     {
         nom: 'Berrebi, Ethan',
