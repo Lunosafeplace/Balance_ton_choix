@@ -49,7 +49,7 @@
     },
     {
         nom: 'Charon, François',
-        photo: 'François Charon',
+        photo: 'François_Charon.jpg',
         reponse: 'pas-condamne',
         infosSupplementaires: 'Chanteur\n\nMembre du groupe Shaka Ponk, son en 2011 en collaboration avec le chanteur Bertrand Cantat (condamné pour meurtre quelques années auparavant). En 2018, ont confirmé leur soutien au chanteur, indiquant qu\il avait purgé sa peine et qu\ils croyaient en sa rédemption.'
     },
